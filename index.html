@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Residential Electric Rate Data — Illinois, Michigan, Indiana</title>
+  <meta name="description" content="Historical residential electric rate data for 12+ utilities across Illinois, Michigan, and Indiana. Monthly data from 2012-2026 covering energy charges, distribution charges, and 50+ rider surcharges.">
+  <meta name="keywords" content="electric rates, residential electric rates, Illinois, Michigan, Indiana, Ameren, ComEd, DTE, Consumers Energy, utility rates, energy charges, surcharges, riders">
+  <meta name="author" content="Electric Utility Rate Data">
+  <meta property="og:title" content="Residential Electric Rate Data">
+  <meta property="og:description" content="Monthly historical residential electric rates across Illinois, Michigan, and Indiana — 2012 to 2026. 12+ utilities, 50+ riders tracked.">
+  <meta property="og:type" content="website">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      color: #333;
+      background: #fff;
+    }
+    h1 { margin-bottom: 0.25rem; }
+    .sub { color: #666; margin-bottom: 2rem; }
+    .stats { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 2.5rem; }
+    .stat {
+      border: 1px solid #ddd; border-radius: 6px;
+      padding: 16px 24px; text-align: center; flex: 1; min-width: 120px;
+    }
+    .stat .n { font-size: 1.8rem; font-weight: bold; color: #1a73e8; }
+    .stat .l { color: #666; font-size: 0.85rem; }
+    .chart {
+      margin-bottom: 2rem;
+      border: 1px solid #eee;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+    .chart h2 { margin: 0; padding: 12px 16px; font-size: 1rem; background: #fafafa; border-bottom: 1px solid #eee; }
+    .chart img { width: 100%; display: block; }
+    .chart p { margin: 0; padding: 10px 16px; color: #666; font-size: 0.85rem; }
+    .contact-btn {
+      background: #1a73e8;
+      color: #fff;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      display: inline-block;
+      transition: background 0.2s;
+    }
+    .contact-btn:hover { background: #1557b0; }
+    .problem {
+      background: #fafafa;
+      border-left: 4px solid #1a73e8;
+      border-radius: 4px;
+      padding: 20px 24px;
+      margin-bottom: 2.5rem;
+      line-height: 1.7;
+      color: #444;
+    }
+    .problem strong { color: #1a73e8; }
+    footer { margin-top: 3rem; color: #999; font-size: 0.8rem; text-align: center; border-top: 1px solid #eee; padding-top: 1rem; }
+  </style>
+</head>
+<body>
+
+<h1>Residential Electric Rates</h1>
+<p class="sub">Monthly historical residential electric rates across Illinois, Indiana, and Michigan for investor-owned utilities</p>
+
+<div class="stats">
+  <div class="stat"><div class="n">3</div><div class="l">States</div></div>
+  <div class="stat"><div class="n">12</div><div class="l">Utilities</div></div>
+  <div class="stat"><div class="n">14+</div><div class="l">Years</div></div>
+  <div class="stat"><div class="n">50+</div><div class="l">Riders</div></div>
+</div>
+
+<div class="problem">
+  <strong>The Problem</strong><br>
+  Residential electric rate data is scattered across hundreds of regulatory filings, tariff PDFs, and
+  utility informational sheets. There is no single source that tracks the actual dollar amounts billed
+  to customers month over month.<br><br>
+  Rates change constantly — a utility might update its fuel adjustment charge (FAC) every month,
+  adjust energy efficiency riders annually, and file new base rates every few years. Every one of
+  these changes is buried in a different filing, often in different formats across different
+  regulatory commissions. Riders are never standardized between utilities: one utility calls it
+  "Purchased Electricity Adjustment" while another calls it "Fuel Clause." Time-of-Use structures,
+  seasonal splits, and tiered pricing make direct comparisons across utilities nearly impossible
+  without normalizing the data.<br><br>
+  <strong>What This Project Does</strong><br>
+  This database resolves that problem. Every monthly rate value has been extracted from source
+  filings and standardized into a consistent format: service charge, energy charge, distribution
+  charge, surcharges broken down by rider — all in one structured dataset spanning 14+ years.
+  The result is a clean, comparable view of residential electric rates that doesn't exist anywhere
+  else.
+</div>
+
+<div class="chart">
+  <img src="GitHub_Graphs/Ameren_IL_Rates.png" alt="">
+</div>
+
+<div class="chart">
+  <img src="GitHub_Graphs/MI_Comparison.png" alt="">
+</div>
+
+<div class="chart">
+  <img src="GitHub_Graphs/DTE_Rate_Components.png" alt="">
+</div>
+
+<div class="chart">                                                           
+    <h2>Data Coverage</h2>                                                      
+    <div style="padding: 20px; line-height: 1.8; color: #444;">                 
+      <strong>3 States</strong> — Illinois, Indiana, Michigan<br>               
+      <strong>12 Utilities</strong> — Ameren Illinois, ComEd, MidAmerican       
+  Energy, DTE Electric, Consumers Energy, Alpena Power, Northern States Power,
+  Upper Michigan Energy Resources, Upper Peninsula Power, Indiana Michigan
+  Power, AES Indiana<br>
+      <strong>Rate Codes:</strong> Base and Time of Use (TOU) rates where applicable<br>
+      <strong>Data Points:</strong> Service Charge, Energy Charge, Distribution
+  Charge, PSCR Charge, Surcharges (Monthly & per-kWh), Total Rate, Docket,
+  Surcharge/Rider Breakdown<br>
+      <strong>Date Range:</strong> Jan 2012 – Jul 2026 (varies by utility)<br>
+      <strong>Riders Tracked:</strong> 50+ (TS, EECR, ECR, EE, EUA, CEAC, PE,
+  PEA, PRE, PZE, FAC, Nuclear, EWRS, LI, BEAC, RCA, and more)
+    </div>
+  </div>
+
+<div style="text-align: center; margin: 3rem 0;">
+    <a href="mailto:kramere4@protonmail.com" class="contact-btn">CONTACT FOR DATA INQUIRIES</a>
+  </div>  
+
+<footer>
+This website is an independent project and is not affiliated with or endorsed by any corporate entity. Data sourced from company informational filings, regulatory filings, and published tariffs. 
+  
+</footer>
+
+</body>
+</html>
