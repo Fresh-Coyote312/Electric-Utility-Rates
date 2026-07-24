@@ -1,5 +1,5 @@
 # Electric Utility Rates
-Historical residential electric rate information for investor owned utilities across Illinois, Michigan, and Indiana.
+Historical residential electric rate information for investor owned utilities across Illinois, Michigan, Indiana, Ohio, and Wisconsin.
 ## Why This Project Exists
 Residential electric utility rates are buried in PDFs in docket filings and company websites - making it difficult to keep
 a record of the actual dollar amount charged to customers over time. Residential rate structures continue to evolve and the
