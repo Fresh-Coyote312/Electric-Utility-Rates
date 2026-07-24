@@ -272,6 +272,28 @@
       border-top: 1px solid #eee;
       padding-top: 1rem;
     }
+    footer p { margin-bottom: 0.3rem; }
+
+    /* Table numeric right-alignment */
+    #sampleTable th[data-type="num"],
+    #sampleTable td:nth-child(5),
+    #sampleTable td:nth-child(6),
+    #sampleTable td:nth-child(7),
+    #sampleTable td:nth-child(8) {
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* Print */
+    @media print {
+      nav { display: none; }
+      .hero { padding: 1rem 0; }
+      .contact-btn, .download-btn { display: none; }
+      .cta-box { border: 1px solid #ccc; }
+      .section { break-inside: avoid; }
+      .chart { break-inside: avoid; }
+      body { padding: 20px; max-width: 100%; }
+    }
   </style>
 </head>
 <body>
@@ -418,7 +440,9 @@
 </div>
 
 <footer>
-This website is an independent project and is not affiliated with or endorsed by any entity. Data sourced from company informational filings, regulatory filings, and published tariffs.
+  <p>Data sourced from company informational filings, regulatory filings, and published tariffs. All values manually extracted and standardized.</p>
+  <p>Last updated: July 2026</p>
+  <p><a href="mailto:kramere4@protonmail.com" style="color:#1a73e8;">Contact</a></p>
 </footer>
 
 <script>
