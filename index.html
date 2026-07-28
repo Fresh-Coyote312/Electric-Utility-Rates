@@ -456,16 +456,36 @@ const filterUtility = document.getElementById('filterUtility');
 let sortCol = 'Date';
 let sortAsc = true;
 
-// Get unique values for filters
+// Populate state dropdown
 const states = [...new Set(sampleData.map(r => r.State))].sort();
-const utilities = [...new Set(sampleData.map(r => r.Utility))].sort();
 states.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; filterState.appendChild(o); });
-utilities.forEach(u => { const o = document.createElement('option'); o.value = u; o.textContent = u; filterUtility.appendChild(o); });
 
-// Default to first utility
-filterUtility.value = utilities[0];
-const firstState = sampleData.find(r => r.Utility === utilities[0]).State;
-filterState.value = firstState;
+function populateFilterUtilities() {
+  const selectedState = filterState.value;
+  const currentUtil = filterUtility.value;
+
+  const availableUtils = [...new Set(
+    sampleData
+      .filter(r => !selectedState || r.State === selectedState)
+      .map(r => r.Utility)
+  )].sort();
+
+  filterUtility.innerHTML = '<option value="">All Utilities</option>';
+  availableUtils.forEach(u => {
+    const o = document.createElement('option');
+    o.value = u;
+    o.textContent = u;
+    filterUtility.appendChild(o);
+  });
+
+  if (availableUtils.includes(currentUtil)) {
+    filterUtility.value = currentUtil;
+  } else {
+    filterUtility.value = '';
+  }
+}
+
+populateFilterUtilities();
 
 function renderTable() {
   const stateVal = filterState.value;
@@ -523,15 +543,23 @@ document.querySelectorAll('#sampleTable th').forEach(th => {
   });
 });
 
-// When utility changes, auto-select its state and re-render
-filterUtility.addEventListener('change', () => {
-  const util = filterUtility.value;
-  const match = sampleData.find(r => r.Utility === util);
-  if (match) filterState.value = match.State;
+filterState.addEventListener('change', () => {
+  populateFilterUtilities();
   renderTable();
 });
 
-filterState.addEventListener('change', renderTable);
+filterUtility.addEventListener('change', () => {
+  const util = filterUtility.value;
+  if (util) {
+    const match = sampleData.find(r => r.Utility === util);
+    if (match && filterState.value !== match.State) {
+      filterState.value = match.State;
+      populateFilterUtilities();
+      filterUtility.value = util;
+    }
+  }
+  renderTable();
+});
 
 renderTable();
 
