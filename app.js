@@ -60,7 +60,7 @@ async function init() {
 function populateFilters() {
   // States
   const states = [...new Set(allData.map(d => d.State))].sort();
-  filterState.innerHTML = '<option value="">All States</option>' +
+  filterState.innerHTML =
     states.map(s => `<option value="${s}">${s}</option>`).join('');
 
   // Default to first state alphabetically
@@ -79,7 +79,7 @@ function updateUtilityFilter() {
     : allData.map(d => d.Utility);
   utilities = [...new Set(utilities)].sort();
 
-  filterUtility.innerHTML = '<option value="">All Utilities</option>' +
+  filterUtility.innerHTML =
     utilities.map(u => `<option value="${u}">${u}</option>`).join('');
 }
 
