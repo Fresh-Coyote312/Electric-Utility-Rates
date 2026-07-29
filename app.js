@@ -21,6 +21,11 @@ function getFallbackData() {
 }
 
 // ============================================================
+// Config
+// ============================================================
+const MAX_ROWS = 20;
+
+// ============================================================
 // State
 // ============================================================
 let allData = [];
@@ -131,7 +136,9 @@ function renderTable() {
     return;
   }
 
-  sampleBody.innerHTML = filteredData.map(row => `
+  const displayData = filteredData.slice(0, MAX_ROWS);
+
+  sampleBody.innerHTML = displayData.map(row => `
     <tr>
       <td>${formatDate(row.Date)}</td>
       <td>${row.State}</td>
@@ -144,7 +151,7 @@ function renderTable() {
     </tr>
   `).join('');
 
-  rowCount.textContent = filteredData.length;
+  rowCount.textContent = `${displayData.length} of ${filteredData.length}`;
   totalRows.textContent = allData.length;
   updateSortIndicators();
 }
@@ -184,6 +191,7 @@ function attachEventListeners() {
     applyFilters();
   });
   filterUtility.addEventListener('change', applyFilters);
+  filterMonth.addEventListener('change', applyFilters);
 
   // Sort on header click
   document.querySelectorAll('#sampleTable th[data-col]').forEach(th => {
