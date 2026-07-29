@@ -20,6 +20,18 @@ function getFallbackData() {
   return [];
 }
 
+// Load coverage metadata (utility/state/rate codes/date ranges only, no prices)
+async function loadCoverageData() {
+  try {
+    const response = await fetch('coverage_data.json');
+    if (!response.ok) throw new Error('Failed to load coverage data');
+    return await response.json();
+  } catch (err) {
+    console.error('Error loading coverage data:', err);
+    return [];
+  }
+}
+
 // ============================================================
 // Config
 // ============================================================
@@ -29,6 +41,7 @@ const MAX_ROWS = 20;
 // State
 // ============================================================
 let allData = [];
+let fullData = [];
 let filteredData = [];
 let sortColumn = 'Date';
 let sortDirection = 'asc';
@@ -55,6 +68,10 @@ async function init() {
   populateFilters();
   applyFilters();
   attachEventListeners();
+
+  // Load coverage metadata for the explorer
+  fullData = await loadCoverageData();
+  initCoverageExplorer();
 }
 
 function populateFilters() {
@@ -208,57 +225,61 @@ function attachEventListeners() {
   });
 
   // Download button - trigger CSV download
-  document.querySelector('.download-btn')?.addEventListener('click', (e) => {
+  document.querySelector('.download-btn')?.addEventListener('click', () => {
     // Let the default download happen - the CSV file exists
   });
+}
 
-  // Data Coverage Explorer
+// ============================================================
+// Data Coverage Explorer (uses full CSV data)
+// ============================================================
+function initCoverageExplorer() {
   const coverageState = document.getElementById('coverageState');
   const coverageSelect = document.getElementById('coverageSelect');
   const coverageResult = document.getElementById('coverageResult');
 
-  if (coverageState && coverageSelect && coverageResult) {
-    // Populate state filter for coverage
-    const coverageStates = [...new Set(allData.map(d => d.State))].sort();
-    coverageState.innerHTML = '<option value="">All States</option>' +
-      coverageStates.map(s => `<option value="${s}">${s}</option>`).join('');
+  if (!coverageState || !coverageSelect || !coverageResult || fullData.length === 0) return;
 
-    function updateCoverageUtilities() {
-      const state = coverageState.value;
-      let utilities = state
-        ? allData.filter(d => d.State === state).map(d => d.Utility)
-        : allData.map(d => d.Utility);
-      utilities = [...new Set(utilities)].sort();
+  // Populate state filter
+  const coverageStates = [...new Set(fullData.map(d => d.State))].sort();
+  coverageState.innerHTML = '<option value="">All States</option>' +
+    coverageStates.map(s => `<option value="${s}">${s}</option>`).join('');
 
-      coverageSelect.innerHTML = '<option value="">Select a utility...</option>' +
-        utilities.map(u => `<option value="${u}">${u}</option>`).join('');
-      coverageResult.style.display = 'none';
-      coverageResult.innerHTML = '';
-    }
+  function updateCoverageUtilities() {
+    const state = coverageState.value;
+    let utilities = state
+      ? fullData.filter(d => d.State === state).map(d => d.Utility)
+      : fullData.map(d => d.Utility);
+    utilities = [...new Set(utilities)].sort();
 
-    function showCoverage() {
-      const utility = coverageSelect.value;
-      if (!utility) return;
-
-      const utilityData = allData.filter(d => d.Utility === utility);
-      const rateCodes = [...new Set(utilityData.map(d => d.Rate_Code))].sort();
-      const dates = utilityData.map(d => d.Date).sort();
-      const dateRange = dates.length ? `${dates[0].slice(0,7)} – ${dates[dates.length-1].slice(0,7)}` : 'N/A';
-      const state = utilityData[0]?.State || '';
-
-      coverageResult.style.display = 'block';
-      coverageResult.innerHTML = `
-        <h3>${utility} (${state})</h3>
-        <p><strong>Date Range:</strong> ${dateRange}</p>
-        <p><strong>Rate Codes:</strong> ${rateCodes.join(', ')}</p>
-        <p><strong>Months of Data:</strong> ${utilityData.length}</p>
-      `;
-    }
-
-    coverageState.addEventListener('change', updateCoverageUtilities);
-    coverageSelect.addEventListener('change', showCoverage);
-    updateCoverageUtilities();
+    coverageSelect.innerHTML = '<option value="">Select a utility...</option>' +
+      utilities.map(u => `<option value="${u}">${u}</option>`).join('');
+    coverageResult.style.display = 'none';
+    coverageResult.innerHTML = '';
   }
+
+  function showCoverage() {
+    const utility = coverageSelect.value;
+    if (!utility) return;
+
+    const entry = fullData.find(d => d.Utility === utility);
+    if (!entry) return;
+
+    const dateRange = entry.First_Month && entry.Last_Month
+      ? `${entry.First_Month.slice(0,7)} – ${entry.Last_Month.slice(0,7)}`
+      : 'N/A';
+
+    coverageResult.style.display = 'block';
+    coverageResult.innerHTML = `
+      <h3>${entry.Utility} (${entry.State})</h3>
+      <p><strong>Date Range:</strong> ${dateRange}</p>
+      <p><strong>Rate Codes:</strong> ${entry.Rate_Codes.join(', ')}</p>
+      <p><strong>Months of Data:</strong> ${entry.Months}</p>
+    `;
+  }
+
+  coverageState.addEventListener('change', updateCoverageUtilities);
+  coverageSelect.addEventListener('change', showCoverage);
 }
 
 // ============================================================
