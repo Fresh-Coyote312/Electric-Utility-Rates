@@ -58,6 +58,11 @@ function populateFilters() {
   filterState.innerHTML = '<option value="">All States</option>' +
     states.map(s => `<option value="${s}">${s}</option>`).join('');
 
+  // Default to first state alphabetically
+  if (states.length > 0) {
+    filterState.value = states[0];
+  }
+
   // Utilities (populated based on state filter)
   updateUtilityFilter();
 }
