@@ -212,6 +212,54 @@ function attachEventListeners() {
   document.querySelector('.download-btn')?.addEventListener('click', (e) => {
     // Let the default download happen - the CSV file exists
   });
+
+  // Data Coverage Explorer
+  const coverageState = document.getElementById('coverageState');
+  const coverageSelect = document.getElementById('coverageSelect');
+  const coverageResult = document.getElementById('coverageResult');
+
+  if (coverageState && coverageSelect && coverageResult) {
+    // Populate state filter for coverage
+    const coverageStates = [...new Set(allData.map(d => d.State))].sort();
+    coverageState.innerHTML = '<option value="">All States</option>' +
+      coverageStates.map(s => `<option value="${s}">${s}</option>`).join('');
+
+    function updateCoverageUtilities() {
+      const state = coverageState.value;
+      let utilities = state
+        ? allData.filter(d => d.State === state).map(d => d.Utility)
+        : allData.map(d => d.Utility);
+      utilities = [...new Set(utilities)].sort();
+
+      coverageSelect.innerHTML = '<option value="">Select a utility...</option>' +
+        utilities.map(u => `<option value="${u}">${u}</option>`).join('');
+      coverageResult.style.display = 'none';
+      coverageResult.innerHTML = '';
+    }
+
+    function showCoverage() {
+      const utility = coverageSelect.value;
+      if (!utility) return;
+
+      const utilityData = allData.filter(d => d.Utility === utility);
+      const rateCodes = [...new Set(utilityData.map(d => d.Rate_Code))].sort();
+      const dates = utilityData.map(d => d.Date).sort();
+      const dateRange = dates.length ? `${dates[0].slice(0,7)} – ${dates[dates.length-1].slice(0,7)}` : 'N/A';
+      const state = utilityData[0]?.State || '';
+
+      coverageResult.style.display = 'block';
+      coverageResult.innerHTML = `
+        <h3>${utility} (${state})</h3>
+        <p><strong>Date Range:</strong> ${dateRange}</p>
+        <p><strong>Rate Codes:</strong> ${rateCodes.join(', ')}</p>
+        <p><strong>Months of Data:</strong> ${utilityData.length}</p>
+      `;
+    }
+
+    coverageState.addEventListener('change', updateCoverageUtilities);
+    coverageSelect.addEventListener('change', showCoverage);
+    updateCoverageUtilities();
+  }
 }
 
 // ============================================================
