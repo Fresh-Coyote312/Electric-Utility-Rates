@@ -191,7 +191,6 @@ function attachEventListeners() {
     applyFilters();
   });
   filterUtility.addEventListener('change', applyFilters);
-  filterMonth.addEventListener('change', applyFilters);
 
   // Sort on header click
   document.querySelectorAll('#sampleTable th[data-col]').forEach(th => {
