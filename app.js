@@ -70,8 +70,10 @@ async function init() {
   attachEventListeners();
 
   // Reset horizontal scroll position (direction: rtl moves scrollbar to top but starts scrolled right)
-  const wrapper = document.querySelector('.table-wrapper');
-  if (wrapper) wrapper.scrollLeft = 0;
+  requestAnimationFrame(() => {
+    const wrapper = document.querySelector('.table-wrapper');
+    if (wrapper) wrapper.scrollLeft = 0;
+  });
 
   // Load coverage metadata for the explorer
   fullData = await loadCoverageData();
