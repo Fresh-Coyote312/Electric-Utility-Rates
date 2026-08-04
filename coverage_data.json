@@ -178,6 +178,28 @@
     "Months": 13
   },
   {
+    "State": "MI",
+    "Utility": "Northern States Power Company",
+    "Rate_Codes": [
+      "Res",
+      "Res-TOU-Off_Peak",
+      "Res-TOU-On_Peak"
+    ],
+    "First_Month": "2015-04-01",
+    "Last_Month": "2026-07-01",
+    "Months": 136
+  },
+  {
+    "State": "WI",
+    "Utility": "Northern States Power Company",
+    "Rate_Codes": [
+      "Res - Rg1"
+    ],
+    "First_Month": "2016-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 127
+  },
+  {
     "State": "WI",
     "Utility": "Madison Gas & Electric Company",
     "Rate_Codes": [
