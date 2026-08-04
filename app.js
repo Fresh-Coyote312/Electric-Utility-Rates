@@ -69,12 +69,6 @@ async function init() {
   applyFilters();
   attachEventListeners();
 
-  // Reset horizontal scroll position (direction: rtl moves scrollbar to top but starts scrolled right)
-  requestAnimationFrame(() => {
-    const wrapper = document.querySelector('.table-wrapper');
-    if (wrapper) wrapper.scrollLeft = 0;
-  });
-
   // Load coverage metadata for the explorer
   fullData = await loadCoverageData();
   initCoverageExplorer();
