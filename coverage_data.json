@@ -1,5 +1,76 @@
 [
   {
+    "State": "IA",
+    "Utility": "Interstate Power and Light Company",
+    "Rate_Codes": [
+      "Res - 400",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2015-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 136
+  },
+  {
+    "State": "IA",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Codes": [
+      "Res - RS",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2015-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 136
+  },
+  {
+    "State": "MO",
+    "Utility": "Ameren Missouri",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 52
+  },
+  {
+    "State": "MO",
+    "Utility": "Evergy Missouri Metro",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 52
+  },
+  {
+    "State": "MO",
+    "Utility": "Evergy Missouri West",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 52
+  },
+  {
+    "State": "MO",
+    "Utility": "The Empire District Electric Company",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 52
+  },
+  {
     "State": "IN",
     "Utility": "AES Indiana",
     "Rate_Codes": [
