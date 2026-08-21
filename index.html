@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Residential Electric Rate Data — Iowa, Illinois, Indiana, Michigan, Minnesota, Missouri, Ohio, Wisconsin</title>
+  <meta name="description" content="Historical residential electric rate data for 32 utilities across Iowa, Illinois, Indiana, Michigan, Minnesota, Missouri, Ohio, and Wisconsin. Monthly data from 2012-2026 covering energy charges, distribution charges, and 50+ rider surcharges.">
+  <meta name="keywords" content="electric rates, residential electric rates, Iowa, Illinois, Michigan, Indiana, Minnesota, Missouri, Ohio, Wisconsin, Ameren, ComEd, DTE, Consumers Energy, Duke Energy Ohio, Ohio Edison, Minnesota Power, Northern States Power, Otter Tail Power, Ameren Missouri, Evergy, Empire District, MidAmerican Energy, utility rates, energy charges, surcharges, riders">
+  <meta name="author" content="Electric Utility Rate Data">
+  <meta property="og:title" content="Residential Electric Rate Data">
+  <meta property="og:description" content="Historical residential electric rates across Iowa, Illinois, Indiana, Michigan, Minnesota, Missouri, Ohio, and Wisconsin — 2012 to 2026. 32 utilities, 50+ riders tracked.">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="#overview">Overview</a>
+  <a href="#data">Data Preview</a>
+  <a href="#coverage">Coverage</a>
+  <a href="#docs">Documentation</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+  <h1>Residential Electric Rates</h1>
+  <p class="sub">Historical residential electric rates across Iowa, Illinois, Indiana, Michigan, Minnesota, Missouri, Ohio, and Wisconsin for investor-owned utilities</p>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="n">8</div><div class="l">States</div></div>
+  <div class="stat"><div class="n">32</div><div class="l">Utilities</div></div>
+  <div class="stat"><div class="n">Up to 14</div><div class="l">Years of Data</div></div>
+  <div class="stat"><div class="n">50+</div><div class="l">Riders</div></div>
+</div>
+
+<div id="overview">
+<div class="problem">
+  <strong>The Problem</strong><br>
+  Residential electric rate data is scattered across hundreds of regulatory filings, tariff PDFs, and
+  utility informational sheets — making historical analyses difficult.<br><br>
+  Rates change constantly — a utility might update its fuel adjustment charge (FAC) every month,
+  adjust energy efficiency riders annually, and file new base rates every few years. Every one of
+  these changes is buried in a different filing, often in different formats across different
+  regulatory commissions. Riders are never standardized between utilities: one utility calls it
+  "Purchased Electricity Adjustment" while another calls it "Fuel Clause." Time-of-Use structures,
+  seasonal splits, and tiered pricing make direct comparisons across utilities nearly impossible.<br><br>
+  <strong>What This Project Does</strong><br>
+  This database resolves that problem. Every monthly rate value has been extracted from source
+  filings and standardized into a consistent format: service charge, energy charge, distribution
+  charge, surcharges broken down by rider — all in one structured dataset with up to 14 years of data.
+  The result is a clean, comparable view of residential electric rates.
+</div>
+
+<!-- Charts -->
+<div class="chart">
+  <img src="GitHub_Graphs/Ameren_IL_Rates.png" alt="Ameren Illinois Rate History">
+  <p>Figure 1: Ameren Illinois Residential Rate History</p>
+</div>
+
+<div class="chart">
+  <img src="GitHub_Graphs/MI_Comparison.png" alt="Michigan Utilities Comparison">
+  <p>Figure 2: Michigan Utilities Rate Comparison</p>
+</div>
+</div>
+
+<!-- Sample Data Preview -->
+<div id="data" class="section">
+  <h2>Sample Data Preview</h2>
+  <p class="section-desc">Filter and browse recent rate data. This is a sample from the full dataset.</p>
+
+  <div class="table-controls">
+    <select id="filterState" aria-label="Filter by State">
+    </select>
+    <select id="filterUtility" aria-label="Filter by Utility">
+    </select>
+    <a href="sample_data.csv" download class="download-btn">Download Sample CSV (Jan–Jul 2026)</a>
+  </div>
+
+  <div class="table-wrapper">
+    <table id="sampleTable">
+      <thead>
+        <tr>
+          <th data-col="Date" data-type="text">Date <span class="sort-arrow"></span></th>
+          <th data-col="State" data-type="text">State <span class="sort-arrow"></span></th>
+          <th data-col="Utility" data-type="text">Utility <span class="sort-arrow"></span></th>
+          <th data-col="Rate_Code" data-type="text">Rate Code <span class="sort-arrow"></span></th>
+          <th data-col="Service_Charge" data-type="num">Service Charge <span class="sort-arrow"></span></th>
+          <th data-col="Energy_Charge" data-type="num">Energy Charge <span class="sort-arrow"></span></th>
+          <th data-col="Surcharges_Per_kWh" data-type="num">Surcharges $/kWh <span class="sort-arrow"></span></th>
+           <th data-col="Total_Per_kWh" data-type="num">Total $/kWh <span class="sort-arrow"></span></th>
+        </tr>
+      </thead>
+      <tbody id="sampleBody"></tbody>
+    </table>
+  </div>
+  <div class="table-note">Showing <span id="rowCount">0</span> of <span id="totalRows">0</span> sample rows.</div>
+</div>
+
+<!-- Data Coverage Explorer -->
+<div id="coverage" class="section">
+  <h2>Data Coverage by Utility</h2>
+  <p class="section-desc">Select a utility to see what rate codes are available and the date range covered.</p>
+  <select id="coverageState" class="coverage-select" aria-label="Filter utilities by State">
+    <option value="">All States</option>
+  </select>
+  <select id="coverageSelect" class="coverage-select" aria-label="Select a Utility">
+    <option value="">Select a utility...</option>
+  </select>
+  <div id="coverageResult" class="coverage-result" style="display:none;"></div>
+</div>
+
+<!-- Data Documentation -->
+<div id="docs" class="section data-docs">
+  <h2>Data Dictionary</h2>
+  <div class="content">
+    <p>Every row in the dataset represents one utility's rate structure for one month. Here's what each column means:</p>
+    <table>
+      <tr><th>Column</th><th>Description</th></tr>
+      <tr><td><code>Date</code></td><td>First day of the month the rate applies to (YYYY-MM-DD)</td></tr>
+      <tr><td><code>State</code></td><td>Two-letter state abbreviation (IA, IL, IN, MI, MN, MO, OH, WI)</td></tr>
+      <tr><td><code>Utility</code></td><td>Full utility company name</td></tr>
+      <tr><td><code>Rate_Code</code></td><td>Tariff schedule name (e.g., "Res - RS" for standard residential, "Res - TOU" for time-of-use)</td></tr>
+      <tr><td><code>Service_Charge</code></td><td>Fixed monthly service/connection charge in dollars</td></tr>
+      <tr><td><code>Energy_Charge</code></td><td>Base energy charge per kWh (before riders and surcharges)</td></tr>
+      <tr><td><code>Distribution_Charge</code></td><td>Distribution delivery charge per kWh (where applicable)</td></tr>
+      <tr><td><code>Fuel_Charge</code></td><td>Fuel cost rider (per kWh, where applicable)</td></tr>
+      <tr><td><code>Surcharges_Monthly</code></td><td>Fixed monthly surcharges in dollars (flat fees, riders billed monthly)</td></tr>
+      <tr><td><code>Surcharges_Per_kWh</code></td><td>Net per-kWh surcharge across all riders (sum of positive and negative rider values)</td></tr>
+      <tr><td><code>Total_Per_kWh</code></td><td>All-in rate per kWh: energy + distribution + fuel + surcharges</td></tr>
+      <tr><td><code>Case</code></td><td>Docket or case number for the rate filing at the state regulatory commission</td></tr>
+      <tr><td><code>Notes</code></td><td>Individual rider breakdown — each rider name with its $/kWh value (e.g., "FA -0.005374/kWh; ECR -0.002699/kWh")</td></tr>
+    </table>
+
+    <h3 class="docs-subtitle">About Riders</h3>
+    <p>Riders are line-item adjustments added to or subtracted from your base rate. Common examples include:</p>
+    <ul class="rider-list">
+      <li><strong>FA (Fuel Adjustment)</strong> — reflects changes in fuel generation costs, often updated monthly</li>
+      <li><strong>ECR (Energy Cost Recovery)</strong> — recovers above/below budget generation costs</li>
+      <li><strong>DSR (Demand Side Response)</strong> — costs for demand response and load management programs</li>
+      <li><strong>EECR / EE</strong> — energy efficiency compliance charges</li>
+      <li><strong>Nuclear</strong> — nuclear plant decommissioning or operation surcharges</li>
+      <li><strong>TDR (Transmission Demand Response)</strong> — transmission-level demand response costs</li>
+      <li><strong>LI (Low Income)</strong> — low-income assistance program charges</li>
+    </ul>
+    <p>A negative surcharge means the rider is <em>reducing</em> your rate that month (e.g., a fuel cost credit). The Notes column breaks out every individual rider value so you can see exactly what's driving the total.</p>
+  </div>
+</div>
+
+<!-- Contact CTA -->
+<div id="contact" class="cta-box">
+  <h2>Full Dataset</h2>
+  <p>The complete historical database — 32 utilities across 8 states, up to 14 years of data, 5,500+ data points.</p>
+  <a href="mailto:@protonmail.com" class="contact-btn">Contact</a>
+</div>
+
+<footer>
+  <p>Data sourced from company informational filings, regulatory filings, and published tariffs.</p>
+  <p>Last updated: August 2026</p>
+  <p><a href="mailto:@protonmail.com" style="color:var(--primary);">Contact</a></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
