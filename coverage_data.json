@@ -1,0 +1,347 @@
+[
+  {
+    "State": "IA",
+    "Utility": "Interstate Power and Light Company",
+    "Rate_Codes": [
+      "Res - 400",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2015-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 166
+  },
+  {
+    "State": "IA",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Codes": [
+      "Res - RS",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2015-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 408
+  },
+  {
+    "State": "IL",
+    "Utility": "Ameren Illinois",
+    "Rate_Codes": [
+      "Res - DS1"
+    ],
+    "First_Month": "2019-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 92
+  },
+  {
+    "State": "IL",
+    "Utility": "ComEd",
+    "Rate_Codes": [
+      "Res - BES"
+    ],
+    "First_Month": "2019-01-01",
+    "Last_Month": "2026-09-01",
+    "Months": 93
+  },
+  {
+    "State": "IL",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Codes": [
+      "Res - RS",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2015-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 420
+  },
+  {
+    "State": "IN",
+    "Utility": "AES Indiana",
+    "Rate_Codes": [
+      "Res - RS"
+    ],
+    "First_Month": "2020-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 80
+  },
+  {
+    "State": "IN",
+    "Utility": "Duke Energy Indiana",
+    "Rate_Codes": [
+      "Res"
+    ],
+    "First_Month": "2021-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 68
+  },
+  {
+    "State": "IN",
+    "Utility": "Northern Indiana Public Service Company",
+    "Rate_Codes": [
+      "Res"
+    ],
+    "First_Month": "2016-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 128
+  },
+  {
+    "State": "IN",
+    "Utility": "Southern Indiana Gas and Electric Company",
+    "Rate_Codes": [
+      "Res"
+    ],
+    "First_Month": "2022-07-01",
+    "Last_Month": "2026-08-01",
+    "Months": 50
+  },
+  {
+    "State": "MI",
+    "Utility": "Alpena Power Company",
+    "Rate_Codes": [
+      "Res"
+    ],
+    "First_Month": "2018-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 103
+  },
+  {
+    "State": "MI",
+    "Utility": "Consumers Energy Company",
+    "Rate_Codes": [
+      "Res-TOU-Off_Peak",
+      "Res-TOU-On_Peak"
+    ],
+    "First_Month": "2017-03-01",
+    "Last_Month": "2026-08-01",
+    "Months": 228
+  },
+  {
+    "State": "MI",
+    "Utility": "DTE Electric Company",
+    "Rate_Codes": [
+      "Res",
+      "Res-TOU-Off_Peak",
+      "Res-TOU-On_Peak"
+    ],
+    "First_Month": "2015-12-01",
+    "Last_Month": "2026-08-01",
+    "Months": 384
+  },
+  {
+    "State": "MI",
+    "Utility": "Indiana Michigan Power Company",
+    "Rate_Codes": [
+      "Res",
+      "Res-TOU-Off_Peak",
+      "Res-TOU-On_Peak"
+    ],
+    "First_Month": "2012-02-01",
+    "Last_Month": "2026-07-01",
+    "Months": 522
+  },
+  {
+    "State": "MI",
+    "Utility": "Lansing BWL",
+    "Rate_Codes": [
+      "Res - Off_Peak",
+      "Res - On_Peak"
+    ],
+    "First_Month": "2025-06-01",
+    "Last_Month": "2026-06-01",
+    "Months": 26
+  },
+  {
+    "State": "MI",
+    "Utility": "Northern States Power Company",
+    "Rate_Codes": [
+      "Res",
+      "Res-TOU-Off_Peak",
+      "Res-TOU-On_Peak"
+    ],
+    "First_Month": "2015-04-01",
+    "Last_Month": "2026-07-01",
+    "Months": 408
+  },
+  {
+    "State": "MI",
+    "Utility": "Upper Michigan Energy Resources",
+    "Rate_Codes": [
+      "Res",
+      "Res-TOU-Off_Peak",
+      "Res-TOU-On_Peak"
+    ],
+    "First_Month": "2017-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 343
+  },
+  {
+    "State": "MI",
+    "Utility": "Upper Peninsula Power Company",
+    "Rate_Codes": [
+      "Res"
+    ],
+    "First_Month": "2016-09-01",
+    "Last_Month": "2026-07-01",
+    "Months": 119
+  },
+  {
+    "State": "MN",
+    "Utility": "Minnesota Power",
+    "Rate_Codes": [
+      "Res - RC20"
+    ],
+    "First_Month": "2018-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 103
+  },
+  {
+    "State": "MN",
+    "Utility": "Northern States Power Company",
+    "Rate_Codes": [
+      "Res - A01",
+      "Res - Off_Peak",
+      "Res - On_Peak"
+    ],
+    "First_Month": "2016-06-01",
+    "Last_Month": "2026-07-01",
+    "Months": 327
+  },
+  {
+    "State": "MN",
+    "Utility": "Otter Tail Power Company",
+    "Rate_Codes": [
+      "Res"
+    ],
+    "First_Month": "2018-07-01",
+    "Last_Month": "2026-07-01",
+    "Months": 97
+  },
+  {
+    "State": "MO",
+    "Utility": "Ameren Missouri",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 156
+  },
+  {
+    "State": "MO",
+    "Utility": "Evergy Missouri Metro",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 156
+  },
+  {
+    "State": "MO",
+    "Utility": "Evergy Missouri West",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak",
+      "Res - TOU-On_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 156
+  },
+  {
+    "State": "MO",
+    "Utility": "The Empire District Electric Company",
+    "Rate_Codes": [
+      "Res",
+      "Res - TOU-Off_Peak"
+    ],
+    "First_Month": "2022-06-01",
+    "Last_Month": "2026-09-01",
+    "Months": 104
+  },
+  {
+    "State": "OH",
+    "Utility": "Duke Energy Ohio",
+    "Rate_Codes": [
+      "Res - RS"
+    ],
+    "First_Month": "2021-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 68
+  },
+  {
+    "State": "OH",
+    "Utility": "Ohio Edison",
+    "Rate_Codes": [
+      "Res - RS"
+    ],
+    "First_Month": "2021-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 68
+  },
+  {
+    "State": "OH",
+    "Utility": "Ohio Power Company",
+    "Rate_Codes": [
+      "Res - RS"
+    ],
+    "First_Month": "2021-01-01",
+    "Last_Month": "2026-08-01",
+    "Months": 68
+  },
+  {
+    "State": "WI",
+    "Utility": "Madison Gas & Electric Company",
+    "Rate_Codes": [
+      "Res - Rg1"
+    ],
+    "First_Month": "2016-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 127
+  },
+  {
+    "State": "WI",
+    "Utility": "Northern States Power Company",
+    "Rate_Codes": [
+      "Res - Rg1"
+    ],
+    "First_Month": "2016-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 127
+  },
+  {
+    "State": "WI",
+    "Utility": "Wisconsin Electric Power Company",
+    "Rate_Codes": [
+      "Res - Rg1"
+    ],
+    "First_Month": "2016-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 127
+  },
+  {
+    "State": "WI",
+    "Utility": "Wisconsin Power & Light Company",
+    "Rate_Codes": [
+      "Res - Rg1"
+    ],
+    "First_Month": "2016-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 127
+  },
+  {
+    "State": "WI",
+    "Utility": "Wisconsin Public Service Corporation",
+    "Rate_Codes": [
+      "Res - Rg1"
+    ],
+    "First_Month": "2016-01-01",
+    "Last_Month": "2026-07-01",
+    "Months": 127
+  }
+]
