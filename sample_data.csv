@@ -1,340 +1,340 @@
-"Date","State","Utility","Rate_Code","Service_Charge","Energy_Charge","Fuel_Charge","Total_Per_kWh","Surcharges_Per_kWh"
-"2026-03-01","IA","Interstate Power and Light Company","Res - 400",15.5,0.09992,0.00796,0.16064,0.05276
-"2026-04-01","IA","Interstate Power and Light Company","Res - 400",15.5,0.09992,-0.00254,0.16064,0.06326
-"2026-05-01","IA","Interstate Power and Light Company","Res - 400",15.5,0.09992,-0.00994,0.16064,0.07066
-"2026-06-01","IA","Interstate Power and Light Company","Res - 400",15.5,0.13398,-0.00334,0.1947,0.06406
-"2026-07-01","IA","Interstate Power and Light Company","Res - 400",15.5,0.13398,0.00656,0.1947,0.05416
-"2026-08-01","IA","Interstate Power and Light Company","Res - 400",15.5,0.13398,0.01076,0.1947,0.04996
-"2026-03-01","IA","Interstate Power and Light Company","Res - TOU-Off_Peak",15.5,0.09992,0.00796,0.1506,0.04272
-"2026-04-01","IA","Interstate Power and Light Company","Res - TOU-Off_Peak",15.5,0.09992,-0.00254,0.1506,0.05322
-"2026-05-01","IA","Interstate Power and Light Company","Res - TOU-Off_Peak",15.5,0.09992,-0.00994,0.1506,0.06062
-"2026-06-01","IA","Interstate Power and Light Company","Res - TOU-Off_Peak",15.5,0.11134,-0.00334,0.16202,0.05402
-"2026-07-01","IA","Interstate Power and Light Company","Res - TOU-Off_Peak",15.5,0.11134,0.00656,0.16202,0.04412
-"2026-08-01","IA","Interstate Power and Light Company","Res - TOU-Off_Peak",15.5,0.11134,0.01076,0.16202,0.03992
-"2026-06-01","IA","Interstate Power and Light Company","Res - TOU-On_Peak",15.5,0.22269,-0.00334,0.27337,0.05402
-"2026-07-01","IA","Interstate Power and Light Company","Res - TOU-On_Peak",15.5,0.22269,0.00656,0.27337,0.04412
-"2026-08-01","IA","Interstate Power and Light Company","Res - TOU-On_Peak",15.5,0.22269,0.01076,0.27337,0.03992
-"2026-04-01","IA","MidAmerican Energy Company","Res - RS",8.5,0.08044,0.00802,0.09308,0.00462
-"2026-05-01","IA","MidAmerican Energy Company","Res - RS",8.5,0.08044,0.00802,0.09308,0.00462
-"2026-06-01","IA","MidAmerican Energy Company","Res - RS",8.5,0.10575,0.00802,0.11839,0.00462
-"2026-07-01","IA","MidAmerican Energy Company","Res - RS",8.5,0.10575,0.00802,0.11839,0.00462
-"2026-08-01","IA","MidAmerican Energy Company","Res - RS",8.5,0.10575,0.00802,0.11839,0.00462
-"2026-09-01","IA","MidAmerican Energy Company","Res - RS",8.5,0.10575,0.00802,0.11839,0.00462
-"2026-04-01","IA","MidAmerican Energy Company","Res - TOU-Off_Peak",8.5,0.06656,0.00802,0.0792,0.00462
-"2026-05-01","IA","MidAmerican Energy Company","Res - TOU-Off_Peak",8.5,0.06656,0.00802,0.0792,0.00462
-"2026-06-01","IA","MidAmerican Energy Company","Res - TOU-Off_Peak",8.5,0.06553,0.00802,0.07817,0.00462
-"2026-07-01","IA","MidAmerican Energy Company","Res - TOU-Off_Peak",8.5,0.06553,0.00802,0.07817,0.00462
-"2026-08-01","IA","MidAmerican Energy Company","Res - TOU-Off_Peak",8.5,0.06553,0.00802,0.07817,0.00462
-"2026-09-01","IA","MidAmerican Energy Company","Res - TOU-Off_Peak",8.5,0.06553,0.00802,0.07817,0.00462
-"2026-04-01","IA","MidAmerican Energy Company","Res - TOU-On_Peak",8.5,0.07809,0.00802,0.09073,0.00462
-"2026-05-01","IA","MidAmerican Energy Company","Res - TOU-On_Peak",8.5,0.07809,0.00802,0.09073,0.00462
-"2026-06-01","IA","MidAmerican Energy Company","Res - TOU-On_Peak",8.5,0.20925,0.00802,0.22189,0.00462
-"2026-07-01","IA","MidAmerican Energy Company","Res - TOU-On_Peak",8.5,0.20925,0.00802,0.22189,0.00462
-"2026-08-01","IA","MidAmerican Energy Company","Res - TOU-On_Peak",8.5,0.20925,0.00802,0.22189,0.00462
-"2026-09-01","IA","MidAmerican Energy Company","Res - TOU-On_Peak",8.5,0.20925,0.00802,0.22189,0.00462
-"2026-03-01","IL","Ameren Illinois","Res - DS1",14.51,0.06876,0,0.154685,0.038948
-"2026-04-01","IL","Ameren Illinois","Res - DS1",14.51,0.06452,0,0.150497,0.039
-"2026-05-01","IL","Ameren Illinois","Res - DS1",14.51,0.06452,0,0.150498,0.039001
-"2026-06-01","IL","Ameren Illinois","Res - DS1",14.51,0.08009,0,0.201438,0.041981
-"2026-07-01","IL","Ameren Illinois","Res - DS1",14.51,0.08009,0,0.201438,0.041981
-"2026-08-01","IL","Ameren Illinois","Res - DS1",14.51,0.08009,0,0.201438,0.041981
-"2026-04-01","IL","ComEd","Res - BES",19.58,0.0966,0,0.13758,-0.01964
-"2026-05-01","IL","ComEd","Res - BES",19.58,0.0966,0,0.16944,0.01222
-"2026-06-01","IL","ComEd","Res - BES",19.58,0.10399,0,0.16417,-0.00122
-"2026-07-01","IL","ComEd","Res - BES",19.58,0.10399,0,0.16533,-6e-05
-"2026-08-01","IL","ComEd","Res - BES",19.58,0.10399,0,0.17761,0.01222
-"2026-09-01","IL","ComEd","Res - BES",19.58,0.10399,0,0.17761,0.01222
-"2026-03-01","IL","MidAmerican Energy Company","Res - RS",8.97,0.02705,0,0.08146,0.02712
-"2026-04-01","IL","MidAmerican Energy Company","Res - RS",8.97,0.02705,0,0.08371,0.02937
-"2026-05-01","IL","MidAmerican Energy Company","Res - RS",8.97,0.02705,0,0.08371,0.02937
-"2026-06-01","IL","MidAmerican Energy Company","Res - RS",8.97,0.05695,0,0.11615,0.03191
-"2026-07-01","IL","MidAmerican Energy Company","Res - RS",8.97,0.05695,0,0.11615,0.03191
-"2026-08-01","IL","MidAmerican Energy Company","Res - RS",8.97,0.05695,0.01526,0.10457,0.00507
-"2026-03-01","IL","MidAmerican Energy Company","Res - TOU-Off_Peak",8.97,0.02086,0,0.07527,0.02712
-"2026-04-01","IL","MidAmerican Energy Company","Res - TOU-Off_Peak",8.97,0.02086,0,0.07752,0.02937
-"2026-05-01","IL","MidAmerican Energy Company","Res - TOU-Off_Peak",8.97,0.02086,0,0.07752,0.02937
-"2026-06-01","IL","MidAmerican Energy Company","Res - TOU-Off_Peak",8.97,0.02208,0,0.08128,0.03191
-"2026-07-01","IL","MidAmerican Energy Company","Res - TOU-Off_Peak",8.97,0.02208,0,0.08128,0.03191
-"2026-08-01","IL","MidAmerican Energy Company","Res - TOU-Off_Peak",8.97,0.02208,0.01526,0.0697,0.00507
-"2026-03-01","IL","MidAmerican Energy Company","Res - TOU-On_Peak",8.97,0.02554,0,0.07995,0.02712
-"2026-04-01","IL","MidAmerican Energy Company","Res - TOU-On_Peak",8.97,0.02554,0,0.0822,0.02937
-"2026-05-01","IL","MidAmerican Energy Company","Res - TOU-On_Peak",8.97,0.02554,0,0.0822,0.02937
-"2026-06-01","IL","MidAmerican Energy Company","Res - TOU-On_Peak",8.97,0.13805,0,0.19725,0.03191
-"2026-07-01","IL","MidAmerican Energy Company","Res - TOU-On_Peak",8.97,0.13805,0,0.19725,0.03191
-"2026-08-01","IL","MidAmerican Energy Company","Res - TOU-On_Peak",8.97,0.13805,0.01526,0.18567,0.00507
-"2026-03-01","IN","AES Indiana","Res - RS",17,0.125421,-0.005544,0.146419,0.026542
-"2026-04-01","IN","AES Indiana","Res - RS",17,0.125421,-0.005544,0.146274,0.026397
-"2026-05-01","IN","AES Indiana","Res - RS",17,0.125421,-0.005544,0.146274,0.026397
-"2026-06-01","IN","AES Indiana","Res - RS",17,0.125421,0.003983,0.156641,0.027237
-"2026-07-01","IN","AES Indiana","Res - RS",17,0.125421,0.003983,0.156641,0.027237
-"2026-08-01","IN","AES Indiana","Res - RS",17,0.15001,-0.000801,0.157338,0.008129
-"2026-03-01","IN","Duke Energy Indiana","Res",13.7,0.186556,0.00609,0.189378,-0.003268
-"2026-04-01","IN","Duke Energy Indiana","Res",13.7,0.186556,0.001369,0.187067,-0.000858
-"2026-05-01","IN","Duke Energy Indiana","Res",13.7,0.186556,0.001369,0.187996,7.1e-05
-"2026-06-01","IN","Duke Energy Indiana","Res",13.7,0.186555,0.001369,0.187995,7.1e-05
-"2026-07-01","IN","Duke Energy Indiana","Res",13.7,0.186556,0.003568,0.18786,-0.002264
-"2026-08-01","IN","Duke Energy Indiana","Res",13.7,0.186556,0.003568,0.18786,-0.002264
-"2026-03-01","IN","Northern Indiana Public Service Company","Res",14,0.205,-0.005704,0.218678,0.019382
-"2026-04-01","IN","Northern Indiana Public Service Company","Res",14,0.205,-0.005704,0.218678,0.019382
-"2026-05-01","IN","Northern Indiana Public Service Company","Res",14,0.205,-0.008552,0.214776,0.018328
-"2026-06-01","IN","Northern Indiana Public Service Company","Res",14,0.205,-0.008552,0.214776,0.018328
-"2026-07-01","IN","Northern Indiana Public Service Company","Res",14,0.205,-0.008552,0.215356,0.018908
-"2026-08-01","IN","Northern Indiana Public Service Company","Res",14,0.205,0,0.223908,0.018908
-"2026-03-01","IN","Southern Indiana Gas and Electric Company","Res",11,0.15723,0.041175,0.208986,0.010581
-"2026-04-01","IN","Southern Indiana Gas and Electric Company","Res",11,0.15723,0.041175,0.208986,0.010581
-"2026-05-01","IN","Southern Indiana Gas and Electric Company","Res",11,0.15723,0.036207,0.204018,0.010581
-"2026-06-01","IN","Southern Indiana Gas and Electric Company","Res",11,0.15723,0.036207,0.203014,0.009577
-"2026-07-01","IN","Southern Indiana Gas and Electric Company","Res",11,0.15723,0.036207,0.207014,0.013577
-"2026-08-01","IN","Southern Indiana Gas and Electric Company","Res",11,0.15723,0.046995,0.217802,0.013577
-"2026-03-01","MI","Alpena Power Company","Res",5.25,0.07926,0.01418,0.18426,0.00546
-"2026-04-01","MI","Alpena Power Company","Res",5.25,0.07926,0.01418,0.18426,0.00546
-"2026-05-01","MI","Alpena Power Company","Res",5.25,0.07926,0.01418,0.18426,0.00546
-"2026-06-01","MI","Alpena Power Company","Res",5.25,0.07926,0.008,0.17808,0.00546
-"2026-07-01","MI","Alpena Power Company","Res",5.25,0.07926,0.008,0.17808,0.00546
-"2026-08-01","MI","Alpena Power Company","Res",5.25,0.07926,0.008,0.17808,0.00546
-"2026-03-01","MI","Consumers Energy Company","Res-TOU-Off_Peak",8,0.085252,0.01597,0.193557,0.01338
-"2026-04-01","MI","Consumers Energy Company","Res-TOU-Off_Peak",8,0.085252,0.01456,0.192147,0.01338
-"2026-05-01","MI","Consumers Energy Company","Res-TOU-Off_Peak",8,0.082996,0.01456,0.205073,0.014184
-"2026-06-01","MI","Consumers Energy Company","Res-TOU-Off_Peak",8,0.10397,0.01337,0.224857,0.014184
-"2026-07-01","MI","Consumers Energy Company","Res-TOU-Off_Peak",8,0.10397,0.001456,0.212943,0.014184
-"2026-08-01","MI","Consumers Energy Company","Res-TOU-Off_Peak",8,0.10397,0.01456,0.226072,0.014209
-"2026-03-01","MI","Consumers Energy Company","Res-TOU-On_Peak",8,0.085252,0.01597,0.193557,0.01338
-"2026-04-01","MI","Consumers Energy Company","Res-TOU-On_Peak",8,0.085252,0.01456,0.192147,0.01338
-"2026-05-01","MI","Consumers Energy Company","Res-TOU-On_Peak",8,0.082996,0.01456,0.205073,0.014184
-"2026-06-01","MI","Consumers Energy Company","Res-TOU-On_Peak",8,0.151904,0.01337,0.272791,0.014184
-"2026-07-01","MI","Consumers Energy Company","Res-TOU-On_Peak",8,0.151904,0.001456,0.260877,0.014184
-"2026-08-01","MI","Consumers Energy Company","Res-TOU-On_Peak",8,0.151904,0.01456,0.274006,0.014209
-"2026-03-01","MI","DTE Electric Company","Res",8.5,0.08782,0.01877,0.210027,0.006177
-"2026-04-01","MI","DTE Electric Company","Res",8.5,0.08782,0.01877,0.212729,0.008879
-"2026-05-01","MI","DTE Electric Company","Res",8.5,0.08782,0.01877,0.212729,0.008879
-"2026-06-01","MI","DTE Electric Company","Res",8.5,0.08782,0.01877,0.212729,0.008879
-"2026-07-01","MI","DTE Electric Company","Res",8.5,0.08782,0.001877,0.195836,0.008879
-"2026-08-01","MI","DTE Electric Company","Res",8.5,0.08782,0.001877,0.195836,0.008879
-"2026-03-01","MI","DTE Electric Company","Res-TOU-Off_Peak",8.5,0.05295,0.01877,0.175157,0.006177
-"2026-04-01","MI","DTE Electric Company","Res-TOU-Off_Peak",8.5,0.05295,0.01877,0.178737,0.009757
-"2026-05-01","MI","DTE Electric Company","Res-TOU-Off_Peak",8.5,0.05295,0.01877,0.178737,0.009757
-"2026-06-01","MI","DTE Electric Company","Res-TOU-Off_Peak",8.5,0.05456,0.01877,0.180347,0.009757
-"2026-07-01","MI","DTE Electric Company","Res-TOU-Off_Peak",8.5,0.05456,0.001877,0.163454,0.009757
-"2026-08-01","MI","DTE Electric Company","Res-TOU-Off_Peak",8.5,0.05456,0.001877,0.163454,0.009757
-"2026-03-01","MI","DTE Electric Company","Res-TOU-On_Peak",8.5,0.13687,0.01877,0.259077,0.006177
-"2026-04-01","MI","DTE Electric Company","Res-TOU-On_Peak",8.5,0.13687,0.01877,0.262657,0.009757
-"2026-05-01","MI","DTE Electric Company","Res-TOU-On_Peak",8.5,0.13687,0.01877,0.262657,0.009757
-"2026-06-01","MI","DTE Electric Company","Res-TOU-On_Peak",8.5,0.16203,0.01877,0.287817,0.009757
-"2026-07-01","MI","DTE Electric Company","Res-TOU-On_Peak",8.5,0.16203,0.001877,0.270924,0.009757
-"2026-08-01","MI","DTE Electric Company","Res-TOU-On_Peak",8.5,0.16203,0.001877,0.270924,0.009757
-"2026-03-01","MI","Indiana Michigan Power Company","Res",7.58,0.11831,0.00193,0.175037,0.008867
-"2026-04-01","MI","Indiana Michigan Power Company","Res",7.58,0.11831,0.00193,0.175037,0.008867
-"2026-05-01","MI","Indiana Michigan Power Company","Res",7.58,0.11831,0.00193,0.175037,0.008867
-"2026-06-01","MI","Indiana Michigan Power Company","Res",7.58,0.11831,0.00193,0.175037,0.008867
-"2026-07-01","MI","Indiana Michigan Power Company","Res",7.58,0.11831,-0.001258,0.171849,0.008867
-"2026-08-01","MI","Indiana Michigan Power Company","Res",7.58,0.11831,-0.001258,0.17173,0.008748
-"2026-03-01","MI","Indiana Michigan Power Company","Res-TOU-Off_Peak",7.58,0.03215,0.00193,0.088757,0.008867
-"2026-04-01","MI","Indiana Michigan Power Company","Res-TOU-Off_Peak",7.58,0.03215,0.00193,0.088757,0.008867
-"2026-05-01","MI","Indiana Michigan Power Company","Res-TOU-Off_Peak",7.58,0.03215,0.00193,0.088757,0.008867
-"2026-06-01","MI","Indiana Michigan Power Company","Res-TOU-Off_Peak",7.58,0.03215,0.00193,0.088757,0.008867
-"2026-07-01","MI","Indiana Michigan Power Company","Res-TOU-Off_Peak",7.58,0.03215,-0.001258,0.085569,0.008867
-"2026-08-01","MI","Indiana Michigan Power Company","Res-TOU-Off_Peak",7.58,0.03215,-0.001258,0.08545,0.008748
-"2026-03-01","MI","Indiana Michigan Power Company","Res-TOU-On_Peak",7.58,0.22106,0.00193,0.277667,0.008867
-"2026-04-01","MI","Indiana Michigan Power Company","Res-TOU-On_Peak",7.58,0.22106,0.00193,0.277667,0.008867
-"2026-05-01","MI","Indiana Michigan Power Company","Res-TOU-On_Peak",7.58,0.22106,0.00193,0.277667,0.008867
-"2026-06-01","MI","Indiana Michigan Power Company","Res-TOU-On_Peak",7.58,0.22106,0.00193,0.277667,0.008867
-"2026-07-01","MI","Indiana Michigan Power Company","Res-TOU-On_Peak",7.58,0.22106,-0.001258,0.274479,0.008867
-"2026-08-01","MI","Indiana Michigan Power Company","Res-TOU-On_Peak",7.58,0.22106,-0.001258,0.27436,0.008748
-"2026-02-01","MI","Lansing BWL","Res - Off_Peak",22.5,0.1504,0.003491,0.156891,0.003
-"2026-03-01","MI","Lansing BWL","Res - Off_Peak",22.5,0.1504,0.002015,0.156915,0.0045
-"2026-04-01","MI","Lansing BWL","Res - Off_Peak",22.5,0.1504,0.002517,0.157417,0.0045
-"2026-05-01","MI","Lansing BWL","Res - Off_Peak",22.5,0.1504,0.002224,0.157124,0.0045
-"2026-06-01","MI","Lansing BWL","Res - Off_Peak",22.5,0.1504,0.002339,0.157239,0.0045
-"2026-07-01","MI","Lansing BWL","Res - Off_Peak",22.5,0.1504,-0.000674,0.154226,0.0045
-"2026-02-01","MI","Lansing BWL","Res - On_Peak",22.5,0.174,0.003491,0.180491,0.003
-"2026-03-01","MI","Lansing BWL","Res - On_Peak",22.5,0.174,0.002015,0.180515,0.0045
-"2026-04-01","MI","Lansing BWL","Res - On_Peak",22.5,0.174,0.002517,0.181017,0.0045
-"2026-05-01","MI","Lansing BWL","Res - On_Peak",22.5,0.174,0.002224,0.180724,0.0045
-"2026-06-01","MI","Lansing BWL","Res - On_Peak",22.5,0.174,0.002339,0.180839,0.0045
-"2026-07-01","MI","Lansing BWL","Res - On_Peak",22.5,0.174,-0.000674,0.177826,0.0045
-"2026-03-01","MI","Northern States Power Company","Res",9,0.09425,-0.01009,0.14452,0.00226
-"2026-04-01","MI","Northern States Power Company","Res",9,0.09425,-0.01009,0.14452,0.00226
-"2026-05-01","MI","Northern States Power Company","Res",9,0.09425,-0.01009,0.14452,0.00226
-"2026-06-01","MI","Northern States Power Company","Res",9,0.09425,-0.01009,0.14452,0.00226
-"2026-07-01","MI","Northern States Power Company","Res",9,0.09425,-0.01009,0.14452,0.00226
-"2026-08-01","MI","Northern States Power Company","Res",9,0.09425,-0.01009,0.14452,0.00226
-"2026-03-01","MI","Northern States Power Company","Res-TOU-Off_Peak",9,0.042,-0.01009,0.09227,0.00226
-"2026-04-01","MI","Northern States Power Company","Res-TOU-Off_Peak",9,0.042,-0.01009,0.09227,0.00226
-"2026-05-01","MI","Northern States Power Company","Res-TOU-Off_Peak",9,0.042,-0.01009,0.09227,0.00226
-"2026-06-01","MI","Northern States Power Company","Res-TOU-Off_Peak",9,0.042,-0.01009,0.09227,0.00226
-"2026-07-01","MI","Northern States Power Company","Res-TOU-Off_Peak",9,0.042,-0.01009,0.09227,0.00226
-"2026-08-01","MI","Northern States Power Company","Res-TOU-Off_Peak",9,0.042,-0.01009,0.09227,0.00226
-"2026-03-01","MI","Northern States Power Company","Res-TOU-On_Peak",9,0.1607,-0.01009,0.21097,0.00226
-"2026-04-01","MI","Northern States Power Company","Res-TOU-On_Peak",9,0.1607,-0.01009,0.21097,0.00226
-"2026-05-01","MI","Northern States Power Company","Res-TOU-On_Peak",9,0.1607,-0.01009,0.21097,0.00226
-"2026-06-01","MI","Northern States Power Company","Res-TOU-On_Peak",9,0.1607,-0.01009,0.21097,0.00226
-"2026-07-01","MI","Northern States Power Company","Res-TOU-On_Peak",9,0.1607,-0.01009,0.21097,0.00226
-"2026-08-01","MI","Northern States Power Company","Res-TOU-On_Peak",9,0.1607,-0.01009,0.21097,0.00226
-"2026-03-01","MI","Upper Michigan Energy Resources","Res",9.61,0.11248,0.0063,0.17515,0.00323
-"2026-04-01","MI","Upper Michigan Energy Resources","Res",9.61,0.11248,0.0063,0.17515,0.00323
-"2026-05-01","MI","Upper Michigan Energy Resources","Res",9.61,0.11248,0.0063,0.17515,0.00323
-"2026-06-01","MI","Upper Michigan Energy Resources","Res",9.61,0.11248,-0.00475,0.1641,0.00323
-"2026-07-01","MI","Upper Michigan Energy Resources","Res",9.61,0.11248,-0.00625,0.1626,0.00323
-"2026-08-01","MI","Upper Michigan Energy Resources","Res",9.61,0.11248,-0.00625,0.1626,0.00323
-"2026-03-01","MI","Upper Michigan Energy Resources","Res-TOU-Off_Peak",9.61,0.07395,0.0063,0.13662,0.00323
-"2026-04-01","MI","Upper Michigan Energy Resources","Res-TOU-Off_Peak",9.61,0.07395,0.0063,0.13662,0.00323
-"2026-05-01","MI","Upper Michigan Energy Resources","Res-TOU-Off_Peak",9.61,0.07395,0.0063,0.13662,0.00323
-"2026-06-01","MI","Upper Michigan Energy Resources","Res-TOU-Off_Peak",9.61,0.07395,-0.00475,0.12557,0.00323
-"2026-07-01","MI","Upper Michigan Energy Resources","Res-TOU-Off_Peak",9.61,0.07395,-0.00625,0.12407,0.00323
-"2026-08-01","MI","Upper Michigan Energy Resources","Res-TOU-Off_Peak",9.61,0.07395,-0.00625,0.12407,0.00323
-"2026-03-01","MI","Upper Michigan Energy Resources","Res-TOU-On_Peak",9.61,0.23564,0.0063,0.29831,0.00323
-"2026-04-01","MI","Upper Michigan Energy Resources","Res-TOU-On_Peak",9.61,0.23564,0.0063,0.29831,0.00323
-"2026-05-01","MI","Upper Michigan Energy Resources","Res-TOU-On_Peak",9.61,0.23564,0.0063,0.29831,0.00323
-"2026-06-01","MI","Upper Michigan Energy Resources","Res-TOU-On_Peak",9.61,0.23564,-0.00475,0.28726,0.00323
-"2026-07-01","MI","Upper Michigan Energy Resources","Res-TOU-On_Peak",9.61,0.23564,-0.00625,0.28576,0.00323
-"2026-08-01","MI","Upper Michigan Energy Resources","Res-TOU-On_Peak",9.61,0.23564,-0.00625,0.28576,0.00323
-"2026-03-01","MI","Upper Peninsula Power Company","Res",15,0.13567,0.0209,0.25487,0.0064
-"2026-04-01","MI","Upper Peninsula Power Company","Res",15,0.13567,0.0209,0.25487,0.0064
-"2026-05-01","MI","Upper Peninsula Power Company","Res",15,0.13567,0.02342,0.25739,0.0064
-"2026-06-01","MI","Upper Peninsula Power Company","Res",15,0.13567,0.02342,0.25739,0.0064
-"2026-07-01","MI","Upper Peninsula Power Company","Res",15,0.13567,0.02342,0.25739,0.0064
-"2026-08-01","MI","Upper Peninsula Power Company","Res",15,0.13567,0.02342,0.25739,0.0064
-"2026-03-01","MN","Minnesota Power","Res - RC20",9,0.10772,0.03033,0.161562,0.023512
-"2026-04-01","MN","Minnesota Power","Res - RC20",9,0.10772,0.02867,0.159783,0.023393
-"2026-05-01","MN","Minnesota Power","Res - RC20",9,0.10772,0.02981,0.161005,0.023475
-"2026-06-01","MN","Minnesota Power","Res - RC20",9,0.10772,0.02775,0.158798,0.023328
-"2026-07-01","MN","Minnesota Power","Res - RC20",9,0.10772,0.03392,0.16541,0.02377
-"2026-08-01","MN","Minnesota Power","Res - RC20",9,0.10772,0.03503,0.1666,0.02385
-"2026-03-01","MN","Northern States Power Company","Res - A01",6,0.11364,0.01681,0.140119,0.009669
-"2026-04-01","MN","Northern States Power Company","Res - A01",6,0.11364,0.02499,0.148299,0.009669
-"2026-05-01","MN","Northern States Power Company","Res - A01",6,0.11364,0.02695,0.150259,0.009669
-"2026-06-01","MN","Northern States Power Company","Res - A01",6,0.13069,0.02973,0.1705,0.01008
-"2026-07-01","MN","Northern States Power Company","Res - A01",6,0.13069,0.02927,0.17004,0.01008
-"2026-08-01","MN","Northern States Power Company","Res - A01",6,0.13069,0.0278,0.16857,0.01008
-"2026-03-01","MN","Northern States Power Company","Res - Off_Peak",6,0.05171,0.01681,0.076696,0.008176
-"2026-04-01","MN","Northern States Power Company","Res - Off_Peak",6,0.05171,0.02499,0.084876,0.008176
-"2026-05-01","MN","Northern States Power Company","Res - Off_Peak",6,0.05171,0.02695,0.086836,0.008176
-"2026-06-01","MN","Northern States Power Company","Res - Off_Peak",6,0.05171,0.02973,0.089616,0.008176
-"2026-07-01","MN","Northern States Power Company","Res - Off_Peak",6,0.05171,0.02927,0.089156,0.008176
-"2026-08-01","MN","Northern States Power Company","Res - Off_Peak",6,0.05171,0.0278,0.087686,0.008176
-"2026-03-01","MN","Northern States Power Company","Res - On_Peak",6,0.21408,0.01681,0.242979,0.012089
-"2026-04-01","MN","Northern States Power Company","Res - On_Peak",6,0.21408,0.02499,0.251159,0.012089
-"2026-05-01","MN","Northern States Power Company","Res - On_Peak",6,0.21408,0.02695,0.253119,0.012089
-"2026-06-01","MN","Northern States Power Company","Res - On_Peak",6,0.21408,0.02973,0.255899,0.012089
-"2026-07-01","MN","Northern States Power Company","Res - On_Peak",6,0.21408,0.02927,0.255439,0.012089
-"2026-08-01","MN","Northern States Power Company","Res - On_Peak",6,0.21408,0.0278,0.253969,0.012089
-"2026-03-01","MN","Otter Tail Power Company","Res",12.81,0.072819,0.0235,0.108132,0.011813
-"2026-04-01","MN","Otter Tail Power Company","Res",12.81,0.072819,0.02093,0.107942,0.014193
-"2026-05-01","MN","Otter Tail Power Company","Res",12.81,0.072819,0.02373,0.110742,0.014193
-"2026-06-01","MN","Otter Tail Power Company","Res",12.81,0.09764,0.02657,0.138403,0.014193
-"2026-07-01","MN","Otter Tail Power Company","Res",12.81,0.09764,0.03593,0.147763,0.014193
-"2026-08-01","MN","Otter Tail Power Company","Res",12.81,0.09764,0.03224,0.144073,0.014193
-"2026-04-01","MO","Ameren Missouri","Res",9.19,0.156,0.0054,0.16796,0.00656
-"2026-05-01","MO","Ameren Missouri","Res",9.19,0.156,0.0054,0.16796,0.00656
-"2026-06-01","MO","Ameren Missouri","Res",9.19,0.1062,0.00894,0.1217,0.00656
-"2026-07-01","MO","Ameren Missouri","Res",9.19,0.1062,0.00894,0.1217,0.00656
-"2026-08-01","MO","Ameren Missouri","Res",9.19,0.1062,0.00894,0.1217,0.00656
-"2026-09-01","MO","Ameren Missouri","Res",9.19,0.1062,0.00894,0.1217,0.00656
-"2026-04-01","MO","Ameren Missouri","Res - TOU-Off_Peak",9.19,0.1045,0.0054,0.11646,0.00656
-"2026-05-01","MO","Ameren Missouri","Res - TOU-Off_Peak",9.19,0.1045,0.0054,0.11646,0.00656
-"2026-06-01","MO","Ameren Missouri","Res - TOU-Off_Peak",9.19,0.1524,0.00894,0.1679,0.00656
-"2026-07-01","MO","Ameren Missouri","Res - TOU-Off_Peak",9.19,0.1524,0.00894,0.1679,0.00656
-"2026-08-01","MO","Ameren Missouri","Res - TOU-Off_Peak",9.19,0.1524,0.00894,0.1679,0.00656
-"2026-09-01","MO","Ameren Missouri","Res - TOU-Off_Peak",9.19,0.1524,0.00894,0.1679,0.00656
-"2026-04-01","MO","Ameren Missouri","Res - TOU-On_Peak",9.19,0.1073,0.0054,0.11926,0.00656
-"2026-05-01","MO","Ameren Missouri","Res - TOU-On_Peak",9.19,0.1073,0.0054,0.11926,0.00656
-"2026-06-01","MO","Ameren Missouri","Res - TOU-On_Peak",9.19,0.1581,0.00894,0.1736,0.00656
-"2026-07-01","MO","Ameren Missouri","Res - TOU-On_Peak",9.19,0.1581,0.00894,0.1736,0.00656
-"2026-08-01","MO","Ameren Missouri","Res - TOU-On_Peak",9.19,0.1581,0.00894,0.1736,0.00656
-"2026-09-01","MO","Ameren Missouri","Res - TOU-On_Peak",9.19,0.1581,0.00894,0.1736,0.00656
-"2026-04-01","MO","Evergy Missouri Metro","Res",12,0.12495,0.00142,0.12933,0.00296
-"2026-05-01","MO","Evergy Missouri Metro","Res",12,0.12495,0.00142,0.12933,0.00296
-"2026-06-01","MO","Evergy Missouri Metro","Res",12,0.14053,0.00142,0.14491,0.00296
-"2026-07-01","MO","Evergy Missouri Metro","Res",12,0.14053,0.00142,0.14491,0.00296
-"2026-08-01","MO","Evergy Missouri Metro","Res",12,0.14053,0.00142,0.14491,0.00296
-"2026-09-01","MO","Evergy Missouri Metro","Res",12,0.14053,0.00142,0.14491,0.00296
-"2026-04-01","MO","Evergy Missouri Metro","Res - TOU-Off_Peak",12,0.11233,0.00142,0.11671,0.00296
-"2026-05-01","MO","Evergy Missouri Metro","Res - TOU-Off_Peak",12,0.11233,0.00142,0.11671,0.00296
-"2026-06-01","MO","Evergy Missouri Metro","Res - TOU-Off_Peak",12,0.13094,0.00142,0.13532,0.00296
-"2026-07-01","MO","Evergy Missouri Metro","Res - TOU-Off_Peak",12,0.13094,0.00142,0.13532,0.00296
-"2026-08-01","MO","Evergy Missouri Metro","Res - TOU-Off_Peak",12,0.13094,0.00142,0.13532,0.00296
-"2026-09-01","MO","Evergy Missouri Metro","Res - TOU-Off_Peak",12,0.13094,0.00142,0.13532,0.00296
-"2026-04-01","MO","Evergy Missouri Metro","Res - TOU-On_Peak",12,0.12483,0.00142,0.12921,0.00296
-"2026-05-01","MO","Evergy Missouri Metro","Res - TOU-On_Peak",12,0.12483,0.00142,0.12921,0.00296
-"2026-06-01","MO","Evergy Missouri Metro","Res - TOU-On_Peak",12,0.15094,0.00142,0.15532,0.00296
-"2026-07-01","MO","Evergy Missouri Metro","Res - TOU-On_Peak",12,0.15094,0.00142,0.15532,0.00296
-"2026-08-01","MO","Evergy Missouri Metro","Res - TOU-On_Peak",12,0.15094,0.00142,0.15532,0.00296
-"2026-09-01","MO","Evergy Missouri Metro","Res - TOU-On_Peak",12,0.15094,0.00142,0.15532,0.00296
-"2026-04-01","MO","Evergy Missouri West","Res",12.9,0.11254,0.00452,0.1233,0.00624
-"2026-05-01","MO","Evergy Missouri West","Res",12.9,0.11254,0.00452,0.1233,0.00624
-"2026-06-01","MO","Evergy Missouri West","Res",12.9,0.1245,0.00452,0.13526,0.00624
-"2026-07-01","MO","Evergy Missouri West","Res",12.9,0.1245,0.00452,0.13526,0.00624
-"2026-08-01","MO","Evergy Missouri West","Res",12.9,0.1245,0.00452,0.13526,0.00624
-"2026-09-01","MO","Evergy Missouri West","Res",12.9,0.1245,0.00876,0.1395,0.00624
-"2026-04-01","MO","Evergy Missouri West","Res - TOU-Off_Peak",12,0.11233,0.00452,0.12309,0.00624
-"2026-05-01","MO","Evergy Missouri West","Res - TOU-Off_Peak",12,0.11233,0.00452,0.12309,0.00624
-"2026-06-01","MO","Evergy Missouri West","Res - TOU-Off_Peak",12,0.13094,0.00452,0.1417,0.00624
-"2026-07-01","MO","Evergy Missouri West","Res - TOU-Off_Peak",12,0.13094,0.00452,0.1417,0.00624
-"2026-08-01","MO","Evergy Missouri West","Res - TOU-Off_Peak",12,0.13094,0.00452,0.1417,0.00624
-"2026-09-01","MO","Evergy Missouri West","Res - TOU-Off_Peak",12,0.13094,0.00876,0.14594,0.00624
-"2026-04-01","MO","Evergy Missouri West","Res - TOU-On_Peak",12,0.12483,0.00452,0.13559,0.00624
-"2026-05-01","MO","Evergy Missouri West","Res - TOU-On_Peak",12,0.12483,0.00452,0.13559,0.00624
-"2026-06-01","MO","Evergy Missouri West","Res - TOU-On_Peak",12,0.15094,0.00452,0.1617,0.00624
-"2026-07-01","MO","Evergy Missouri West","Res - TOU-On_Peak",12,0.15094,0.00452,0.1617,0.00624
-"2026-08-01","MO","Evergy Missouri West","Res - TOU-On_Peak",12,0.15094,0.00452,0.1617,0.00624
-"2026-09-01","MO","Evergy Missouri West","Res - TOU-On_Peak",12,0.15094,0.00876,0.16594,0.00624
-"2026-04-01","MO","The Empire District Electric Company","Res",13,0.13582,0.01682,0.15379,0.00115
-"2026-05-01","MO","The Empire District Electric Company","Res",13,0.13582,0.01682,0.15379,0.00115
-"2026-06-01","MO","The Empire District Electric Company","Res",13,0.13582,0.01904,0.15601,0.00115
-"2026-07-01","MO","The Empire District Electric Company","Res",13,0.13582,0.01904,0.15601,0.00115
-"2026-08-01","MO","The Empire District Electric Company","Res",13,0.13582,0.01904,0.15601,0.00115
-"2026-09-01","MO","The Empire District Electric Company","Res",13,0.13582,0.01904,0.15601,0.00115
-"2026-04-01","MO","The Empire District Electric Company","Res - TOU-Off_Peak",13,0.14031,0.01682,0.15828,0.00115
-"2026-05-01","MO","The Empire District Electric Company","Res - TOU-Off_Peak",13,0.14031,0.01682,0.15828,0.00115
-"2026-06-01","MO","The Empire District Electric Company","Res - TOU-Off_Peak",13,0.14031,0.01904,0.1605,0.00115
-"2026-07-01","MO","The Empire District Electric Company","Res - TOU-Off_Peak",13,0.14031,0.01904,0.1605,0.00115
-"2026-08-01","MO","The Empire District Electric Company","Res - TOU-Off_Peak",13,0.14031,0.01904,0.1605,0.00115
-"2026-09-01","MO","The Empire District Electric Company","Res - TOU-Off_Peak",13,0.14031,0.01904,0.1605,0.00115
-"2026-03-01","OH","Duke Energy Ohio","Res - RS",8,0.1006,0,0.170305,0.030012
-"2026-04-01","OH","Duke Energy Ohio","Res - RS",8,0.1008,0,0.170505,0.030012
-"2026-05-01","OH","Duke Energy Ohio","Res - RS",8,0.1008,0,0.170505,0.030012
-"2026-06-01","OH","Duke Energy Ohio","Res - RS",8,0.107,0,0.176705,0.030012
-"2026-07-01","OH","Duke Energy Ohio","Res - RS",8,0.107,0,0.176705,0.030012
-"2026-08-01","OH","Duke Energy Ohio","Res - RS",8,0.107,0,0.176705,0.030012
-"2026-03-01","OH","Ohio Edison","Res - RS",6.5,0.097,0.0032,0.1824,0.041212
-"2026-04-01","OH","Ohio Edison","Res - RS",6.5,0.097,0.0032,0.1824,0.041212
-"2026-05-01","OH","Ohio Edison","Res - RS",6.5,0.097,0.0032,0.1824,0.041212
-"2026-06-01","OH","Ohio Edison","Res - RS",6.5,0.1083,0.0032,0.1937,0.041212
-"2026-07-01","OH","Ohio Edison","Res - RS",6.5,0.1092,0.0032,0.19458,0.041192
-"2026-08-01","OH","Ohio Edison","Res - RS",6.5,0.1092,0.0032,0.19458,0.041192
-"2026-03-01","OH","Ohio Power Company","Res - RS",10,0.1065,0,0.19184,0.05903
-"2026-04-01","OH","Ohio Power Company","Res - RS",13.5,0.0994,0,0.20137,0.0672
-"2026-05-01","OH","Ohio Power Company","Res - RS",13.5,0.0994,0,0.20137,0.0672
-"2026-06-01","OH","Ohio Power Company","Res - RS",13.5,0.1012,0,0.20317,0.0672
-"2026-07-01","OH","Ohio Power Company","Res - RS",13.5,0.1097,0,0.20225,0.05778
-"2026-08-01","OH","Ohio Power Company","Res - RS",13.5,0.1097,0,0.20225,0.05778
-"2026-03-01","WI","Madison Gas & Electric Company","Res - Rg1",15.29,0.12178,0,0.18433,0
-"2026-04-01","WI","Madison Gas & Electric Company","Res - Rg1",14.79,0.12178,0,0.18433,0
-"2026-05-01","WI","Madison Gas & Electric Company","Res - Rg1",15.29,0.12178,0,0.18433,0
-"2026-06-01","WI","Madison Gas & Electric Company","Res - Rg1",14.79,0.12178,0,0.18433,0
-"2026-07-01","WI","Madison Gas & Electric Company","Res - Rg1",15.29,0.12178,0,0.18433,0
-"2026-08-01","WI","Madison Gas & Electric Company","Res - Rg1",15.29,0.12178,0,0.18433,0
-"2026-03-01","WI","Northern States Power Company","Res - Rg1",16,0.15507,0.00284,0.16017,0.00226
-"2026-04-01","WI","Northern States Power Company","Res - Rg1",16,0.15507,0.00284,0.16017,0.00226
-"2026-05-01","WI","Northern States Power Company","Res - Rg1",16,0.15507,0.00284,0.16017,0.00226
-"2026-06-01","WI","Northern States Power Company","Res - Rg1",16,0.15507,0.00284,0.16017,0.00226
-"2026-07-01","WI","Northern States Power Company","Res - Rg1",16,0.15507,0.00284,0.16017,0.00226
-"2026-08-01","WI","Northern States Power Company","Res - Rg1",16,0.15507,0.00284,0.16017,0.00226
-"2026-03-01","WI","Wisconsin Electric Power Company","Res - Rg1",15,0.19342,0.00199,0.19593,0.00052
-"2026-04-01","WI","Wisconsin Electric Power Company","Res - Rg1",15,0.19342,0.00199,0.19593,0.00052
-"2026-05-01","WI","Wisconsin Electric Power Company","Res - Rg1",15,0.19342,0.00199,0.19593,0.00052
-"2026-06-01","WI","Wisconsin Electric Power Company","Res - Rg1",15,0.19342,0.00199,0.19593,0.00052
-"2026-07-01","WI","Wisconsin Electric Power Company","Res - Rg1",15,0.19342,0.00199,0.19593,0.00052
-"2026-08-01","WI","Wisconsin Electric Power Company","Res - Rg1",15,0.19342,0.00199,0.19593,0.00052
-"2026-03-01","WI","Wisconsin Power & Light Company","Res - Rg1",16,0.17011,0,0.17011,0
-"2026-04-01","WI","Wisconsin Power & Light Company","Res - Rg1",16,0.17011,0,0.17011,0
-"2026-05-01","WI","Wisconsin Power & Light Company","Res - Rg1",16,0.17011,0,0.17011,0
-"2026-06-01","WI","Wisconsin Power & Light Company","Res - Rg1",16,0.17011,0,0.17011,0
-"2026-07-01","WI","Wisconsin Power & Light Company","Res - Rg1",16,0.17011,0,0.17011,0
-"2026-08-01","WI","Wisconsin Power & Light Company","Res - Rg1",16,0.17011,0,0.17011,0
-"2026-03-01","WI","Wisconsin Public Service Corporation","Res - Rg1",17.92,0.14802,0.00107,0.15141,0.00232
-"2026-04-01","WI","Wisconsin Public Service Corporation","Res - Rg1",17.92,0.14802,0.00107,0.15141,0.00232
-"2026-05-01","WI","Wisconsin Public Service Corporation","Res - Rg1",17.92,0.14802,0.00107,0.15141,0.00232
-"2026-06-01","WI","Wisconsin Public Service Corporation","Res - Rg1",17.92,0.14802,0.00107,0.15141,0.00232
-"2026-07-01","WI","Wisconsin Public Service Corporation","Res - Rg1",17.92,0.14802,0.00107,0.15141,0.00232
-"2026-08-01","WI","Wisconsin Public Service Corporation","Res - Rg1",17.92,0.14802,0.00107,0.15141,0.00232
+Date,State,Utility,Rate_Code,Service_Charge,Energy_Charge,Fuel_Charge,Total_Per_kWh,Surcharges_Per_kWh
+2026-03-01,IA,Interstate Power and Light Company,Res - 400,15.5,0.09992,0.00796,0.16064,0.05276
+2026-03-01,IA,Interstate Power and Light Company,Res - TOU-Off_Peak,15.5,0.09992,0.00796,0.1506,0.04272
+2026-04-01,IA,Interstate Power and Light Company,Res - 400,15.5,0.09992,-0.00254,0.16064,0.06326
+2026-04-01,IA,Interstate Power and Light Company,Res - TOU-Off_Peak,15.5,0.09992,-0.00254,0.1506,0.05322
+2026-05-01,IA,Interstate Power and Light Company,Res - 400,15.5,0.09992,-0.00994,0.16064,0.07066
+2026-05-01,IA,Interstate Power and Light Company,Res - TOU-Off_Peak,15.5,0.09992,-0.00994,0.1506,0.06062
+2026-06-01,IA,Interstate Power and Light Company,Res - 400,15.5,0.13398,-0.00334,0.1947,0.06406
+2026-06-01,IA,Interstate Power and Light Company,Res - TOU-On_Peak,15.5,0.22269,-0.00334,0.27337,0.05402
+2026-06-01,IA,Interstate Power and Light Company,Res - TOU-Off_Peak,15.5,0.11134,-0.00334,0.16202,0.05402
+2026-07-01,IA,Interstate Power and Light Company,Res - 400,15.5,0.13398,0.00656,0.1947,0.05416
+2026-07-01,IA,Interstate Power and Light Company,Res - TOU-On_Peak,15.5,0.22269,0.00656,0.27337,0.04412
+2026-07-01,IA,Interstate Power and Light Company,Res - TOU-Off_Peak,15.5,0.11134,0.00656,0.16202,0.04412
+2026-08-01,IA,Interstate Power and Light Company,Res - 400,15.5,0.13398,0.01076,0.1947,0.04996
+2026-08-01,IA,Interstate Power and Light Company,Res - TOU-On_Peak,15.5,0.22269,0.01076,0.27337,0.03992
+2026-08-01,IA,Interstate Power and Light Company,Res - TOU-Off_Peak,15.5,0.11134,0.01076,0.16202,0.03992
+2026-04-01,IA,MidAmerican Energy Company,Res - RS,8.5,0.08044,0.00802,0.09308,0.00462
+2026-04-01,IA,MidAmerican Energy Company,Res - TOU-On_Peak,8.5,0.07809,0.00802,0.09073,0.00462
+2026-04-01,IA,MidAmerican Energy Company,Res - TOU-Off_Peak,8.5,0.06656,0.00802,0.0792,0.00462
+2026-05-01,IA,MidAmerican Energy Company,Res - RS,8.5,0.08044,0.00802,0.09308,0.00462
+2026-05-01,IA,MidAmerican Energy Company,Res - TOU-On_Peak,8.5,0.07809,0.00802,0.09073,0.00462
+2026-05-01,IA,MidAmerican Energy Company,Res - TOU-Off_Peak,8.5,0.06656,0.00802,0.0792,0.00462
+2026-06-01,IA,MidAmerican Energy Company,Res - RS,8.5,0.10575,0.00802,0.11839,0.00462
+2026-06-01,IA,MidAmerican Energy Company,Res - TOU-On_Peak,8.5,0.20925,0.00802,0.22189,0.00462
+2026-06-01,IA,MidAmerican Energy Company,Res - TOU-Off_Peak,8.5,0.06553,0.00802,0.07817,0.00462
+2026-07-01,IA,MidAmerican Energy Company,Res - RS,8.5,0.10575,0.00802,0.11839,0.00462
+2026-07-01,IA,MidAmerican Energy Company,Res - TOU-On_Peak,8.5,0.20925,0.00802,0.22189,0.00462
+2026-07-01,IA,MidAmerican Energy Company,Res - TOU-Off_Peak,8.5,0.06553,0.00802,0.07817,0.00462
+2026-08-01,IA,MidAmerican Energy Company,Res - RS,8.5,0.10575,0.00802,0.11839,0.00462
+2026-08-01,IA,MidAmerican Energy Company,Res - TOU-On_Peak,8.5,0.20925,0.00802,0.22189,0.00462
+2026-08-01,IA,MidAmerican Energy Company,Res - TOU-Off_Peak,8.5,0.06553,0.00802,0.07817,0.00462
+2026-09-01,IA,MidAmerican Energy Company,Res - RS,8.5,0.10575,0.00802,0.11839,0.00462
+2026-09-01,IA,MidAmerican Energy Company,Res - TOU-On_Peak,8.5,0.20925,0.00802,0.22189,0.00462
+2026-09-01,IA,MidAmerican Energy Company,Res - TOU-Off_Peak,8.5,0.06553,0.00802,0.07817,0.00462
+2026-03-01,IL,Ameren Illinois,Res - DS1,12.27,0.06876,0,0.149438,0.038948
+2026-04-01,IL,Ameren Illinois,Res - DS1,12.27,0.06452,0,0.14525,0.039
+2026-05-01,IL,Ameren Illinois,Res - DS1,12.27,0.06452,0,0.145251,0.039001
+2026-06-01,IL,Ameren Illinois,Res - DS1,12.27,0.08009,0,0.193321,0.041981
+2026-07-01,IL,Ameren Illinois,Res - DS1,12.27,0.08009,0,0.193321,0.041981
+2026-08-01,IL,Ameren Illinois,Res - DS1,12.27,0.08009,0,0.193321,0.041981
+2026-04-01,IL,ComEd,Res - BES,19.58,0.0966,0,0.13758,-0.01964
+2026-05-01,IL,ComEd,Res - BES,19.58,0.0966,0,0.16944,0.01222
+2026-06-01,IL,ComEd,Res - BES,19.58,0.10399,0,0.16417,-0.00122
+2026-07-01,IL,ComEd,Res - BES,19.58,0.10399,0,0.16533,-0.00006
+2026-08-01,IL,ComEd,Res - BES,19.58,0.10399,0,0.17761,0.01222
+2026-09-01,IL,ComEd,Res - BES,19.58,0.10399,0,0.17761,0.01222
+2026-03-01,IL,MidAmerican Energy Company,Res - RS,8.97,0.02705,0,0.08146,0.02712
+2026-03-01,IL,MidAmerican Energy Company,Res - TOU-On_Peak,8.97,0.02554,0,0.07995,0.02712
+2026-03-01,IL,MidAmerican Energy Company,Res - TOU-Off_Peak,8.97,0.02086,0,0.07527,0.02712
+2026-04-01,IL,MidAmerican Energy Company,Res - RS,8.97,0.02705,0,0.08371,0.02937
+2026-04-01,IL,MidAmerican Energy Company,Res - TOU-On_Peak,8.97,0.02554,0,0.0822,0.02937
+2026-04-01,IL,MidAmerican Energy Company,Res - TOU-Off_Peak,8.97,0.02086,0,0.07752,0.02937
+2026-05-01,IL,MidAmerican Energy Company,Res - RS,8.97,0.02705,0,0.08371,0.02937
+2026-05-01,IL,MidAmerican Energy Company,Res - TOU-On_Peak,8.97,0.02554,0,0.0822,0.02937
+2026-05-01,IL,MidAmerican Energy Company,Res - TOU-Off_Peak,8.97,0.02086,0,0.07752,0.02937
+2026-06-01,IL,MidAmerican Energy Company,Res - RS,8.97,0.05695,0,0.11615,0.03191
+2026-06-01,IL,MidAmerican Energy Company,Res - TOU-On_Peak,8.97,0.13805,0,0.19725,0.03191
+2026-06-01,IL,MidAmerican Energy Company,Res - TOU-Off_Peak,8.97,0.02208,0,0.08128,0.03191
+2026-07-01,IL,MidAmerican Energy Company,Res - RS,8.97,0.05695,0,0.11615,0.03191
+2026-07-01,IL,MidAmerican Energy Company,Res - TOU-On_Peak,8.97,0.13805,0,0.19725,0.03191
+2026-07-01,IL,MidAmerican Energy Company,Res - TOU-Off_Peak,8.97,0.02208,0,0.08128,0.03191
+2026-08-01,IL,MidAmerican Energy Company,Res - RS,8.97,0.05695,0.01526,0.10457,0.00507
+2026-08-01,IL,MidAmerican Energy Company,Res - TOU-On_Peak,8.97,0.13805,0.01526,0.18567,0.00507
+2026-08-01,IL,MidAmerican Energy Company,Res - TOU-Off_Peak,8.97,0.02208,0.01526,0.0697,0.00507
+2026-03-01,IN,AES Indiana,Res - RS,17,0.125421,-0.005544,0.146419,0.026542
+2026-04-01,IN,AES Indiana,Res - RS,17,0.125421,-0.005544,0.146274,0.026397
+2026-05-01,IN,AES Indiana,Res - RS,17,0.125421,-0.005544,0.146274,0.026397
+2026-06-01,IN,AES Indiana,Res - RS,17,0.125421,0.003983,0.156641,0.027237
+2026-07-01,IN,AES Indiana,Res - RS,17,0.125421,0.003983,0.156641,0.027237
+2026-08-01,IN,AES Indiana,Res - RS,17,0.15001,-0.000801,0.157338,0.008129
+2026-03-01,IN,Duke Energy Indiana,Res,13.7,0.186556,0.00609,0.189378,-0.003268
+2026-04-01,IN,Duke Energy Indiana,Res,13.7,0.186556,0.001369,0.187067,-0.000858
+2026-05-01,IN,Duke Energy Indiana,Res,13.7,0.186556,0.001369,0.187996,0.000071
+2026-06-01,IN,Duke Energy Indiana,Res,13.7,0.186555,0.001369,0.187995,0.000071
+2026-07-01,IN,Duke Energy Indiana,Res,13.7,0.186556,0.003568,0.18786,-0.002264
+2026-08-01,IN,Duke Energy Indiana,Res,13.7,0.186556,0.003568,0.18786,-0.002264
+2026-03-01,IN,Northern Indiana Public Service Company,Res,14,0.205,-0.005704,0.218678,0.019382
+2026-04-01,IN,Northern Indiana Public Service Company,Res,14,0.205,-0.005704,0.218678,0.019382
+2026-05-01,IN,Northern Indiana Public Service Company,Res,14,0.205,-0.008552,0.214776,0.018328
+2026-06-01,IN,Northern Indiana Public Service Company,Res,14,0.205,-0.008552,0.214776,0.018328
+2026-07-01,IN,Northern Indiana Public Service Company,Res,14,0.205,-0.008552,0.215356,0.018908
+2026-08-01,IN,Northern Indiana Public Service Company,Res,14,0.205,0,0.223908,0.018908
+2026-03-01,IN,Southern Indiana Gas and Electric Company,Res,11,0.15723,0.041175,0.208986,0.010581
+2026-04-01,IN,Southern Indiana Gas and Electric Company,Res,11,0.15723,0.041175,0.208986,0.010581
+2026-05-01,IN,Southern Indiana Gas and Electric Company,Res,11,0.15723,0.036207,0.204018,0.010581
+2026-06-01,IN,Southern Indiana Gas and Electric Company,Res,11,0.15723,0.036207,0.203014,0.009577
+2026-07-01,IN,Southern Indiana Gas and Electric Company,Res,11,0.15723,0.036207,0.207014,0.013577
+2026-08-01,IN,Southern Indiana Gas and Electric Company,Res,11,0.15723,0.046995,0.217802,0.013577
+2026-03-01,MI,Alpena Power Company,Res,5.25,0.07926,0.01418,0.18426,0.00546
+2026-04-01,MI,Alpena Power Company,Res,5.25,0.07926,0.01418,0.18426,0.00546
+2026-05-01,MI,Alpena Power Company,Res,5.25,0.07926,0.01418,0.18426,0.00546
+2026-06-01,MI,Alpena Power Company,Res,5.25,0.07926,0.008,0.17808,0.00546
+2026-07-01,MI,Alpena Power Company,Res,5.25,0.07926,0.008,0.17808,0.00546
+2026-08-01,MI,Alpena Power Company,Res,5.25,0.07926,0.008,0.17808,0.00546
+2026-03-01,MI,Consumers Energy Company,Res-TOU-Off_Peak,8,0.085252,0.01597,0.193557,0.01338
+2026-03-01,MI,Consumers Energy Company,Res-TOU-On_Peak,8,0.085252,0.01597,0.193557,0.01338
+2026-04-01,MI,Consumers Energy Company,Res-TOU-Off_Peak,8,0.085252,0.01456,0.192147,0.01338
+2026-04-01,MI,Consumers Energy Company,Res-TOU-On_Peak,8,0.085252,0.01456,0.192147,0.01338
+2026-05-01,MI,Consumers Energy Company,Res-TOU-Off_Peak,8,0.082996,0.01456,0.205073,0.014184
+2026-05-01,MI,Consumers Energy Company,Res-TOU-On_Peak,8,0.082996,0.01456,0.205073,0.014184
+2026-06-01,MI,Consumers Energy Company,Res-TOU-Off_Peak,8,0.10397,0.01337,0.224857,0.014184
+2026-06-01,MI,Consumers Energy Company,Res-TOU-On_Peak,8,0.151904,0.01337,0.272791,0.014184
+2026-07-01,MI,Consumers Energy Company,Res-TOU-Off_Peak,8,0.10397,0.001456,0.212943,0.014184
+2026-07-01,MI,Consumers Energy Company,Res-TOU-On_Peak,8,0.151904,0.001456,0.260877,0.014184
+2026-08-01,MI,Consumers Energy Company,Res-TOU-Off_Peak,8,0.10397,0.01456,0.226072,0.014209
+2026-08-01,MI,Consumers Energy Company,Res-TOU-On_Peak,8,0.151904,0.01456,0.274006,0.014209
+2026-03-01,MI,DTE Electric Company,Res,8.5,0.08782,0.01877,0.210027,0.006177
+2026-03-01,MI,DTE Electric Company,Res-TOU-Off_Peak,8.5,0.05295,0.01877,0.175157,0.006177
+2026-03-01,MI,DTE Electric Company,Res-TOU-On_Peak,8.5,0.13687,0.01877,0.259077,0.006177
+2026-04-01,MI,DTE Electric Company,Res,8.5,0.08782,0.01877,0.212729,0.008879
+2026-04-01,MI,DTE Electric Company,Res-TOU-Off_Peak,8.5,0.05295,0.01877,0.178737,0.009757
+2026-04-01,MI,DTE Electric Company,Res-TOU-On_Peak,8.5,0.13687,0.01877,0.262657,0.009757
+2026-05-01,MI,DTE Electric Company,Res,8.5,0.08782,0.01877,0.212729,0.008879
+2026-05-01,MI,DTE Electric Company,Res-TOU-Off_Peak,8.5,0.05295,0.01877,0.178737,0.009757
+2026-05-01,MI,DTE Electric Company,Res-TOU-On_Peak,8.5,0.13687,0.01877,0.262657,0.009757
+2026-06-01,MI,DTE Electric Company,Res,8.5,0.08782,0.01877,0.212729,0.008879
+2026-06-01,MI,DTE Electric Company,Res-TOU-Off_Peak,8.5,0.05456,0.01877,0.180347,0.009757
+2026-06-01,MI,DTE Electric Company,Res-TOU-On_Peak,8.5,0.16203,0.01877,0.287817,0.009757
+2026-07-01,MI,DTE Electric Company,Res,8.5,0.08782,0.01877,0.212729,0.008879
+2026-07-01,MI,DTE Electric Company,Res-TOU-Off_Peak,8.5,0.05456,0.01877,0.180347,0.009757
+2026-07-01,MI,DTE Electric Company,Res-TOU-On_Peak,8.5,0.16203,0.01877,0.287817,0.009757
+2026-08-01,MI,DTE Electric Company,Res,8.5,0.08782,0.01877,0.212729,0.008879
+2026-08-01,MI,DTE Electric Company,Res-TOU-Off_Peak,8.5,0.05456,0.01877,0.180347,0.009757
+2026-08-01,MI,DTE Electric Company,Res-TOU-On_Peak,8.5,0.16203,0.01877,0.287817,0.009757
+2026-03-01,MI,Indiana Michigan Power Company,Res,7.58,0.11831,0.00193,0.175037,0.008867
+2026-03-01,MI,Indiana Michigan Power Company,Res-TOU-Off_Peak,7.58,0.03215,0.00193,0.088757,0.008867
+2026-03-01,MI,Indiana Michigan Power Company,Res-TOU-On_Peak,7.58,0.22106,0.00193,0.277667,0.008867
+2026-04-01,MI,Indiana Michigan Power Company,Res,7.58,0.11831,0.00193,0.175037,0.008867
+2026-04-01,MI,Indiana Michigan Power Company,Res-TOU-Off_Peak,7.58,0.03215,0.00193,0.088757,0.008867
+2026-04-01,MI,Indiana Michigan Power Company,Res-TOU-On_Peak,7.58,0.22106,0.00193,0.277667,0.008867
+2026-05-01,MI,Indiana Michigan Power Company,Res,7.58,0.11831,0.00193,0.175037,0.008867
+2026-05-01,MI,Indiana Michigan Power Company,Res-TOU-Off_Peak,7.58,0.03215,0.00193,0.088757,0.008867
+2026-05-01,MI,Indiana Michigan Power Company,Res-TOU-On_Peak,7.58,0.22106,0.00193,0.277667,0.008867
+2026-06-01,MI,Indiana Michigan Power Company,Res,7.58,0.11831,0.00193,0.175037,0.008867
+2026-06-01,MI,Indiana Michigan Power Company,Res-TOU-Off_Peak,7.58,0.03215,0.00193,0.088757,0.008867
+2026-06-01,MI,Indiana Michigan Power Company,Res-TOU-On_Peak,7.58,0.22106,0.00193,0.277667,0.008867
+2026-07-01,MI,Indiana Michigan Power Company,Res,7.58,0.11831,-0.001258,0.171849,0.008867
+2026-07-01,MI,Indiana Michigan Power Company,Res-TOU-Off_Peak,7.58,0.03215,-0.001258,0.085569,0.008867
+2026-07-01,MI,Indiana Michigan Power Company,Res-TOU-On_Peak,7.58,0.22106,-0.001258,0.274479,0.008867
+2026-08-01,MI,Indiana Michigan Power Company,Res,7.58,0.11831,-0.001258,0.17173,0.008748
+2026-08-01,MI,Indiana Michigan Power Company,Res-TOU-Off_Peak,7.58,0.03215,-0.001258,0.08545,0.008748
+2026-08-01,MI,Indiana Michigan Power Company,Res-TOU-On_Peak,7.58,0.22106,-0.001258,0.27436,0.008748
+2026-02-01,MI,Lansing BWL,Res - On_Peak,22.5,0.174,0.003491,0.180491,0.003
+2026-02-01,MI,Lansing BWL,Res - Off_Peak,22.5,0.1504,0.003491,0.156891,0.003
+2026-03-01,MI,Lansing BWL,Res - On_Peak,22.5,0.174,0.002015,0.180515,0.0045
+2026-03-01,MI,Lansing BWL,Res - Off_Peak,22.5,0.1504,0.002015,0.156915,0.0045
+2026-04-01,MI,Lansing BWL,Res - On_Peak,22.5,0.174,0.002517,0.181017,0.0045
+2026-04-01,MI,Lansing BWL,Res - Off_Peak,22.5,0.1504,0.002517,0.157417,0.0045
+2026-05-01,MI,Lansing BWL,Res - On_Peak,22.5,0.174,0.002224,0.180724,0.0045
+2026-05-01,MI,Lansing BWL,Res - Off_Peak,22.5,0.1504,0.002224,0.157124,0.0045
+2026-06-01,MI,Lansing BWL,Res - On_Peak,22.5,0.174,0.002339,0.180839,0.0045
+2026-06-01,MI,Lansing BWL,Res - Off_Peak,22.5,0.1504,0.002339,0.157239,0.0045
+2026-07-01,MI,Lansing BWL,Res - On_Peak,22.5,0.174,-0.000674,0.177826,0.0045
+2026-07-01,MI,Lansing BWL,Res - Off_Peak,22.5,0.1504,-0.000674,0.154226,0.0045
+2026-03-01,MI,Northern States Power Company,Res,9,0.09425,-0.01009,0.15096,0.0087
+2026-03-01,MI,Northern States Power Company,Res-TOU-Off_Peak,9,0.042,-0.01009,0.09871,0.0087
+2026-03-01,MI,Northern States Power Company,Res-TOU-On_Peak,9,0.1607,-0.01009,0.21741,0.0087
+2026-04-01,MI,Northern States Power Company,Res,9,0.09425,-0.01009,0.15096,0.0087
+2026-04-01,MI,Northern States Power Company,Res-TOU-Off_Peak,9,0.042,-0.01009,0.09871,0.0087
+2026-04-01,MI,Northern States Power Company,Res-TOU-On_Peak,9,0.1607,-0.01009,0.21741,0.0087
+2026-05-01,MI,Northern States Power Company,Res,9,0.09425,-0.01009,0.15096,0.0087
+2026-05-01,MI,Northern States Power Company,Res-TOU-Off_Peak,9,0.042,-0.01009,0.09871,0.0087
+2026-05-01,MI,Northern States Power Company,Res-TOU-On_Peak,9,0.1607,-0.01009,0.21741,0.0087
+2026-06-01,MI,Northern States Power Company,Res,9,0.09425,-0.01009,0.15096,0.0087
+2026-06-01,MI,Northern States Power Company,Res-TOU-Off_Peak,9,0.042,-0.01009,0.09871,0.0087
+2026-06-01,MI,Northern States Power Company,Res-TOU-On_Peak,9,0.1607,-0.01009,0.21741,0.0087
+2026-07-01,MI,Northern States Power Company,Res,9,0.09425,-0.01009,0.15096,0.0087
+2026-07-01,MI,Northern States Power Company,Res-TOU-Off_Peak,9,0.042,-0.01009,0.09871,0.0087
+2026-07-01,MI,Northern States Power Company,Res-TOU-On_Peak,9,0.1607,-0.01009,0.21741,0.0087
+2026-08-01,MI,Northern States Power Company,Res,9,0.09425,-0.01009,0.15096,0.0087
+2026-08-01,MI,Northern States Power Company,Res-TOU-Off_Peak,9,0.042,-0.01009,0.09871,0.0087
+2026-08-01,MI,Northern States Power Company,Res-TOU-On_Peak,9,0.1607,-0.01009,0.21741,0.0087
+2026-03-01,MI,Upper Michigan Energy Resources,Res,9.61,0.11248,0.0063,0.17515,0.00323
+2026-03-01,MI,Upper Michigan Energy Resources,Res-TOU-Off_Peak,9.61,0.07395,0.0063,0.13662,0.00323
+2026-03-01,MI,Upper Michigan Energy Resources,Res-TOU-On_Peak,9.61,0.23564,0.0063,0.29831,0.00323
+2026-04-01,MI,Upper Michigan Energy Resources,Res,9.61,0.11248,0.0063,0.17515,0.00323
+2026-04-01,MI,Upper Michigan Energy Resources,Res-TOU-Off_Peak,9.61,0.07395,0.0063,0.13662,0.00323
+2026-04-01,MI,Upper Michigan Energy Resources,Res-TOU-On_Peak,9.61,0.23564,0.0063,0.29831,0.00323
+2026-05-01,MI,Upper Michigan Energy Resources,Res,9.61,0.11248,0.0063,0.17515,0.00323
+2026-05-01,MI,Upper Michigan Energy Resources,Res-TOU-Off_Peak,9.61,0.07395,0.0063,0.13662,0.00323
+2026-05-01,MI,Upper Michigan Energy Resources,Res-TOU-On_Peak,9.61,0.23564,0.0063,0.29831,0.00323
+2026-06-01,MI,Upper Michigan Energy Resources,Res,9.61,0.11248,-0.00475,0.1641,0.00323
+2026-06-01,MI,Upper Michigan Energy Resources,Res-TOU-Off_Peak,9.61,0.07395,-0.00475,0.12557,0.00323
+2026-06-01,MI,Upper Michigan Energy Resources,Res-TOU-On_Peak,9.61,0.23564,-0.00475,0.28726,0.00323
+2026-07-01,MI,Upper Michigan Energy Resources,Res,9.61,0.11248,-0.00625,0.1626,0.00323
+2026-07-01,MI,Upper Michigan Energy Resources,Res-TOU-Off_Peak,9.61,0.07395,-0.00625,0.12407,0.00323
+2026-07-01,MI,Upper Michigan Energy Resources,Res-TOU-On_Peak,9.61,0.23564,-0.00625,0.28576,0.00323
+2026-08-01,MI,Upper Michigan Energy Resources,Res,9.61,0.11248,-0.00625,0.1626,0.00323
+2026-08-01,MI,Upper Michigan Energy Resources,Res-TOU-Off_Peak,9.61,0.07395,-0.00625,0.12407,0.00323
+2026-08-01,MI,Upper Michigan Energy Resources,Res-TOU-On_Peak,9.61,0.23564,-0.00625,0.28576,0.00323
+2026-03-01,MI,Upper Peninsula Power Company,Res,15,0.13567,0.0209,0.25487,0.0064
+2026-04-01,MI,Upper Peninsula Power Company,Res,15,0.13567,0.0209,0.25487,0.0064
+2026-05-01,MI,Upper Peninsula Power Company,Res,15,0.13567,0.02342,0.25739,0.0064
+2026-06-01,MI,Upper Peninsula Power Company,Res,15,0.13567,0.02342,0.25739,0.0064
+2026-07-01,MI,Upper Peninsula Power Company,Res,15,0.13567,0.02342,0.25739,0.0064
+2026-08-01,MI,Upper Peninsula Power Company,Res,15,0.13567,0.02342,0.25739,0.0064
+2026-03-01,MN,Minnesota Power,Res - RC20,9,0.10772,0.03033,0.161562,0.023512
+2026-04-01,MN,Minnesota Power,Res - RC20,9,0.10772,0.02867,0.159783,0.023393
+2026-05-01,MN,Minnesota Power,Res - RC20,9,0.10772,0.02981,0.161005,0.023475
+2026-06-01,MN,Minnesota Power,Res - RC20,9,0.10772,0.02775,0.158798,0.023328
+2026-07-01,MN,Minnesota Power,Res - RC20,9,0.10772,0.03392,0.16541,0.02377
+2026-08-01,MN,Minnesota Power,Res - RC20,9,0.10772,0.03503,0.1666,0.02385
+2026-03-01,MN,Northern States Power Company,Res - A01,6,0.11364,0.01681,0.140119,0.009669
+2026-03-01,MN,Northern States Power Company,Res - On_Peak,6,0.21408,0.01681,0.242979,0.012089
+2026-03-01,MN,Northern States Power Company,Res - Off_Peak,6,0.05171,0.01681,0.076696,0.008176
+2026-04-01,MN,Northern States Power Company,Res - A01,6,0.11364,0.02499,0.148299,0.009669
+2026-04-01,MN,Northern States Power Company,Res - On_Peak,6,0.21408,0.02499,0.251159,0.012089
+2026-04-01,MN,Northern States Power Company,Res - Off_Peak,6,0.05171,0.02499,0.084876,0.008176
+2026-05-01,MN,Northern States Power Company,Res - A01,6,0.11364,0.02695,0.150259,0.009669
+2026-05-01,MN,Northern States Power Company,Res - On_Peak,6,0.21408,0.02695,0.253119,0.012089
+2026-05-01,MN,Northern States Power Company,Res - Off_Peak,6,0.05171,0.02695,0.086836,0.008176
+2026-06-01,MN,Northern States Power Company,Res - A01,6,0.13069,0.02973,0.1705,0.01008
+2026-06-01,MN,Northern States Power Company,Res - On_Peak,6,0.21408,0.02973,0.255899,0.012089
+2026-06-01,MN,Northern States Power Company,Res - Off_Peak,6,0.05171,0.02973,0.089616,0.008176
+2026-07-01,MN,Northern States Power Company,Res - A01,6,0.13069,0.02927,0.17004,0.01008
+2026-07-01,MN,Northern States Power Company,Res - On_Peak,6,0.21408,0.02927,0.255439,0.012089
+2026-07-01,MN,Northern States Power Company,Res - Off_Peak,6,0.05171,0.02927,0.089156,0.008176
+2026-08-01,MN,Northern States Power Company,Res - A01,6,0.13069,0.0278,0.16857,0.01008
+2026-08-01,MN,Northern States Power Company,Res - On_Peak,6,0.21408,0.0278,0.253969,0.012089
+2026-08-01,MN,Northern States Power Company,Res - Off_Peak,6,0.05171,0.0278,0.087686,0.008176
+2026-03-01,MN,Otter Tail Power Company,Res,12.81,0.072819,0.0235,0.108132,0.011813
+2026-04-01,MN,Otter Tail Power Company,Res,12.81,0.072819,0.02093,0.107942,0.014193
+2026-05-01,MN,Otter Tail Power Company,Res,12.81,0.072819,0.02373,0.110742,0.014193
+2026-06-01,MN,Otter Tail Power Company,Res,12.81,0.09764,0.02657,0.138403,0.014193
+2026-07-01,MN,Otter Tail Power Company,Res,12.81,0.09764,0.03593,0.147763,0.014193
+2026-08-01,MN,Otter Tail Power Company,Res,12.81,0.09764,0.03224,0.144073,0.014193
+2026-04-01,MO,Ameren Missouri,Res,9.00,0.1062,0.0054,0.11816,0.00656
+2026-04-01,MO,Ameren Missouri,Res - TOU-On_Peak,9.00,0.1073,0.0054,0.11926,0.00656
+2026-04-01,MO,Ameren Missouri,Res - TOU-Off_Peak,9.00,0.1045,0.0054,0.11646,0.00656
+2026-05-01,MO,Ameren Missouri,Res,9.00,0.1062,0.0054,0.11816,0.00656
+2026-05-01,MO,Ameren Missouri,Res - TOU-On_Peak,9.00,0.1073,0.0054,0.11926,0.00656
+2026-05-01,MO,Ameren Missouri,Res - TOU-Off_Peak,9.00,0.1045,0.0054,0.11646,0.00656
+2026-06-01,MO,Ameren Missouri,Res,9.00,0.156,0.00894,0.1715,0.00656
+2026-06-01,MO,Ameren Missouri,Res - TOU-On_Peak,9.00,0.1581,0.00894,0.1736,0.00656
+2026-06-01,MO,Ameren Missouri,Res - TOU-Off_Peak,9.00,0.1524,0.00894,0.1679,0.00656
+2026-07-01,MO,Ameren Missouri,Res,9.00,0.156,0.00894,0.1715,0.00656
+2026-07-01,MO,Ameren Missouri,Res - TOU-On_Peak,9.00,0.1581,0.00894,0.1736,0.00656
+2026-07-01,MO,Ameren Missouri,Res - TOU-Off_Peak,9.00,0.1524,0.00894,0.1679,0.00656
+2026-08-01,MO,Ameren Missouri,Res,9.00,0.156,0.00894,0.1715,0.00656
+2026-08-01,MO,Ameren Missouri,Res - TOU-On_Peak,9.00,0.1581,0.00894,0.1736,0.00656
+2026-08-01,MO,Ameren Missouri,Res - TOU-Off_Peak,9.00,0.1524,0.00894,0.1679,0.00656
+2026-09-01,MO,Ameren Missouri,Res,9.00,0.156,0.00894,0.1715,0.00656
+2026-09-01,MO,Ameren Missouri,Res - TOU-On_Peak,9.00,0.1581,0.00894,0.1736,0.00656
+2026-09-01,MO,Ameren Missouri,Res - TOU-Off_Peak,9.00,0.1524,0.00894,0.1679,0.00656
+2026-04-01,MO,Evergy Missouri Metro,Res,12,0.12495,0.00142,0.12933,0.00296
+2026-04-01,MO,Evergy Missouri Metro,Res - TOU-On_Peak,12,0.12483,0.00142,0.12921,0.00296
+2026-04-01,MO,Evergy Missouri Metro,Res - TOU-Off_Peak,12,0.11233,0.00142,0.11671,0.00296
+2026-05-01,MO,Evergy Missouri Metro,Res,12,0.12495,0.00142,0.12933,0.00296
+2026-05-01,MO,Evergy Missouri Metro,Res - TOU-On_Peak,12,0.12483,0.00142,0.12921,0.00296
+2026-05-01,MO,Evergy Missouri Metro,Res - TOU-Off_Peak,12,0.11233,0.00142,0.11671,0.00296
+2026-06-01,MO,Evergy Missouri Metro,Res,12,0.14053,0.00142,0.14491,0.00296
+2026-06-01,MO,Evergy Missouri Metro,Res - TOU-On_Peak,12,0.15094,0.00142,0.15532,0.00296
+2026-06-01,MO,Evergy Missouri Metro,Res - TOU-Off_Peak,12,0.13094,0.00142,0.13532,0.00296
+2026-07-01,MO,Evergy Missouri Metro,Res,12,0.14053,0.00142,0.14491,0.00296
+2026-07-01,MO,Evergy Missouri Metro,Res - TOU-On_Peak,12,0.15094,0.00142,0.15532,0.00296
+2026-07-01,MO,Evergy Missouri Metro,Res - TOU-Off_Peak,12,0.13094,0.00142,0.13532,0.00296
+2026-08-01,MO,Evergy Missouri Metro,Res,12,0.14053,0.00142,0.14491,0.00296
+2026-08-01,MO,Evergy Missouri Metro,Res - TOU-On_Peak,12,0.15094,0.00142,0.15532,0.00296
+2026-08-01,MO,Evergy Missouri Metro,Res - TOU-Off_Peak,12,0.13094,0.00142,0.13532,0.00296
+2026-09-01,MO,Evergy Missouri Metro,Res,12,0.14053,0.00142,0.14491,0.00296
+2026-09-01,MO,Evergy Missouri Metro,Res - TOU-On_Peak,12,0.15094,0.00142,0.15532,0.00296
+2026-09-01,MO,Evergy Missouri Metro,Res - TOU-Off_Peak,12,0.13094,0.00142,0.13532,0.00296
+2026-04-01,MO,Evergy Missouri West,Res,12.9,0.11254,0.00452,0.1233,0.00624
+2026-04-01,MO,Evergy Missouri West,Res - TOU-On_Peak,12,0.12483,0.00452,0.13559,0.00624
+2026-04-01,MO,Evergy Missouri West,Res - TOU-Off_Peak,12,0.11233,0.00452,0.12309,0.00624
+2026-05-01,MO,Evergy Missouri West,Res,12.9,0.11254,0.00452,0.1233,0.00624
+2026-05-01,MO,Evergy Missouri West,Res - TOU-On_Peak,12,0.12483,0.00452,0.13559,0.00624
+2026-05-01,MO,Evergy Missouri West,Res - TOU-Off_Peak,12,0.11233,0.00452,0.12309,0.00624
+2026-06-01,MO,Evergy Missouri West,Res,12.9,0.1245,0.00452,0.13526,0.00624
+2026-06-01,MO,Evergy Missouri West,Res - TOU-On_Peak,12,0.15094,0.00452,0.1617,0.00624
+2026-06-01,MO,Evergy Missouri West,Res - TOU-Off_Peak,12,0.13094,0.00452,0.1417,0.00624
+2026-07-01,MO,Evergy Missouri West,Res,12.9,0.1245,0.00452,0.13526,0.00624
+2026-07-01,MO,Evergy Missouri West,Res - TOU-On_Peak,12,0.15094,0.00452,0.1617,0.00624
+2026-07-01,MO,Evergy Missouri West,Res - TOU-Off_Peak,12,0.13094,0.00452,0.1417,0.00624
+2026-08-01,MO,Evergy Missouri West,Res,12.9,0.1245,0.00452,0.13526,0.00624
+2026-08-01,MO,Evergy Missouri West,Res - TOU-On_Peak,12,0.15094,0.00452,0.1617,0.00624
+2026-08-01,MO,Evergy Missouri West,Res - TOU-Off_Peak,12,0.13094,0.00452,0.1417,0.00624
+2026-09-01,MO,Evergy Missouri West,Res,12.9,0.1245,0.00876,0.1395,0.00624
+2026-09-01,MO,Evergy Missouri West,Res - TOU-On_Peak,12,0.15094,0.00876,0.16594,0.00624
+2026-09-01,MO,Evergy Missouri West,Res - TOU-Off_Peak,12,0.13094,0.00876,0.14594,0.00624
+2026-04-01,MO,The Empire District Electric Company,Res,13,0.13582,0.01682,0.15379,0.00115
+2026-04-01,MO,The Empire District Electric Company,Res - TOU-Off_Peak,13,0.14031,0.01682,0.15828,0.00115
+2026-05-01,MO,The Empire District Electric Company,Res,13,0.13582,0.01682,0.15379,0.00115
+2026-05-01,MO,The Empire District Electric Company,Res - TOU-Off_Peak,13,0.14031,0.01682,0.15828,0.00115
+2026-06-01,MO,The Empire District Electric Company,Res,13,0.13582,0.01904,0.15601,0.00115
+2026-06-01,MO,The Empire District Electric Company,Res - TOU-Off_Peak,13,0.14031,0.01904,0.1605,0.00115
+2026-07-01,MO,The Empire District Electric Company,Res,13,0.13582,0.01904,0.15601,0.00115
+2026-07-01,MO,The Empire District Electric Company,Res - TOU-Off_Peak,13,0.14031,0.01904,0.1605,0.00115
+2026-08-01,MO,The Empire District Electric Company,Res,13,0.13582,0.01904,0.15601,0.00115
+2026-08-01,MO,The Empire District Electric Company,Res - TOU-Off_Peak,13,0.14031,0.01904,0.1605,0.00115
+2026-09-01,MO,The Empire District Electric Company,Res,13,0.13582,0.01904,0.15601,0.00115
+2026-09-01,MO,The Empire District Electric Company,Res - TOU-Off_Peak,13,0.14031,0.01904,0.1605,0.00115
+2026-03-01,OH,Duke Energy Ohio,Res - RS,8,0.1006,0,0.170305,0.030012
+2026-04-01,OH,Duke Energy Ohio,Res - RS,8,0.1008,0,0.170505,0.030012
+2026-05-01,OH,Duke Energy Ohio,Res - RS,8,0.1008,0,0.170505,0.030012
+2026-06-01,OH,Duke Energy Ohio,Res - RS,8,0.107,0,0.176705,0.030012
+2026-07-01,OH,Duke Energy Ohio,Res - RS,8,0.1069,0,0.176605,0.030012
+2026-08-01,OH,Duke Energy Ohio,Res - RS,8,0.1069,0,0.176605,0.030012
+2026-03-01,OH,Ohio Edison,Res - RS,6.5,0.097,0.0032,0.1824,0.041212
+2026-04-01,OH,Ohio Edison,Res - RS,6.5,0.097,0.0032,0.1824,0.041212
+2026-05-01,OH,Ohio Edison,Res - RS,6.5,0.097,0.0032,0.1824,0.041212
+2026-06-01,OH,Ohio Edison,Res - RS,6.5,0.1083,0.0032,0.1937,0.041212
+2026-07-01,OH,Ohio Edison,Res - RS,6.5,0.1092,0.0032,0.19458,0.041192
+2026-08-01,OH,Ohio Edison,Res - RS,6.5,0.1092,0.0032,0.19458,0.041192
+2026-03-01,OH,Ohio Power Company,Res - RS,10,0.1065,0,0.19184,0.05903
+2026-04-01,OH,Ohio Power Company,Res - RS,13.5,0.0994,0,0.20137,0.0672
+2026-05-01,OH,Ohio Power Company,Res - RS,13.5,0.0994,0,0.20137,0.0672
+2026-06-01,OH,Ohio Power Company,Res - RS,13.5,0.1012,0,0.20317,0.0672
+2026-07-01,OH,Ohio Power Company,Res - RS,13.5,0.1097,0,0.20225,0.05778
+2026-08-01,OH,Ohio Power Company,Res - RS,13.5,0.1097,0,0.20225,0.05778
+2026-03-01,WI,Madison Gas & Electric Company,Res - Rg1,15.29,0.12178,0,0.18433,0
+2026-04-01,WI,Madison Gas & Electric Company,Res - Rg1,14.79,0.12178,0,0.18433,0
+2026-05-01,WI,Madison Gas & Electric Company,Res - Rg1,15.29,0.12178,0,0.18433,0
+2026-06-01,WI,Madison Gas & Electric Company,Res - Rg1,14.79,0.12178,0,0.18433,0
+2026-07-01,WI,Madison Gas & Electric Company,Res - Rg1,15.29,0.12178,0,0.18433,0
+2026-08-01,WI,Madison Gas & Electric Company,Res - Rg1,15.29,0.12178,0,0.18433,0
+2026-03-01,WI,Northern States Power Company,Res - Rg1,16,0.15507,0.00284,0.16017,0.00226
+2026-04-01,WI,Northern States Power Company,Res - Rg1,16,0.15507,0.00284,0.16017,0.00226
+2026-05-01,WI,Northern States Power Company,Res - Rg1,16,0.15507,0.00284,0.16017,0.00226
+2026-06-01,WI,Northern States Power Company,Res - Rg1,16,0.15507,0.00284,0.16017,0.00226
+2026-07-01,WI,Northern States Power Company,Res - Rg1,16,0.15507,0.00284,0.16017,0.00226
+2026-08-01,WI,Northern States Power Company,Res - Rg1,16,0.15507,0.00284,0.16017,0.00226
+2026-03-01,WI,Wisconsin Electric Power Company,Res - Rg1,15,0.19342,0.00199,0.19593,0.00052
+2026-04-01,WI,Wisconsin Electric Power Company,Res - Rg1,15,0.19342,0.00199,0.19593,0.00052
+2026-05-01,WI,Wisconsin Electric Power Company,Res - Rg1,15,0.19342,0.00199,0.19593,0.00052
+2026-06-01,WI,Wisconsin Electric Power Company,Res - Rg1,15,0.19342,0.00199,0.19593,0.00052
+2026-07-01,WI,Wisconsin Electric Power Company,Res - Rg1,15,0.19342,0.00199,0.19593,0.00052
+2026-08-01,WI,Wisconsin Electric Power Company,Res - Rg1,15,0.19342,0.00199,0.19593,0.00052
+2026-03-01,WI,Wisconsin Power & Light Company,Res - Rg1,16,0.17011,0,0.17011,0
+2026-04-01,WI,Wisconsin Power & Light Company,Res - Rg1,16,0.17011,0,0.17011,0
+2026-05-01,WI,Wisconsin Power & Light Company,Res - Rg1,16,0.17011,0,0.17011,0
+2026-06-01,WI,Wisconsin Power & Light Company,Res - Rg1,16,0.17011,0,0.17011,0
+2026-07-01,WI,Wisconsin Power & Light Company,Res - Rg1,16,0.17011,0,0.17011,0
+2026-08-01,WI,Wisconsin Power & Light Company,Res - Rg1,16,0.17011,0,0.17011,0
+2026-03-01,WI,Wisconsin Public Service Corporation,Res - Rg1,17.92,0.14802,0.00107,0.15141,0.00232
+2026-04-01,WI,Wisconsin Public Service Corporation,Res - Rg1,17.92,0.14802,0.00107,0.15141,0.00232
+2026-05-01,WI,Wisconsin Public Service Corporation,Res - Rg1,17.92,0.14802,0.00107,0.15141,0.00232
+2026-06-01,WI,Wisconsin Public Service Corporation,Res - Rg1,17.92,0.14802,0.00107,0.15141,0.00232
+2026-07-01,WI,Wisconsin Public Service Corporation,Res - Rg1,17.92,0.14802,0.00107,0.15141,0.00232
+2026-08-01,WI,Wisconsin Public Service Corporation,Res - Rg1,17.92,0.14802,0.00107,0.15141,0.00232
