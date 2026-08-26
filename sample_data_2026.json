@@ -136,84 +136,84 @@
     "State": "IL",
     "Utility": "Ameren Illinois",
     "Rate_Code": "Res - DS1",
-    "Service_Charge": 14.51,
+    "Service_Charge": 12.27,
     "Energy_Charge": 0.0688,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.0389,
-    "Total_Per_kWh": 0.1547
+    "Total_Per_kWh": 0.1494
   },
   {
     "Date": "2026-04-01",
     "State": "IL",
     "Utility": "Ameren Illinois",
     "Rate_Code": "Res - DS1",
-    "Service_Charge": 14.51,
+    "Service_Charge": 12.27,
     "Energy_Charge": 0.0645,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.039,
-    "Total_Per_kWh": 0.1505
+    "Total_Per_kWh": 0.1452
   },
   {
     "Date": "2026-05-01",
     "State": "IL",
     "Utility": "Ameren Illinois",
     "Rate_Code": "Res - DS1",
-    "Service_Charge": 14.51,
+    "Service_Charge": 12.27,
     "Energy_Charge": 0.0645,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.039,
-    "Total_Per_kWh": 0.1505
+    "Total_Per_kWh": 0.1453
   },
   {
     "Date": "2026-06-01",
     "State": "IL",
     "Utility": "Ameren Illinois",
     "Rate_Code": "Res - DS1",
-    "Service_Charge": 14.51,
+    "Service_Charge": 12.27,
     "Energy_Charge": 0.0801,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.042,
-    "Total_Per_kWh": 0.2014
+    "Total_Per_kWh": 0.1933
   },
   {
     "Date": "2026-07-01",
     "State": "IL",
     "Utility": "Ameren Illinois",
     "Rate_Code": "Res - DS1",
-    "Service_Charge": 14.51,
+    "Service_Charge": 12.27,
     "Energy_Charge": 0.0801,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.042,
-    "Total_Per_kWh": 0.2014
+    "Total_Per_kWh": 0.1933
   },
   {
     "Date": "2026-08-01",
     "State": "IL",
     "Utility": "Ameren Illinois",
     "Rate_Code": "Res - DS1",
-    "Service_Charge": 14.51,
+    "Service_Charge": 12.27,
     "Energy_Charge": 0.0801,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.042,
-    "Total_Per_kWh": 0.2014
+    "Total_Per_kWh": 0.1933
   },
   {
     "Date": "2026-04-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res",
-    "Service_Charge": 9.19,
-    "Energy_Charge": 0.156,
+    "Service_Charge": 9,
+    "Energy_Charge": 0.1062,
     "Fuel_Charge": 0.0054,
     "Surcharges_Per_kWh": 0.0066,
-    "Total_Per_kWh": 0.168
+    "Total_Per_kWh": 0.1182
   },
   {
     "Date": "2026-04-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-On_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1073,
     "Fuel_Charge": 0.0054,
     "Surcharges_Per_kWh": 0.0066,
@@ -224,7 +224,7 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-Off_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1045,
     "Fuel_Charge": 0.0054,
     "Surcharges_Per_kWh": 0.0066,
@@ -235,18 +235,18 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res",
-    "Service_Charge": 9.19,
-    "Energy_Charge": 0.156,
+    "Service_Charge": 9,
+    "Energy_Charge": 0.1062,
     "Fuel_Charge": 0.0054,
     "Surcharges_Per_kWh": 0.0066,
-    "Total_Per_kWh": 0.168
+    "Total_Per_kWh": 0.1182
   },
   {
     "Date": "2026-05-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-On_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1073,
     "Fuel_Charge": 0.0054,
     "Surcharges_Per_kWh": 0.0066,
@@ -257,7 +257,7 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-Off_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1045,
     "Fuel_Charge": 0.0054,
     "Surcharges_Per_kWh": 0.0066,
@@ -268,18 +268,18 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res",
-    "Service_Charge": 9.19,
-    "Energy_Charge": 0.1062,
+    "Service_Charge": 9,
+    "Energy_Charge": 0.156,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
-    "Total_Per_kWh": 0.1217
+    "Total_Per_kWh": 0.1715
   },
   {
     "Date": "2026-06-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-On_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1581,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -290,7 +290,7 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-Off_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1524,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -301,18 +301,18 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res",
-    "Service_Charge": 9.19,
-    "Energy_Charge": 0.1062,
+    "Service_Charge": 9,
+    "Energy_Charge": 0.156,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
-    "Total_Per_kWh": 0.1217
+    "Total_Per_kWh": 0.1715
   },
   {
     "Date": "2026-07-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-On_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1581,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -323,7 +323,7 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-Off_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1524,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -334,18 +334,18 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res",
-    "Service_Charge": 9.19,
-    "Energy_Charge": 0.1062,
+    "Service_Charge": 9,
+    "Energy_Charge": 0.156,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
-    "Total_Per_kWh": 0.1217
+    "Total_Per_kWh": 0.1715
   },
   {
     "Date": "2026-08-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-On_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1581,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -356,7 +356,7 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-Off_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1524,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -367,18 +367,18 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res",
-    "Service_Charge": 9.19,
-    "Energy_Charge": 0.1062,
+    "Service_Charge": 9,
+    "Energy_Charge": 0.156,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
-    "Total_Per_kWh": 0.1217
+    "Total_Per_kWh": 0.1715
   },
   {
     "Date": "2026-09-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-On_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1581,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -389,7 +389,7 @@
     "State": "MO",
     "Utility": "Ameren Missouri",
     "Rate_Code": "Res - TOU-Off_Peak",
-    "Service_Charge": 9.19,
+    "Service_Charge": 9,
     "Energy_Charge": 0.1524,
     "Fuel_Charge": 0.0089,
     "Surcharges_Per_kWh": 0.0066,
@@ -732,9 +732,9 @@
     "Rate_Code": "Res",
     "Service_Charge": 8.5,
     "Energy_Charge": 0.0878,
-    "Fuel_Charge": 0.0019,
+    "Fuel_Charge": 0.0188,
     "Surcharges_Per_kWh": 0.0089,
-    "Total_Per_kWh": 0.1958
+    "Total_Per_kWh": 0.2127
   },
   {
     "Date": "2026-07-01",
@@ -743,9 +743,9 @@
     "Rate_Code": "Res-TOU-Off_Peak",
     "Service_Charge": 8.5,
     "Energy_Charge": 0.0546,
-    "Fuel_Charge": 0.0019,
+    "Fuel_Charge": 0.0188,
     "Surcharges_Per_kWh": 0.0098,
-    "Total_Per_kWh": 0.1635
+    "Total_Per_kWh": 0.1803
   },
   {
     "Date": "2026-07-01",
@@ -754,9 +754,9 @@
     "Rate_Code": "Res-TOU-On_Peak",
     "Service_Charge": 8.5,
     "Energy_Charge": 0.162,
-    "Fuel_Charge": 0.0019,
+    "Fuel_Charge": 0.0188,
     "Surcharges_Per_kWh": 0.0098,
-    "Total_Per_kWh": 0.2709
+    "Total_Per_kWh": 0.2878
   },
   {
     "Date": "2026-08-01",
@@ -765,9 +765,9 @@
     "Rate_Code": "Res",
     "Service_Charge": 8.5,
     "Energy_Charge": 0.0878,
-    "Fuel_Charge": 0.0019,
+    "Fuel_Charge": 0.0188,
     "Surcharges_Per_kWh": 0.0089,
-    "Total_Per_kWh": 0.1958
+    "Total_Per_kWh": 0.2127
   },
   {
     "Date": "2026-08-01",
@@ -776,9 +776,9 @@
     "Rate_Code": "Res-TOU-Off_Peak",
     "Service_Charge": 8.5,
     "Energy_Charge": 0.0546,
-    "Fuel_Charge": 0.0019,
+    "Fuel_Charge": 0.0188,
     "Surcharges_Per_kWh": 0.0098,
-    "Total_Per_kWh": 0.1635
+    "Total_Per_kWh": 0.1803
   },
   {
     "Date": "2026-08-01",
@@ -787,9 +787,9 @@
     "Rate_Code": "Res-TOU-On_Peak",
     "Service_Charge": 8.5,
     "Energy_Charge": 0.162,
-    "Fuel_Charge": 0.0019,
+    "Fuel_Charge": 0.0188,
     "Surcharges_Per_kWh": 0.0098,
-    "Total_Per_kWh": 0.2709
+    "Total_Per_kWh": 0.2878
   },
   {
     "Date": "2026-03-01",
@@ -907,10 +907,10 @@
     "Utility": "Duke Energy Ohio",
     "Rate_Code": "Res - RS",
     "Service_Charge": 8,
-    "Energy_Charge": 0.107,
+    "Energy_Charge": 0.1069,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1767
+    "Total_Per_kWh": 0.1766
   },
   {
     "Date": "2026-08-01",
@@ -918,10 +918,10 @@
     "Utility": "Duke Energy Ohio",
     "Rate_Code": "Res - RS",
     "Service_Charge": 8,
-    "Energy_Charge": 0.107,
+    "Energy_Charge": 0.1069,
     "Fuel_Charge": 0,
     "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1767
+    "Total_Per_kWh": 0.1766
   },
   {
     "Date": "2026-04-01",
@@ -2416,8 +2416,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.0942,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1445
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.151
   },
   {
     "Date": "2026-03-01",
@@ -2427,8 +2427,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.042,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.0923
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.0987
   },
   {
     "Date": "2026-03-01",
@@ -2438,8 +2438,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.1607,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.211
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.2174
   },
   {
     "Date": "2026-04-01",
@@ -2449,8 +2449,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.0942,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1445
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.151
   },
   {
     "Date": "2026-04-01",
@@ -2460,8 +2460,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.042,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.0923
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.0987
   },
   {
     "Date": "2026-04-01",
@@ -2471,8 +2471,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.1607,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.211
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.2174
   },
   {
     "Date": "2026-05-01",
@@ -2482,8 +2482,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.0942,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1445
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.151
   },
   {
     "Date": "2026-05-01",
@@ -2493,8 +2493,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.042,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.0923
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.0987
   },
   {
     "Date": "2026-05-01",
@@ -2504,8 +2504,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.1607,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.211
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.2174
   },
   {
     "Date": "2026-06-01",
@@ -2515,8 +2515,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.0942,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1445
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.151
   },
   {
     "Date": "2026-06-01",
@@ -2526,8 +2526,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.042,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.0923
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.0987
   },
   {
     "Date": "2026-06-01",
@@ -2537,8 +2537,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.1607,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.211
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.2174
   },
   {
     "Date": "2026-07-01",
@@ -2548,8 +2548,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.0942,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1445
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.151
   },
   {
     "Date": "2026-07-01",
@@ -2559,8 +2559,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.042,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.0923
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.0987
   },
   {
     "Date": "2026-07-01",
@@ -2570,8 +2570,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.1607,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.211
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.2174
   },
   {
     "Date": "2026-08-01",
@@ -2581,8 +2581,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.0942,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1445
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.151
   },
   {
     "Date": "2026-08-01",
@@ -2592,8 +2592,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.042,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.0923
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.0987
   },
   {
     "Date": "2026-08-01",
@@ -2603,8 +2603,8 @@
     "Service_Charge": 9,
     "Energy_Charge": 0.1607,
     "Fuel_Charge": -0.0101,
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.211
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.2174
   },
   {
     "Date": "2026-03-01",
