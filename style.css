@@ -3,10 +3,10 @@
   --primary: #1a73e8;
   --primary-dark: #1557b0;
   --primary-light: #f0f6ff;
-  --bg: #fff;
-  --bg-alt: #fafafa;
+  --bg: #faf9f6;
+  --bg-alt: #f3f2ee;
   --bg-hover: #f0f0f0;
-  --bg-table-hover: #f8f9fa;
+  --bg-table-hover: #f5f4f1;
   --text: #333;
   --text-muted: #555;
   --text-light: #666;
@@ -84,7 +84,7 @@ h3 { margin-bottom: 0.25rem; font-size: 1.1rem; }
 .contact-btn:hover { background: var(--primary-dark); }
 
 .download-btn {
-  background: #fff;
+  background: #fffdf9;
   color: var(--primary);
   padding: 10px 20px;
   text-decoration: none;
@@ -108,7 +108,7 @@ h3 { margin-bottom: 0.25rem; font-size: 1.1rem; }
   border: 1px solid var(--border);
   border-radius: 4px;
   font-size: 0.9rem;
-  background: #fff;
+  background: #fffdf9;
 }
 .table-wrapper {
   overflow-x: auto;
@@ -219,7 +219,7 @@ h3 { margin-bottom: 0.25rem; font-size: 1.1rem; }
   border: 1px solid var(--border);
   border-radius: 4px;
   font-size: 0.95rem;
-  background: #fff;
+  background: #fffdf9;
   min-width: 280px;
 }
 .coverage-result {

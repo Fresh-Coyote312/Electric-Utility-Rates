@@ -81,6 +81,8 @@
           <th data-col="Rate_Code" data-type="text">Rate Code <span class="sort-arrow"></span></th>
           <th data-col="Service_Charge" data-type="num">Service Charge <span class="sort-arrow"></span></th>
           <th data-col="Energy_Charge" data-type="num">Energy Charge <span class="sort-arrow"></span></th>
+          <th data-col="Distribution_Charge" data-type="num">Distribution <span class="sort-arrow"></span></th>
+          <th data-col="Fuel_Charge" data-type="num">Fuel Charge <span class="sort-arrow"></span></th>
           <th data-col="Surcharges_Per_kWh" data-type="num">Surcharges $/kWh <span class="sort-arrow"></span></th>
           <th data-col="Total_Per_kWh" data-type="num">Total $/kWh <span class="sort-arrow"></span></th>
         </tr>
@@ -126,18 +128,6 @@
       <tr><td><code>Notes</code></td><td>Individual rider breakdown — each rider name with its $/kWh value (e.g., "FA -0.005374/kWh; ECR -0.002699/kWh")</td></tr>
     </table>
 
-    <h3 class="docs-subtitle">About Riders</h3>
-    <p>Riders are line-item adjustments added to or subtracted from your base rate. Common examples include:</p>
-    <ul class="rider-list">
-      <li><strong>FA (Fuel Adjustment)</strong> — reflects changes in fuel generation costs, often updated monthly</li>
-      <li><strong>ECR (Energy Cost Recovery)</strong> — recovers above/below budget generation costs</li>
-      <li><strong>DSR (Demand Side Response)</strong> — costs for demand response and load management programs</li>
-      <li><strong>EECR / EE</strong> — energy efficiency compliance charges</li>
-      <li><strong>Nuclear</strong> — nuclear plant decommissioning or operation surcharges</li>
-      <li><strong>TDR (Transmission Demand Response)</strong> — transmission-level demand response costs</li>
-      <li><strong>LI (Low Income)</strong> — low-income assistance program charges</li>
-    </ul>
-    <p>A negative surcharge means the rider is <em>reducing</em> your rate that month (e.g., a fuel cost credit). The Notes column breaks out every individual rider value so you can see exactly what's driving the total.</p>
   </div>
 </div>
 

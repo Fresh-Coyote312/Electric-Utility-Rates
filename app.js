@@ -61,7 +61,7 @@ const totalRows = document.getElementById('totalRows');
 async function init() {
   allData = await loadSampleData();
   if (allData.length === 0) {
-    sampleBody.innerHTML = '<tr><td colspan="8" style="text-align:center;color:#999;">Failed to load data</td></tr>';
+    sampleBody.innerHTML = '<tr><td colspan="10" style="text-align:center;color:#999;">Failed to load data</td></tr>';
     return;
   }
 
@@ -124,7 +124,7 @@ function sortData() {
     let valB = b[sortColumn];
 
     // Numeric columns
-    if (['Service_Charge', 'Energy_Charge', 'Surcharges_Per_kWh', 'Total_Per_kWh'].includes(sortColumn)) {
+    if (['Service_Charge', 'Energy_Charge', 'Distribution_Charge', 'Fuel_Charge', 'Surcharges_Per_kWh', 'Total_Per_kWh'].includes(sortColumn)) {
       valA = parseFloat(valA) || 0;
       valB = parseFloat(valB) || 0;
     } else if (sortColumn === 'Date') {
@@ -146,7 +146,7 @@ function sortData() {
 // ============================================================
 function renderTable() {
   if (filteredData.length === 0) {
-    sampleBody.innerHTML = '<tr><td colspan="8" style="text-align:center;color:#999;">No matching records</td></tr>';
+    sampleBody.innerHTML = '<tr><td colspan="10" style="text-align:center;color:#999;">No matching records</td></tr>';
     rowCount.textContent = '0';
     totalRows.textContent = '0';
     updateSortIndicators();
@@ -163,6 +163,8 @@ function renderTable() {
       <td>${escapeHtml(row.Rate_Code)}</td>
       <td class="num">$${parseFloat(row.Service_Charge).toFixed(2)}</td>
       <td class="num">${parseFloat(row.Energy_Charge).toFixed(4)}</td>
+      <td class="num">${parseFloat(row.Distribution_Charge).toFixed(4)}</td>
+      <td class="num">${parseFloat(row.Fuel_Charge).toFixed(4)}</td>
       <td class="num">${parseFloat(row.Surcharges_Per_kWh).toFixed(4)}</td>
       <td class="num">${parseFloat(row.Total_Per_kWh).toFixed(4)}</td>
     </tr>
