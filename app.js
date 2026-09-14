@@ -10,13 +10,11 @@ async function loadSampleData() {
     return await response.json();
   } catch (err) {
     console.error('Error loading sample data:', err);
-    // Fallback to inline data if fetch fails
     return getFallbackData();
   }
 }
 
 function getFallbackData() {
-  // Minimal fallback - the JSON file should always be available
   return [];
 }
 
@@ -233,7 +231,7 @@ function attachEventListeners() {
 }
 
 // ============================================================
-// Data Coverage Explorer (uses full CSV data)
+// Data Coverage Explorer (uses full coverage metadata)
 // ============================================================
 function initCoverageExplorer() {
   const coverageState = document.getElementById('coverageState');
@@ -249,39 +247,58 @@ function initCoverageExplorer() {
 
   function updateCoverageUtilities() {
     const state = coverageState.value;
-    let utilities = state
-      ? fullData.filter(d => d.State === state).map(d => d.Utility)
-      : fullData.map(d => d.Utility);
-    utilities = [...new Set(utilities)].sort();
+    let entries = state
+      ? fullData.filter(d => d.State === state)
+      : fullData;
+
+    // Sort entries by utility name, then state
+    entries = [...entries].sort((a, b) => {
+      const uComp = a.Utility.localeCompare(b.Utility);
+      return uComp !== 0 ? uComp : a.State.localeCompare(b.State);
+    });
 
     coverageSelect.innerHTML = '<option value="">Select a utility...</option>' +
-      utilities.map(u => `<option value="${u}">${u}</option>`).join('');
+      entries.map(e => {
+        const label = state ? e.Utility : `${e.Utility} (${e.State})`;
+        return `<option value="${e.State}|${e.Utility}">${label}</option>`;
+      }).join('');
     coverageResult.style.display = 'none';
     coverageResult.innerHTML = '';
   }
 
   function showCoverage() {
-    const utility = coverageSelect.value;
-    if (!utility) return;
+    const val = coverageSelect.value;
+    if (!val) {
+      coverageResult.style.display = 'none';
+      coverageResult.innerHTML = '';
+      return;
+    }
 
-    const entry = fullData.find(d => d.Utility === utility);
+    const [state, ...uParts] = val.split('|');
+    const utility = uParts.join('|');
+    const entry = fullData.find(d => d.State === state && d.Utility === utility);
     if (!entry) return;
 
     const dateRange = entry.First_Month && entry.Last_Month
       ? `${entry.First_Month.slice(0,7)} – ${entry.Last_Month.slice(0,7)}`
       : 'N/A';
 
+    const rateCodesStr = Array.isArray(entry.Rate_Codes)
+      ? entry.Rate_Codes.join(', ')
+      : String(entry.Rate_Codes || '');
+
     coverageResult.style.display = 'block';
     coverageResult.innerHTML = `
-      <h3>${entry.Utility} (${entry.State})</h3>
+      <h3>${escapeHtml(entry.Utility)} (${escapeHtml(entry.State)})</h3>
       <p><strong>Date Range:</strong> ${dateRange}</p>
-      <p><strong>Rate Codes:</strong> ${entry.Rate_Codes.join(', ')}</p>
+      <p><strong>Rate Codes:</strong> ${escapeHtml(rateCodesStr)}</p>
       <p><strong>Months of Data:</strong> ${entry.Months}</p>
     `;
   }
 
   coverageState.addEventListener('change', updateCoverageUtilities);
   coverageSelect.addEventListener('change', showCoverage);
+  updateCoverageUtilities();
 }
 
 // ============================================================
