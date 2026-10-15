@@ -1,20 +1,5 @@
 [
   {
-    "Date": "2026-03-01",
-    "State": "IN",
-    "Utility": "AES Indiana",
-    "Rate_Code": "Res - RS",
-    "Service_Charge": 17,
-    "Energy_Charge": 0.1254,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": -0.0055,
-    "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0265,
-    "Total_Per_kWh": 0.1464,
-    "Case": "45911",
-    "Notes": "TDR 0.004774/kWh; ECR 0.009476/kWh; GPR 0.001800/kWh; DSR 0.006158/kWh; CAR -0.000519/kWh; OSR 0.004121/kWh; RTO 0.000732/kWh"
-  },
-  {
     "Date": "2026-04-01",
     "State": "IN",
     "Utility": "AES Indiana",
@@ -90,19 +75,19 @@
     "Notes": "TDSIC 0.000695/kWh; ECR 0.002113/kWh; GPR 0.001800/kWh; DSM 0.004851/kWh; CAP 0.001396/kWh; OSS 0.004864/kWh; RTO 0.000960/kWh; PRA -0.008550/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Alpena Power Company",
-    "Rate_Code": "Res",
-    "Service_Charge": 5.25,
-    "Energy_Charge": 0.0793,
-    "Distribution_Charge": 0.0854,
-    "Fuel_Charge": 0.0142,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0055,
-    "Total_Per_kWh": 0.1843,
-    "Case": "U-21488",
-    "Notes": "Rate Book #10 eff Jan 2026; LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
+    "Date": "2026-09-01",
+    "State": "IN",
+    "Utility": "AES Indiana",
+    "Rate_Code": "Res - RS",
+    "Service_Charge": 17,
+    "Energy_Charge": 0.15,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": -0.0008,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.0081,
+    "Total_Per_kWh": 0.1573,
+    "Case": "46258",
+    "Notes": "TDSIC 0.000695/kWh; ECR 0.002113/kWh; GPR 0.001800/kWh; DSM 0.004851/kWh; CAP 0.001396/kWh; OSS 0.004864/kWh; RTO 0.000960/kWh; PRA -0.008550/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -117,7 +102,7 @@
     "Surcharges_Per_kWh": 0.0055,
     "Total_Per_kWh": 0.1843,
     "Case": "U-21488",
-    "Notes": "Rate Book #10 eff Jan 2026; LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
+    "Notes": "LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
   },
   {
     "Date": "2026-05-01",
@@ -132,7 +117,7 @@
     "Surcharges_Per_kWh": 0.0055,
     "Total_Per_kWh": 0.1843,
     "Case": "U-21488",
-    "Notes": "Rate Book #10 eff Jan 2026; LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
+    "Notes": "LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
   },
   {
     "Date": "2026-06-01",
@@ -147,7 +132,7 @@
     "Surcharges_Per_kWh": 0.0055,
     "Total_Per_kWh": 0.1781,
     "Case": "U-21488",
-    "Notes": "Rate Book #10 eff Jan 2026; LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
+    "Notes": "LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
   },
   {
     "Date": "2026-07-01",
@@ -162,7 +147,7 @@
     "Surcharges_Per_kWh": 0.0055,
     "Total_Per_kWh": 0.1781,
     "Case": "U-21488",
-    "Notes": "Rate Book #10 eff Jul 2026; LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
+    "Notes": "LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
   },
   {
     "Date": "2026-08-01",
@@ -177,22 +162,22 @@
     "Surcharges_Per_kWh": 0.0055,
     "Total_Per_kWh": 0.1781,
     "Case": "U-21488",
-    "Notes": "Rate Book #10 eff Jul 2026; LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
+    "Notes": "LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "IL",
-    "Utility": "Ameren Illinois",
-    "Rate_Code": "Res - DS1",
-    "Service_Charge": 12.27,
-    "Energy_Charge": 0.0688,
-    "Distribution_Charge": 0.0417,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.8,
-    "Surcharges_Per_kWh": 0.0389,
-    "Total_Per_kWh": 0.1494,
-    "Case": "",
-    "Notes": "TS 0.02629/kWh; EEA 0.0000176/kWh; EUA -0.000990/kWh; CEAC 0.00177/kWh; EE 0.006440/kWh; BEAC 0.80/month; REA 0.00458/kWh; ETAC 0.00084/kWh"
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Alpena Power Company",
+    "Rate_Code": "Res",
+    "Service_Charge": 5.25,
+    "Energy_Charge": 0.0793,
+    "Distribution_Charge": 0.0854,
+    "Fuel_Charge": 0.008,
+    "Surcharges_Monthly": 1.25,
+    "Surcharges_Per_kWh": 0.0055,
+    "Total_Per_kWh": 0.1781,
+    "Case": "U-21488",
+    "Notes": "LI surcharge 1.25/month; EWR surcharge 0.00546/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -270,6 +255,21 @@
     "Notes": "TS 0.02765/kWh; EEA 0.0000711/kWh; EUA 0.000530/kWh; CEAC 0.00175/kWh; EE 0.006440/kWh; BEAC 0.80/month; UCB/POR -0.99/month; REA 0.0047/kWh; ETAC 0.00084/kWh"
   },
   {
+    "Date": "2026-09-01",
+    "State": "IL",
+    "Utility": "Ameren Illinois",
+    "Rate_Code": "Res - DS1",
+    "Service_Charge": 12.27,
+    "Energy_Charge": 0.0801,
+    "Distribution_Charge": 0.0712,
+    "Fuel_Charge": 0,
+    "Surcharges_Monthly": -0.19,
+    "Surcharges_Per_kWh": 0.042,
+    "Total_Per_kWh": 0.1933,
+    "Case": "",
+    "Notes": "TS 0.02765/kWh; EEA 0.0000711/kWh; EUA 0.000530/kWh; CEAC 0.00175/kWh; EE 0.006440/kWh; BEAC 0.80/month; UCB/POR -0.99/month; REA 0.0047/kWh; ETAC 0.00084/kWh"
+  },
+  {
     "Date": "2026-04-01",
     "State": "MO",
     "Utility": "Ameren Missouri",
@@ -540,66 +540,6 @@
     "Notes": "EEIC 0.00331; RESRAM 0.00207; SUR 0.00118"
   },
   {
-    "Date": "2026-03-01",
-    "State": "WV",
-    "Utility": "Appalachian Power Company",
-    "Rate_Code": "Res - RS (>500kWh)",
-    "Service_Charge": 13.44,
-    "Energy_Charge": 0.0919,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0549,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0078,
-    "Total_Per_kWh": 0.1546,
-    "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "WV",
-    "Utility": "Appalachian Power Company",
-    "Rate_Code": "Res - RS (<500kWh)",
-    "Service_Charge": 13.44,
-    "Energy_Charge": 0.1064,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0549,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0078,
-    "Total_Per_kWh": 0.1692,
-    "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "WV",
-    "Utility": "Appalachian Power Company",
-    "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 13.44,
-    "Energy_Charge": 0.0428,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0549,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0053,
-    "Total_Per_kWh": 0.1029,
-    "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "WV",
-    "Utility": "Appalachian Power Company",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 13.44,
-    "Energy_Charge": 0.1637,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0549,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0112,
-    "Total_Per_kWh": 0.2298,
-    "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
-  },
-  {
     "Date": "2026-04-01",
     "State": "WV",
     "Utility": "Appalachian Power Company",
@@ -612,7 +552,7 @@
     "Surcharges_Per_kWh": 0.0078,
     "Total_Per_kWh": 0.1546,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -627,7 +567,7 @@
     "Surcharges_Per_kWh": 0.0078,
     "Total_Per_kWh": 0.1692,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -642,7 +582,7 @@
     "Surcharges_Per_kWh": 0.0053,
     "Total_Per_kWh": 0.1029,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -657,7 +597,7 @@
     "Surcharges_Per_kWh": 0.0112,
     "Total_Per_kWh": 0.2298,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-05-01",
@@ -672,7 +612,7 @@
     "Surcharges_Per_kWh": 0.0078,
     "Total_Per_kWh": 0.1546,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
   },
   {
     "Date": "2026-05-01",
@@ -687,7 +627,7 @@
     "Surcharges_Per_kWh": 0.0078,
     "Total_Per_kWh": 0.1692,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
   },
   {
     "Date": "2026-05-01",
@@ -702,7 +642,7 @@
     "Surcharges_Per_kWh": 0.0053,
     "Total_Per_kWh": 0.1029,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-05-01",
@@ -717,7 +657,7 @@
     "Surcharges_Per_kWh": 0.0112,
     "Total_Per_kWh": 0.2298,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-06-01",
@@ -732,7 +672,7 @@
     "Surcharges_Per_kWh": 0.0078,
     "Total_Per_kWh": 0.1546,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
   },
   {
     "Date": "2026-06-01",
@@ -747,7 +687,7 @@
     "Surcharges_Per_kWh": 0.0078,
     "Total_Per_kWh": 0.1692,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; ENG 0.0000313/kWh"
   },
   {
     "Date": "2026-06-01",
@@ -762,7 +702,7 @@
     "Surcharges_Per_kWh": 0.0053,
     "Total_Per_kWh": 0.1029,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-06-01",
@@ -777,7 +717,7 @@
     "Surcharges_Per_kWh": 0.0112,
     "Total_Per_kWh": 0.2298,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-07-01",
@@ -792,7 +732,7 @@
     "Surcharges_Per_kWh": 0.01,
     "Total_Per_kWh": 0.1607,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
   },
   {
     "Date": "2026-07-01",
@@ -807,7 +747,7 @@
     "Surcharges_Per_kWh": 0.01,
     "Total_Per_kWh": 0.1758,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
   },
   {
     "Date": "2026-07-01",
@@ -822,7 +762,7 @@
     "Surcharges_Per_kWh": 0.0053,
     "Total_Per_kWh": 0.1047,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-07-01",
@@ -837,7 +777,7 @@
     "Surcharges_Per_kWh": 0.0112,
     "Total_Per_kWh": 0.2369,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-08-01",
@@ -852,7 +792,7 @@
     "Surcharges_Per_kWh": 0.01,
     "Total_Per_kWh": 0.1607,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
   },
   {
     "Date": "2026-08-01",
@@ -867,7 +807,7 @@
     "Surcharges_Per_kWh": 0.01,
     "Total_Per_kWh": 0.1758,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
   },
   {
     "Date": "2026-08-01",
@@ -882,7 +822,7 @@
     "Surcharges_Per_kWh": 0.0053,
     "Total_Per_kWh": 0.1047,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-08-01",
@@ -897,7 +837,67 @@
     "Surcharges_Per_kWh": 0.0112,
     "Total_Per_kWh": 0.2369,
     "Case": "2025-00257",
-    "Notes": "ENEC 0.05489/kWh; ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+    "Notes": "ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "WV",
+    "Utility": "Appalachian Power Company",
+    "Rate_Code": "Res - RS (>500kWh)",
+    "Service_Charge": 14.02,
+    "Energy_Charge": 0.0958,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0557,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.01,
+    "Total_Per_kWh": 0.1615,
+    "Case": "2025-00257",
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "WV",
+    "Utility": "Appalachian Power Company",
+    "Rate_Code": "Res - RS (<500kWh)",
+    "Service_Charge": 14.02,
+    "Energy_Charge": 0.111,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0557,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.01,
+    "Total_Per_kWh": 0.1766,
+    "Case": "2025-00257",
+    "Notes": "ECS 0.0030879/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh; Renew 0.0021386/kWh"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "WV",
+    "Utility": "Appalachian Power Company",
+    "Rate_Code": "Res-TOU-Off_Peak",
+    "Service_Charge": 14.02,
+    "Energy_Charge": 0.0446,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0557,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.0053,
+    "Total_Per_kWh": 0.1055,
+    "Case": "2025-00257",
+    "Notes": "ECS 0.00054/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "WV",
+    "Utility": "Appalachian Power Company",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 14.02,
+    "Energy_Charge": 0.1708,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0557,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.0112,
+    "Total_Per_kWh": 0.2377,
+    "Case": "2025-00257",
+    "Notes": "ECS 0.0064966/kWh; EE/DR 0.001826/kWh; CRR 0.0029/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -988,36 +988,6 @@
     "Total_Per_kWh": 0.1776,
     "Case": "",
     "Notes": "ECR 0.00010/kWh; REA 0.00502/kWh; ZEA 0.00195/kWh; DG 0.00062/kWh; EEPP 0.00369/kWh; ETAC 0.00084/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Consumers Energy Company",
-    "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 8,
-    "Energy_Charge": 0.0853,
-    "Distribution_Charge": 0.079,
-    "Fuel_Charge": 0.016,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0134,
-    "Total_Per_kWh": 0.1936,
-    "Case": "U-21585",
-    "Notes": "EE 0.004617/kWh; DR 0.002250/kWh; FCM 0.000243/kWh; DFR 0.001090/kWh; PPS 0.001131/kWh; K12 0.004049/kWh; Mo: LI surcharge 1.25/month"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Consumers Energy Company",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 8,
-    "Energy_Charge": 0.0853,
-    "Distribution_Charge": 0.079,
-    "Fuel_Charge": 0.016,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0134,
-    "Total_Per_kWh": 0.1936,
-    "Case": "U-21585",
-    "Notes": "EE 0.004617/kWh; DR 0.002250/kWh; FCM 0.000243/kWh; DFR 0.001090/kWh; PPS 0.001131/kWh; K12 0.004049/kWh; Mo: LI surcharge 1.25/month"
   },
   {
     "Date": "2026-04-01",
@@ -1170,49 +1140,34 @@
     "Notes": "EE 0.004617/kWh; DR 0.002224/kWh; IRM 0.000699/kWh; FCM 0.000243/kWh; DFR 0.001221/kWh; PPS 0.001156/kWh; K12 0.004049/kWh; Mo: LI surcharge 1.25/month"
   },
   {
-    "Date": "2026-03-01",
+    "Date": "2026-09-01",
     "State": "MI",
-    "Utility": "DTE Electric Company",
-    "Rate_Code": "Res",
-    "Service_Charge": 8.5,
-    "Energy_Charge": 0.0878,
-    "Distribution_Charge": 0.0973,
-    "Fuel_Charge": 0.0188,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0062,
-    "Total_Per_kWh": 0.21,
-    "Case": "U-21860",
-    "Notes": "Nuclear Surcharge 0.00089/kWh; EWRS 0.004488/kWh; Base securitization 0.000799/kWh; LI surcharge 1.25/month"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "DTE Electric Company",
+    "Utility": "Consumers Energy Company",
     "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 8.5,
-    "Energy_Charge": 0.053,
-    "Distribution_Charge": 0.0973,
-    "Fuel_Charge": 0.0188,
+    "Service_Charge": 8,
+    "Energy_Charge": 0.104,
+    "Distribution_Charge": 0.0933,
+    "Fuel_Charge": 0.0146,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0062,
-    "Total_Per_kWh": 0.1752,
-    "Case": "U-21860",
-    "Notes": "Nuclear Surcharge 0.00089/kWh; EWRS 0.004488/kWh; Base securitization 0.000799/kWh; LI surcharge 1.25/month"
+    "Surcharges_Per_kWh": 0.0142,
+    "Total_Per_kWh": 0.2261,
+    "Case": "U-21870",
+    "Notes": "EE 0.004617/kWh; DR 0.002224/kWh; IRM 0.000699/kWh; FCM 0.000243/kWh; DFR 0.001221/kWh; PPS 0.001156/kWh; K12 0.004049/kWh; Mo: LI surcharge 1.25/month"
   },
   {
-    "Date": "2026-03-01",
+    "Date": "2026-09-01",
     "State": "MI",
-    "Utility": "DTE Electric Company",
+    "Utility": "Consumers Energy Company",
     "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 8.5,
-    "Energy_Charge": 0.1369,
-    "Distribution_Charge": 0.0973,
-    "Fuel_Charge": 0.0188,
+    "Service_Charge": 8,
+    "Energy_Charge": 0.1519,
+    "Distribution_Charge": 0.0933,
+    "Fuel_Charge": 0.0146,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0062,
-    "Total_Per_kWh": 0.2591,
-    "Case": "U-21860",
-    "Notes": "Nuclear Surcharge 0.00089/kWh; EWRS 0.004488/kWh; Base securitization 0.000799/kWh; LI surcharge 1.25/month"
+    "Surcharges_Per_kWh": 0.0142,
+    "Total_Per_kWh": 0.274,
+    "Case": "U-21870",
+    "Notes": "EE 0.004617/kWh; DR 0.002224/kWh; IRM 0.000699/kWh; FCM 0.000243/kWh; DFR 0.001221/kWh; PPS 0.001156/kWh; K12 0.004049/kWh; Mo: LI surcharge 1.25/month"
   },
   {
     "Date": "2026-04-01",
@@ -1440,19 +1395,49 @@
     "Notes": "Nuclear Surcharge 0.00089/kWh; EWRS 0.004488/kWh; Base securitization 0.001617/kWh; IRM 0.002762/kWh; LI surcharge 1.25/month"
   },
   {
-    "Date": "2026-03-01",
-    "State": "IN",
-    "Utility": "Duke Energy Indiana",
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "DTE Electric Company",
     "Rate_Code": "Res",
-    "Service_Charge": 13.7,
-    "Energy_Charge": 0.1866,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0061,
-    "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": -0.0033,
-    "Total_Per_kWh": 0.1894,
-    "Case": "46038",
-    "Notes": "ECR -0.003619/kWh; TDI 0.002259/kWh; EE 0.002717/kWh; Credits -0.006040/kWh; RTO 0.001947/kWh; Reliability 0.000496/kWh; Renewable 0.000036/kWh; LC -0.001064/kWh"
+    "Service_Charge": 8.5,
+    "Energy_Charge": 0.0878,
+    "Distribution_Charge": 0.0973,
+    "Fuel_Charge": 0.0188,
+    "Surcharges_Monthly": 1.25,
+    "Surcharges_Per_kWh": 0.0089,
+    "Total_Per_kWh": 0.2127,
+    "Case": "U-21860",
+    "Notes": "Nuclear Surcharge 0.00089/kWh; EWRS 0.004488/kWh; Base securitization 0.000739/kWh; IRM 0.002762/kWh; LI surcharge 1.25/month"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "DTE Electric Company",
+    "Rate_Code": "Res-TOU-Off_Peak",
+    "Service_Charge": 8.5,
+    "Energy_Charge": 0.0546,
+    "Distribution_Charge": 0.0973,
+    "Fuel_Charge": 0.0188,
+    "Surcharges_Monthly": 1.25,
+    "Surcharges_Per_kWh": 0.0098,
+    "Total_Per_kWh": 0.1803,
+    "Case": "U-21860",
+    "Notes": "Nuclear Surcharge 0.00089/kWh; EWRS 0.004488/kWh; Base securitization 0.001617/kWh; IRM 0.002762/kWh; LI surcharge 1.25/month"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "DTE Electric Company",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 8.5,
+    "Energy_Charge": 0.162,
+    "Distribution_Charge": 0.0973,
+    "Fuel_Charge": 0.0188,
+    "Surcharges_Monthly": 1.25,
+    "Surcharges_Per_kWh": 0.0098,
+    "Total_Per_kWh": 0.2878,
+    "Case": "U-21860",
+    "Notes": "Nuclear Surcharge 0.00089/kWh; EWRS 0.004488/kWh; Base securitization 0.001617/kWh; IRM 0.002762/kWh; LI surcharge 1.25/month"
   },
   {
     "Date": "2026-04-01",
@@ -1530,19 +1515,19 @@
     "Notes": "ECR -0.003619/kWh; TDI 0.000929/kWh; EE 0.002717/kWh; Credits -0.006040/kWh; RTO 0.001947/kWh; Reliability 0.000496/kWh; Renewable -0.000040/kWh; LC -0.001064/kWh; GCT 0.002410/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "OH",
-    "Utility": "Duke Energy Ohio",
-    "Rate_Code": "Res - RS",
-    "Service_Charge": 8,
-    "Energy_Charge": 0.1006,
-    "Distribution_Charge": 0.0397,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.58,
-    "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1703,
-    "Case": "21-887-EL-AIR",
-    "Notes": "PF 0.40/mo; DSR -0.08/mo; SGF 0.10/mo; LGR 0.16/mo; OET 0.00465/kWh; USR 0.0011015/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.015510/kWh; RTEP -0.000649/kWh; ETCJA 2.01% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.0005550/kWh"
+    "Date": "2026-09-01",
+    "State": "IN",
+    "Utility": "Duke Energy Indiana",
+    "Rate_Code": "Res",
+    "Service_Charge": 13.7,
+    "Energy_Charge": 0.1866,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0036,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": -0.0023,
+    "Total_Per_kWh": 0.1879,
+    "Case": "46038",
+    "Notes": "ECR -0.003619/kWh; TDI 0.000929/kWh; EE 0.002717/kWh; Credits -0.006040/kWh; RTO 0.001947/kWh; Reliability 0.000496/kWh; Renewable -0.000040/kWh; LC -0.001064/kWh; GCT 0.002410/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -1553,11 +1538,11 @@
     "Energy_Charge": 0.1008,
     "Distribution_Charge": 0.0397,
     "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.58,
-    "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1705,
+    "Surcharges_Monthly": 0.43,
+    "Surcharges_Per_kWh": 0.0265,
+    "Total_Per_kWh": 0.167,
     "Case": "21-887-EL-AIR",
-    "Notes": "PF 0.40/mo; DSR -0.08/mo; SGF 0.10/mo; LGR 0.16/mo; OET 0.00465/kWh; USR 0.0011015/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.015510/kWh; RTEP -0.000649/kWh; ETCJA 2.01% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.0005550/kWh"
+    "Notes": "PF 0.40/mo; DSR 0.03/mo; SGF 0.00/mo; LGR 0.00/mo; OET 0.00465/kWh; USR 0.0011025/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.011644/kWh; RTEP -0.000013/kWh; ETCJA 2.75% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.000555/kWh"
   },
   {
     "Date": "2026-05-01",
@@ -1568,11 +1553,11 @@
     "Energy_Charge": 0.1008,
     "Distribution_Charge": 0.0397,
     "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.58,
-    "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1705,
+    "Surcharges_Monthly": 0.43,
+    "Surcharges_Per_kWh": 0.0265,
+    "Total_Per_kWh": 0.167,
     "Case": "21-887-EL-AIR",
-    "Notes": "PF 0.40/mo; DSR -0.08/mo; SGF 0.10/mo; LGR 0.16/mo; OET 0.00465/kWh; USR 0.0011015/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.015510/kWh; RTEP -0.000649/kWh; ETCJA 2.01% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.0005550/kWh"
+    "Notes": "PF 0.40/mo; DSR 0.03/mo; SGF 0.00/mo; LGR 0.00/mo; OET 0.00465/kWh; USR 0.0011025/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.011644/kWh; RTEP -0.000013/kWh; ETCJA 2.75% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.000555/kWh"
   },
   {
     "Date": "2026-06-01",
@@ -1583,11 +1568,11 @@
     "Energy_Charge": 0.107,
     "Distribution_Charge": 0.0397,
     "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.58,
-    "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1767,
+    "Surcharges_Monthly": 0.9,
+    "Surcharges_Per_kWh": 0.0265,
+    "Total_Per_kWh": 0.1732,
     "Case": "21-887-EL-AIR",
-    "Notes": "PF 0.40/mo; DSR -0.08/mo; SGF 0.10/mo; LGR 0.16/mo; OET 0.00465/kWh; USR 0.0011015/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.015510/kWh; RTEP -0.000649/kWh; ETCJA 2.01% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.0005550/kWh"
+    "Notes": "PF 0.87/mo; DSR 0.03/mo; SGF 0.00/mo; LGR 0.00/mo; OET 0.00465/kWh; USR 0.0011025/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.011644/kWh; RTEP -0.000013/kWh; ETCJA 2.75% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.000555/kWh"
   },
   {
     "Date": "2026-07-01",
@@ -1598,11 +1583,11 @@
     "Energy_Charge": 0.1069,
     "Distribution_Charge": 0.0397,
     "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.58,
-    "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1766,
+    "Surcharges_Monthly": 0.9,
+    "Surcharges_Per_kWh": 0.0324,
+    "Total_Per_kWh": 0.179,
     "Case": "21-887-EL-AIR",
-    "Notes": "PF 0.40/mo; DSR -0.08/mo; SGF 0.10/mo; LGR 0.16/mo; OET 0.00465/kWh; USR 0.0011015/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.015510/kWh; RTEP -0.000649/kWh; ETCJA 2.01% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.0005550/kWh"
+    "Notes": "PF 0.87/mo; DSR 0.03/mo; SGF 0.00/mo; LGR 0.00/mo; OET 0.00465/kWh; USR 0.0011025/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.011644/kWh; RTEP -0.000013/kWh; ETCJA 2.75% (credit); ESRR 2.44% (of dist charges); DCI 18.124% (of dist charges); DR-ECF 0.96% (of dist charges); EE 0.000555/kWh"
   },
   {
     "Date": "2026-08-01",
@@ -1613,11 +1598,26 @@
     "Energy_Charge": 0.1069,
     "Distribution_Charge": 0.0397,
     "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.58,
-    "Surcharges_Per_kWh": 0.03,
-    "Total_Per_kWh": 0.1766,
+    "Surcharges_Monthly": 0.9,
+    "Surcharges_Per_kWh": 0.0324,
+    "Total_Per_kWh": 0.179,
     "Case": "21-887-EL-AIR",
-    "Notes": "PF 0.40/mo; DSR -0.08/mo; SGF 0.10/mo; LGR 0.16/mo; OET 0.00465/kWh; USR 0.0011015/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.015510/kWh; RTEP -0.000649/kWh; ETCJA 2.01% (credit); ESRR 0.78% (of dist charges); DCI 10.020% (of dist charges); DR-ECF 0.12% (of dist charges); EE 0.0005550/kWh"
+    "Notes": "PF 0.87/mo; DSR 0.03/mo; SGF 0.00/mo; LGR 0.00/mo; OET 0.00465/kWh; USR 0.0011025/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.011644/kWh; RTEP -0.000013/kWh; ETCJA 2.75% (credit); ESRR 2.44% (of dist charges); DCI 18.124% (of dist charges); DR-ECF 0.96% (of dist charges); EE 0.000555/kWh"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "OH",
+    "Utility": "Duke Energy Ohio",
+    "Rate_Code": "Res - RS",
+    "Service_Charge": 8,
+    "Energy_Charge": 0.1069,
+    "Distribution_Charge": 0.0397,
+    "Fuel_Charge": 0,
+    "Surcharges_Monthly": 0.9,
+    "Surcharges_Per_kWh": 0.0324,
+    "Total_Per_kWh": 0.179,
+    "Case": "21-887-EL-AIR",
+    "Notes": "PF 0.87/mo; DSR 0.03/mo; SGF 0.00/mo; LGR 0.00/mo; OET 0.00465/kWh; USR 0.0011025/kWh; UE-GEN 0.002146/kWh; UE-ED 0.001869/kWh; BTR 0.011644/kWh; RTEP -0.000013/kWh; ETCJA 2.75% (credit); ESRR 2.44% (of dist charges); DCI 18.124% (of dist charges); DR-ECF 0.96% (of dist charges); EE 0.000555/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -2340,51 +2340,6 @@
     "Notes": "EEC 0.01074/kWh; Adjustor 0.016009/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Indiana Michigan Power Company",
-    "Rate_Code": "Res",
-    "Service_Charge": 7.58,
-    "Energy_Charge": 0.1183,
-    "Distribution_Charge": 0.0459,
-    "Fuel_Charge": 0.0019,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0089,
-    "Total_Per_kWh": 0.175,
-    "Case": "U-21461",
-    "Notes": "Rate realignment surcharge 0.000507/kWh; EWR surcharge 0.00836/kWh; LI surcharge 1.25/month"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Indiana Michigan Power Company",
-    "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 7.58,
-    "Energy_Charge": 0.0322,
-    "Distribution_Charge": 0.0458,
-    "Fuel_Charge": 0.0019,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0089,
-    "Total_Per_kWh": 0.0888,
-    "Case": "U-21461",
-    "Notes": "Rate realignment surcharge 0.000507/kWh; EWR surcharge 0.00836/kWh; LI surcharge 1.25/month"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Indiana Michigan Power Company",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 7.58,
-    "Energy_Charge": 0.2211,
-    "Distribution_Charge": 0.0458,
-    "Fuel_Charge": 0.0019,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0089,
-    "Total_Per_kWh": 0.2777,
-    "Case": "U-21461",
-    "Notes": "Rate realignment surcharge 0.000507/kWh; EWR surcharge 0.00836/kWh; LI surcharge 1.25/month"
-  },
-  {
     "Date": "2026-04-01",
     "State": "MI",
     "Utility": "Indiana Michigan Power Company",
@@ -2610,34 +2565,49 @@
     "Notes": "Rate realignment surcharge 0.000388/kWh; EWR surcharge 0.00836/kWh; LI surcharge 1.25/month"
   },
   {
-    "Date": "2026-03-01",
-    "State": "IA",
-    "Utility": "Interstate Power and Light Company",
-    "Rate_Code": "Res - 400",
-    "Service_Charge": 15.5,
-    "Energy_Charge": 0.0999,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.008,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0528,
-    "Total_Per_kWh": 0.1606,
-    "Case": "",
-    "Notes": "EAC 0.00796; combined adjustment 0.05276"
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Indiana Michigan Power Company",
+    "Rate_Code": "Res",
+    "Service_Charge": 7.58,
+    "Energy_Charge": 0.1183,
+    "Distribution_Charge": 0.0459,
+    "Fuel_Charge": -0.0013,
+    "Surcharges_Monthly": 1.5,
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.1717,
+    "Case": "U-21461",
+    "Notes": "Rate realignment surcharge 0.000388/kWh; EWR surcharge 0.00836/kWh; LIEAF surcharge 1.50/month; PSCR -0.001258/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "IA",
-    "Utility": "Interstate Power and Light Company",
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Indiana Michigan Power Company",
     "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 15.5,
-    "Energy_Charge": 0.0999,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.008,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0427,
-    "Total_Per_kWh": 0.1506,
-    "Case": "",
-    "Notes": "EAC 0.00796; combined adjustment 0.04272"
+    "Service_Charge": 7.58,
+    "Energy_Charge": 0.0322,
+    "Distribution_Charge": 0.0458,
+    "Fuel_Charge": -0.0013,
+    "Surcharges_Monthly": 1.5,
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.0854,
+    "Case": "U-21461",
+    "Notes": "Rate realignment surcharge 0.000388/kWh; EWR surcharge 0.00836/kWh; LIEAF surcharge 1.50/month; PSCR -0.001258/kWh"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Indiana Michigan Power Company",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 7.58,
+    "Energy_Charge": 0.2211,
+    "Distribution_Charge": 0.0458,
+    "Fuel_Charge": -0.0013,
+    "Surcharges_Monthly": 1.5,
+    "Surcharges_Per_kWh": 0.0087,
+    "Total_Per_kWh": 0.2744,
+    "Case": "U-21461",
+    "Notes": "Rate realignment surcharge 0.000388/kWh; EWR surcharge 0.00836/kWh; LIEAF surcharge 1.50/month; PSCR -0.001258/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -2652,7 +2622,7 @@
     "Surcharges_Per_kWh": 0.0633,
     "Total_Per_kWh": 0.1606,
     "Case": "",
-    "Notes": "EAC (0.00254); combined adjustment 0.06326"
+    "Notes": "combined adjustment 0.06326"
   },
   {
     "Date": "2026-04-01",
@@ -2667,7 +2637,7 @@
     "Surcharges_Per_kWh": 0.0532,
     "Total_Per_kWh": 0.1506,
     "Case": "",
-    "Notes": "EAC (0.00254); combined adjustment 0.05322"
+    "Notes": "combined adjustment 0.05322"
   },
   {
     "Date": "2026-05-01",
@@ -2682,7 +2652,7 @@
     "Surcharges_Per_kWh": 0.0707,
     "Total_Per_kWh": 0.1606,
     "Case": "",
-    "Notes": "EAC (0.00994); combined adjustment 0.07066"
+    "Notes": "combined adjustment 0.07066"
   },
   {
     "Date": "2026-05-01",
@@ -2697,7 +2667,7 @@
     "Surcharges_Per_kWh": 0.0606,
     "Total_Per_kWh": 0.1506,
     "Case": "",
-    "Notes": "EAC (0.00994); combined adjustment 0.06062"
+    "Notes": "combined adjustment 0.06062"
   },
   {
     "Date": "2026-06-01",
@@ -2712,7 +2682,7 @@
     "Surcharges_Per_kWh": 0.0641,
     "Total_Per_kWh": 0.1947,
     "Case": "",
-    "Notes": "EAC (0.00334); combined adjustment 0.06406"
+    "Notes": "combined adjustment 0.06406"
   },
   {
     "Date": "2026-06-01",
@@ -2727,7 +2697,7 @@
     "Surcharges_Per_kWh": 0.054,
     "Total_Per_kWh": 0.2734,
     "Case": "",
-    "Notes": "EAC (0.00334); combined adjustment 0.05402"
+    "Notes": "combined adjustment 0.05402"
   },
   {
     "Date": "2026-06-01",
@@ -2742,7 +2712,7 @@
     "Surcharges_Per_kWh": 0.054,
     "Total_Per_kWh": 0.162,
     "Case": "",
-    "Notes": "EAC (0.00334); combined adjustment 0.05402"
+    "Notes": "combined adjustment 0.05402"
   },
   {
     "Date": "2026-07-01",
@@ -2757,7 +2727,7 @@
     "Surcharges_Per_kWh": 0.0542,
     "Total_Per_kWh": 0.1947,
     "Case": "",
-    "Notes": "EAC 0.00656; combined adjustment 0.05416"
+    "Notes": "combined adjustment 0.05416"
   },
   {
     "Date": "2026-07-01",
@@ -2772,7 +2742,7 @@
     "Surcharges_Per_kWh": 0.0441,
     "Total_Per_kWh": 0.2734,
     "Case": "",
-    "Notes": "EAC 0.00656; combined adjustment 0.04412"
+    "Notes": "combined adjustment 0.04412"
   },
   {
     "Date": "2026-07-01",
@@ -2787,7 +2757,7 @@
     "Surcharges_Per_kWh": 0.0441,
     "Total_Per_kWh": 0.162,
     "Case": "",
-    "Notes": "EAC 0.00656; combined adjustment 0.04412"
+    "Notes": "combined adjustment 0.04412"
   },
   {
     "Date": "2026-08-01",
@@ -2802,7 +2772,7 @@
     "Surcharges_Per_kWh": 0.05,
     "Total_Per_kWh": 0.1947,
     "Case": "",
-    "Notes": "EAC 0.01076; combined adjustment 0.04996"
+    "Notes": "combined adjustment 0.04996"
   },
   {
     "Date": "2026-08-01",
@@ -2817,7 +2787,7 @@
     "Surcharges_Per_kWh": 0.0399,
     "Total_Per_kWh": 0.2734,
     "Case": "",
-    "Notes": "EAC 0.01076; combined adjustment 0.03992"
+    "Notes": "combined adjustment 0.03992"
   },
   {
     "Date": "2026-08-01",
@@ -2832,22 +2802,37 @@
     "Surcharges_Per_kWh": 0.0399,
     "Total_Per_kWh": 0.162,
     "Case": "",
-    "Notes": "EAC 0.01076; combined adjustment 0.03992"
+    "Notes": "combined adjustment 0.03992"
   },
   {
-    "Date": "2026-03-01",
-    "State": "KY",
-    "Utility": "Kentucky Utilities Company",
-    "Rate_Code": "Res - RS",
-    "Service_Charge": 17.33,
-    "Energy_Charge": 0.0737,
+    "Date": "2026-09-01",
+    "State": "IA",
+    "Utility": "Interstate Power and Light Company",
+    "Rate_Code": "Res - 400",
+    "Service_Charge": 15.5,
+    "Energy_Charge": 0.0999,
     "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0486,
-    "Surcharges_Monthly": 0.3,
-    "Surcharges_Per_kWh": 0.0012,
-    "Total_Per_kWh": 0.1236,
-    "Case": "2025-00113",
-    "Notes": "FAC 0.012060/kWh; OSS -0.001940/kWh; DSM 0.002100/kWh; ECR -0.94%"
+    "Fuel_Charge": 0.0162,
+    "Surcharges_Monthly": 0,
+    "Surcharges_Per_kWh": 0.0446,
+    "Total_Per_kWh": 0.1606,
+    "Case": "",
+    "Notes": "combined adjustment 0.04456"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "IA",
+    "Utility": "Interstate Power and Light Company",
+    "Rate_Code": "Res-TOU-Off_Peak",
+    "Service_Charge": 15.5,
+    "Energy_Charge": 0.0999,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0162,
+    "Surcharges_Monthly": 0,
+    "Surcharges_Per_kWh": 0.0348,
+    "Total_Per_kWh": 0.1508,
+    "Case": "",
+    "Notes": "combined adjustment 0.03476"
   },
   {
     "Date": "2026-04-01",
@@ -2923,6 +2908,21 @@
     "Total_Per_kWh": 0.1114,
     "Case": "2025-00113",
     "Notes": "FAC -0.001880/kWh; OSS -0.000430/kWh; DSM 0.001540/kWh; ECR -0.11%"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "KY",
+    "Utility": "Kentucky Utilities Company",
+    "Rate_Code": "Res - RS",
+    "Service_Charge": 17.33,
+    "Energy_Charge": 0.0737,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0355,
+    "Surcharges_Monthly": 0.3,
+    "Surcharges_Per_kWh": 0.0007,
+    "Total_Per_kWh": 0.1099,
+    "Case": "2025-00113",
+    "Notes": "FAC -0.001940/kWh; OSS -0.001060/kWh; DSM 0.001540/kWh; ECR -0.96%"
   },
   {
     "Date": "2026-02-01",
@@ -3105,21 +3105,6 @@
     "Notes": "EEC 0.0045/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "KY",
-    "Utility": "Louisville Gas & Electric",
-    "Rate_Code": "Res - RS",
-    "Service_Charge": 14.3,
-    "Energy_Charge": 0.0748,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0495,
-    "Surcharges_Monthly": 0.3,
-    "Surcharges_Per_kWh": 0.0021,
-    "Total_Per_kWh": 0.1264,
-    "Case": "2025-00114",
-    "Notes": "FAC 0.016820/kWh; OSS -0.006190/kWh; DSM 0.001520/kWh; ECR -0.7%; RAR 1.38%"
-  },
-  {
     "Date": "2026-04-01",
     "State": "KY",
     "Utility": "Louisville Gas & Electric",
@@ -3195,19 +3180,19 @@
     "Notes": "FAC 0.001520/kWh; OSS 0.000040/kWh; DSM 0.002060/kWh; ECR -0.47%; RAR 1.2%; PGR 0.25%"
   },
   {
-    "Date": "2026-03-01",
-    "State": "WI",
-    "Utility": "Madison Gas & Electric Company",
-    "Rate_Code": "Res - Rg1",
-    "Service_Charge": 15.29,
-    "Energy_Charge": 0.1218,
-    "Distribution_Charge": 0.0626,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 3.15,
-    "Surcharges_Per_kWh": 0,
-    "Total_Per_kWh": 0.1843,
-    "Case": "571099",
-    "Notes": "Act 141 0.10356/day (~3.15/mo; capped at 3% of bill)"
+    "Date": "2026-09-01",
+    "State": "KY",
+    "Utility": "Louisville Gas & Electric",
+    "Rate_Code": "Res - RS",
+    "Service_Charge": 14.3,
+    "Energy_Charge": 0.0748,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0404,
+    "Surcharges_Monthly": 0.3,
+    "Surcharges_Per_kWh": 0.0016,
+    "Total_Per_kWh": 0.1168,
+    "Case": "2025-00114",
+    "Notes": "FAC 0.001510/kWh; OSS -0.000090/kWh; DSM 0.002060/kWh; ECR -2.03%; RAR 0.94%; PGR 0.63%"
   },
   {
     "Date": "2026-04-01",
@@ -3275,6 +3260,21 @@
     "Utility": "Madison Gas & Electric Company",
     "Rate_Code": "Res - Rg1",
     "Service_Charge": 15.29,
+    "Energy_Charge": 0.1218,
+    "Distribution_Charge": 0.0626,
+    "Fuel_Charge": 0,
+    "Surcharges_Monthly": 3.15,
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1843,
+    "Case": "571099",
+    "Notes": "Act 141 0.10356/day (~3.15/mo; capped at 3% of bill)"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "WI",
+    "Utility": "Madison Gas & Electric Company",
+    "Rate_Code": "Res - Rg1",
+    "Service_Charge": 14.79,
     "Energy_Charge": 0.1218,
     "Distribution_Charge": 0.0626,
     "Fuel_Charge": 0,
@@ -3555,96 +3555,6 @@
     "Notes": "EECR 0.00115; DRCR 0.00069; TCA 0.00356; TERM (0.00292); Remainder 0.00214"
   },
   {
-    "Date": "2026-03-01",
-    "State": "IL",
-    "Utility": "MidAmerican Energy Company",
-    "Rate_Code": "Res - RS",
-    "Service_Charge": 8.97,
-    "Energy_Charge": 0.027,
-    "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0271,
-    "Total_Per_kWh": 0.0815,
-    "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01427/kWh; EECR 0.00187/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "IL",
-    "Utility": "MidAmerican Energy Company",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 8.97,
-    "Energy_Charge": 0.0255,
-    "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0271,
-    "Total_Per_kWh": 0.0799,
-    "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01427/kWh; EECR 0.00187/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "IL",
-    "Utility": "MidAmerican Energy Company",
-    "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 8.97,
-    "Energy_Charge": 0.0209,
-    "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0271,
-    "Total_Per_kWh": 0.0753,
-    "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01427/kWh; EECR 0.00187/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
-  },
-  {
-    "Date": "2026-04-01",
-    "State": "IL",
-    "Utility": "MidAmerican Energy Company",
-    "Rate_Code": "Res - RS",
-    "Service_Charge": 8.97,
-    "Energy_Charge": 0.027,
-    "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0294,
-    "Total_Per_kWh": 0.0837,
-    "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
-  },
-  {
-    "Date": "2026-04-01",
-    "State": "IL",
-    "Utility": "MidAmerican Energy Company",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 8.97,
-    "Energy_Charge": 0.0255,
-    "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0294,
-    "Total_Per_kWh": 0.0822,
-    "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
-  },
-  {
-    "Date": "2026-04-01",
-    "State": "IL",
-    "Utility": "MidAmerican Energy Company",
-    "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 8.97,
-    "Energy_Charge": 0.0209,
-    "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0294,
-    "Total_Per_kWh": 0.0775,
-    "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
-  },
-  {
     "Date": "2026-05-01",
     "State": "IL",
     "Utility": "MidAmerican Energy Company",
@@ -3652,12 +3562,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.027,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0294,
-    "Total_Per_kWh": 0.0837,
+    "Fuel_Charge": 0.0113,
+    "Surcharges_Monthly": 0.71,
+    "Surcharges_Per_kWh": 0.0105,
+    "Total_Per_kWh": 0.0761,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00266/kWh; PEA -0.00725/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.20000/mo"
   },
   {
     "Date": "2026-05-01",
@@ -3667,12 +3577,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.0255,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0294,
-    "Total_Per_kWh": 0.0822,
+    "Fuel_Charge": 0.0113,
+    "Surcharges_Monthly": 0.71,
+    "Surcharges_Per_kWh": 0.0105,
+    "Total_Per_kWh": 0.0746,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00266/kWh; PEA -0.00725/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.20000/mo"
   },
   {
     "Date": "2026-05-01",
@@ -3682,12 +3592,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.0209,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
-    "Surcharges_Monthly": 0.51,
-    "Surcharges_Per_kWh": 0.0294,
-    "Total_Per_kWh": 0.0775,
+    "Fuel_Charge": 0.0113,
+    "Surcharges_Monthly": 0.71,
+    "Surcharges_Per_kWh": 0.0105,
+    "Total_Per_kWh": 0.0699,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00362/kWh; PEA 0.00836/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00266/kWh; PEA -0.00725/kWh; PRE -0.00001/kWh; PZE 0.00016/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.20000/mo"
   },
   {
     "Date": "2026-06-01",
@@ -3697,12 +3607,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.057,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
+    "Fuel_Charge": 0.0086,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0319,
-    "Total_Per_kWh": 0.1162,
+    "Surcharges_Per_kWh": 0.0111,
+    "Total_Per_kWh": 0.1039,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00496/kWh; PEA 0.00836/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00748/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-06-01",
@@ -3712,12 +3622,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.138,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
+    "Fuel_Charge": 0.0086,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0319,
-    "Total_Per_kWh": 0.1972,
+    "Surcharges_Per_kWh": 0.0111,
+    "Total_Per_kWh": 0.185,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00496/kWh; PEA 0.00836/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00748/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-06-01",
@@ -3727,12 +3637,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.0221,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
+    "Fuel_Charge": 0.0086,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0319,
-    "Total_Per_kWh": 0.0813,
+    "Surcharges_Per_kWh": 0.0111,
+    "Total_Per_kWh": 0.069,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00496/kWh; PEA 0.00836/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00748/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-07-01",
@@ -3742,12 +3652,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.057,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
+    "Fuel_Charge": 0.0133,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0319,
-    "Total_Per_kWh": 0.1162,
+    "Surcharges_Per_kWh": 0.0117,
+    "Total_Per_kWh": 0.1092,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00496/kWh; PEA 0.00836/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00692/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-07-01",
@@ -3757,12 +3667,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.138,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
+    "Fuel_Charge": 0.0133,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0319,
-    "Total_Per_kWh": 0.1972,
+    "Surcharges_Per_kWh": 0.0117,
+    "Total_Per_kWh": 0.1903,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00496/kWh; PEA 0.00836/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00692/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-07-01",
@@ -3772,12 +3682,12 @@
     "Service_Charge": 8.97,
     "Energy_Charge": 0.0221,
     "Distribution_Charge": 0.0273,
-    "Fuel_Charge": 0,
+    "Fuel_Charge": 0.0133,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0319,
-    "Total_Per_kWh": 0.0813,
+    "Surcharges_Per_kWh": 0.0117,
+    "Total_Per_kWh": 0.0743,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00496/kWh; PEA 0.00836/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00692/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-08-01",
@@ -3789,10 +3699,10 @@
     "Distribution_Charge": 0.0273,
     "Fuel_Charge": 0.0153,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0051,
-    "Total_Per_kWh": 0.1046,
+    "Surcharges_Per_kWh": 0.0118,
+    "Total_Per_kWh": 0.1113,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE -0.00676/kWh; PEA -0.00676/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00676/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-08-01",
@@ -3804,10 +3714,10 @@
     "Distribution_Charge": 0.0273,
     "Fuel_Charge": 0.0153,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0051,
-    "Total_Per_kWh": 0.1857,
+    "Surcharges_Per_kWh": 0.0118,
+    "Total_Per_kWh": 0.1924,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE -0.00676/kWh; PEA -0.00676/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00676/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-08-01",
@@ -3819,25 +3729,100 @@
     "Distribution_Charge": 0.0273,
     "Fuel_Charge": 0.0153,
     "Surcharges_Monthly": 0.68,
-    "Surcharges_Per_kWh": 0.0051,
-    "Total_Per_kWh": 0.0697,
+    "Surcharges_Per_kWh": 0.0118,
+    "Total_Per_kWh": 0.0765,
     "Case": "Docket No. 14-0066",
-    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE -0.00676/kWh; PEA -0.00676/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; SRPEC 0.00234/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.00676/kWh; PRE 0.00122/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.06000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
-    "Date": "2026-03-01",
-    "State": "MN",
-    "Utility": "Minnesota Power",
-    "Rate_Code": "Res - RC20",
-    "Service_Charge": 9,
-    "Energy_Charge": 0.1077,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0303,
-    "Surcharges_Monthly": 2.41,
-    "Surcharges_Per_kWh": 0.0235,
-    "Total_Per_kWh": 0.1616,
-    "Case": "E015/M-20-850",
-    "Notes": "Solar Combined TCR+CPA 0.012500/kWh; Solar Renewable 0.000280/kWh; Interim 7.115%; Affordability 2.41/mo"
+    "Date": "2026-09-01",
+    "State": "IL",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Code": "Res - RS",
+    "Service_Charge": 8.97,
+    "Energy_Charge": 0.057,
+    "Distribution_Charge": 0.0273,
+    "Fuel_Charge": 0.0173,
+    "Surcharges_Monthly": 0.72,
+    "Surcharges_Per_kWh": 0.0065,
+    "Total_Per_kWh": 0.108,
+    "Case": "Docket No. 14-0066",
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.01199/kWh; PRE 0.00115/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.10000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "IL",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 8.97,
+    "Energy_Charge": 0.138,
+    "Distribution_Charge": 0.0273,
+    "Fuel_Charge": 0.0173,
+    "Surcharges_Monthly": 0.72,
+    "Surcharges_Per_kWh": 0.0065,
+    "Total_Per_kWh": 0.1891,
+    "Case": "Docket No. 14-0066",
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.01199/kWh; PRE 0.00115/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.10000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "IL",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Code": "Res-TOU-Off_Peak",
+    "Service_Charge": 8.97,
+    "Energy_Charge": 0.0221,
+    "Distribution_Charge": 0.0273,
+    "Fuel_Charge": 0.0173,
+    "Surcharges_Monthly": 0.72,
+    "Surcharges_Per_kWh": 0.0065,
+    "Total_Per_kWh": 0.0732,
+    "Case": "Docket No. 14-0066",
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE 0.00234/kWh; PEA -0.01199/kWh; PRE 0.00115/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.10000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+  },
+  {
+    "Date": "2026-10-01",
+    "State": "IL",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Code": "Res - RS",
+    "Service_Charge": 8.97,
+    "Energy_Charge": 0.027,
+    "Distribution_Charge": 0.0273,
+    "Fuel_Charge": 0.0166,
+    "Surcharges_Monthly": 0.72,
+    "Surcharges_Per_kWh": -0.0086,
+    "Total_Per_kWh": 0.0623,
+    "Case": "Docket No. 14-0066",
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE -0.00682/kWh; PEA -0.01799/kWh; PRE 0.00115/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.10000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+  },
+  {
+    "Date": "2026-10-01",
+    "State": "IL",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 8.97,
+    "Energy_Charge": 0.0255,
+    "Distribution_Charge": 0.0273,
+    "Fuel_Charge": 0.0166,
+    "Surcharges_Monthly": 0.72,
+    "Surcharges_Per_kWh": -0.0086,
+    "Total_Per_kWh": 0.0608,
+    "Case": "Docket No. 14-0066",
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE -0.00682/kWh; PEA -0.01799/kWh; PRE 0.00115/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.10000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
+  },
+  {
+    "Date": "2026-10-01",
+    "State": "IL",
+    "Utility": "MidAmerican Energy Company",
+    "Rate_Code": "Res-TOU-Off_Peak",
+    "Service_Charge": 8.97,
+    "Energy_Charge": 0.0209,
+    "Distribution_Charge": 0.0273,
+    "Fuel_Charge": 0.0166,
+    "Surcharges_Monthly": 0.72,
+    "Surcharges_Per_kWh": -0.0086,
+    "Total_Per_kWh": 0.0561,
+    "Case": "Docket No. 14-0066",
+    "Notes": "TS 0.01467/kWh; EECR 0.00138/kWh; PE -0.00682/kWh; PEA -0.01799/kWh; PRE 0.00115/kWh; PZE 0.00013/kWh; STA 0.00330/kWh; TERM -0.00445/kWh; EAA $0.40000/mo; EUA $0.10000/mo; RCA $0.05000/mo; UAE $0.17000/mo"
   },
   {
     "Date": "2026-04-01",
@@ -3915,19 +3900,19 @@
     "Notes": "FPEA 0.03503 (forecast 0.03449 + trueup 0.00054); Combined TCR+CPA 0.012500/kWh; Solar Renewable 0.000280/kWh; Interim 7.115%; Affordability 1.28/mo"
   },
   {
-    "Date": "2026-03-01",
-    "State": "IN",
-    "Utility": "Northern Indiana Public Service Company",
-    "Rate_Code": "Res",
-    "Service_Charge": 14,
-    "Energy_Charge": 0.205,
+    "Date": "2026-09-01",
+    "State": "MN",
+    "Utility": "Minnesota Power",
+    "Rate_Code": "Res - RC20",
+    "Service_Charge": 9,
+    "Energy_Charge": 0.1077,
     "Distribution_Charge": 0,
-    "Fuel_Charge": -0.0057,
-    "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0194,
-    "Total_Per_kWh": 0.2187,
-    "Case": "46104",
-    "Notes": "RTO 0.006396/kWh; RA -0.000751/kWh; DSM 0.004852/kWh; GPR 0.003130/kWh; TDSIC 0.001897/kWh; ECT 0.001755/kWh; GCT 0.002103/kWh"
+    "Fuel_Charge": 0.0368,
+    "Surcharges_Monthly": 1.28,
+    "Surcharges_Per_kWh": 0.024,
+    "Total_Per_kWh": 0.1685,
+    "Case": "E015/M-20-850",
+    "Notes": "FPEA 0.03679 (forecast 0.03628 + trueup 0.00051); Combined TCR+CPA 0.012500/kWh; Solar Renewable 0.000280/kWh; Interim 7.115%; Affordability 1.28/mo"
   },
   {
     "Date": "2026-04-01",
@@ -4005,49 +3990,19 @@
     "Notes": "RTO 0.005215/kWh; RA -0.001308/kWh; DSM 0.004852/kWh; GPR 0.003363/kWh; TDSIC 0.001897/kWh; ECT 0.002102/kWh; GCT 0.002787/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Northern States Power Company",
+    "Date": "2026-09-01",
+    "State": "IN",
+    "Utility": "Northern Indiana Public Service Company",
     "Rate_Code": "Res",
-    "Service_Charge": 9,
-    "Energy_Charge": 0.0942,
-    "Distribution_Charge": 0.0581,
-    "Fuel_Charge": -0.0101,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.151,
-    "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Northern States Power Company",
-    "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 9,
-    "Energy_Charge": 0.042,
-    "Distribution_Charge": 0.0581,
-    "Fuel_Charge": -0.0101,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.0987,
-    "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Northern States Power Company",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 9,
-    "Energy_Charge": 0.1607,
-    "Distribution_Charge": 0.0581,
-    "Fuel_Charge": -0.0101,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.2174,
-    "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Service_Charge": 14,
+    "Energy_Charge": 0.205,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.0189,
+    "Total_Per_kWh": 0.2239,
+    "Case": "46104",
+    "Notes": "RTO 0.005215/kWh; RA -0.001308/kWh; DSM 0.004852/kWh; GPR 0.003363/kWh; TDSIC 0.001897/kWh; ECT 0.002102/kWh; GCT 0.002787/kWh; FAC unverified (FAC 151 not yet filed)"
   },
   {
     "Date": "2026-04-01",
@@ -4059,10 +4014,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.151,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.1502,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-04-01",
@@ -4070,14 +4025,14 @@
     "Utility": "Northern States Power Company",
     "Rate_Code": "Res-TOU-Off_Peak",
     "Service_Charge": 9,
-    "Energy_Charge": 0.042,
+    "Energy_Charge": 0.0402,
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.0987,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.0962,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-04-01",
@@ -4089,10 +4044,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.2174,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.2167,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-05-01",
@@ -4104,10 +4059,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.151,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.1502,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-05-01",
@@ -4115,14 +4070,14 @@
     "Utility": "Northern States Power Company",
     "Rate_Code": "Res-TOU-Off_Peak",
     "Service_Charge": 9,
-    "Energy_Charge": 0.042,
+    "Energy_Charge": 0.0402,
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.0987,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.0962,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-05-01",
@@ -4134,10 +4089,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.2174,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.2167,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-06-01",
@@ -4149,10 +4104,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.151,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.1502,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-06-01",
@@ -4160,14 +4115,14 @@
     "Utility": "Northern States Power Company",
     "Rate_Code": "Res-TOU-Off_Peak",
     "Service_Charge": 9,
-    "Energy_Charge": 0.042,
+    "Energy_Charge": 0.0402,
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.0987,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.0962,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-06-01",
@@ -4179,10 +4134,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.2174,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.2167,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-07-01",
@@ -4194,10 +4149,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.151,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.1502,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-07-01",
@@ -4205,14 +4160,14 @@
     "Utility": "Northern States Power Company",
     "Rate_Code": "Res-TOU-Off_Peak",
     "Service_Charge": 9,
-    "Energy_Charge": 0.042,
+    "Energy_Charge": 0.0402,
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.0987,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.0962,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-07-01",
@@ -4224,10 +4179,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.2174,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.2167,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-08-01",
@@ -4239,10 +4194,10 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.151,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.1502,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-08-01",
@@ -4250,14 +4205,14 @@
     "Utility": "Northern States Power Company",
     "Rate_Code": "Res-TOU-Off_Peak",
     "Service_Charge": 9,
-    "Energy_Charge": 0.042,
+    "Energy_Charge": 0.0402,
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.0987,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.0962,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
     "Date": "2026-08-01",
@@ -4269,55 +4224,55 @@
     "Distribution_Charge": 0.0581,
     "Fuel_Charge": -0.0101,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0087,
-    "Total_Per_kWh": 0.2174,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.2167,
     "Case": "U-21879",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.25/mo"
   },
   {
-    "Date": "2026-03-01",
-    "State": "MN",
+    "Date": "2026-09-01",
+    "State": "MI",
     "Utility": "Northern States Power Company",
-    "Rate_Code": "Res - A01",
-    "Service_Charge": 6,
-    "Energy_Charge": 0.1136,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0168,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0097,
-    "Total_Per_kWh": 0.1401,
-    "Case": "E-002/GR-24-320",
-    "Notes": "CIP 0.001397/kWh; TCR 0.004436/kWh; RDF 0.001097/kWh; RES 0.002739/kWh (2.41%)"
+    "Rate_Code": "Res",
+    "Service_Charge": 9,
+    "Energy_Charge": 0.0942,
+    "Distribution_Charge": 0.0581,
+    "Fuel_Charge": -0.0101,
+    "Surcharges_Monthly": 1.5,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.1502,
+    "Case": "U-21879",
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.50/mo"
   },
   {
-    "Date": "2026-03-01",
-    "State": "MN",
-    "Utility": "Northern States Power Company",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 6,
-    "Energy_Charge": 0.2141,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0168,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0121,
-    "Total_Per_kWh": 0.243,
-    "Case": "E-002/GR-24-320",
-    "Notes": "CIP 0.001397/kWh; TCR 0.004436/kWh; RDF 0.001097/kWh; RES 0.005159/kWh (2.41%)"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MN",
+    "Date": "2026-09-01",
+    "State": "MI",
     "Utility": "Northern States Power Company",
     "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 6,
-    "Energy_Charge": 0.0517,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0168,
-    "Surcharges_Monthly": 0,
-    "Surcharges_Per_kWh": 0.0082,
-    "Total_Per_kWh": 0.0767,
-    "Case": "E-002/GR-24-320",
-    "Notes": "CIP 0.001397/kWh; TCR 0.004436/kWh; RDF 0.001097/kWh; RES 0.001246/kWh (2.41%)"
+    "Service_Charge": 9,
+    "Energy_Charge": 0.0402,
+    "Distribution_Charge": 0.0581,
+    "Fuel_Charge": -0.0101,
+    "Surcharges_Monthly": 1.5,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.0962,
+    "Case": "U-21879",
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.50/mo"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Northern States Power Company",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 9,
+    "Energy_Charge": 0.1607,
+    "Distribution_Charge": 0.0581,
+    "Fuel_Charge": -0.0101,
+    "Surcharges_Monthly": 1.5,
+    "Surcharges_Per_kWh": 0.008,
+    "Total_Per_kWh": 0.2167,
+    "Case": "U-21879",
+    "Notes": "EWR 0.0087/kWh; DOE Settlement Credit -0.00074987/kWh; LIEAF $1.50/mo"
   },
   {
     "Date": "2026-04-01",
@@ -4545,19 +4500,49 @@
     "Notes": "CIP 0.001397/kWh; TCR 0.004436/kWh; RDF 0.001097/kWh; RES 0.001246/kWh (2.41%)"
   },
   {
-    "Date": "2026-03-01",
-    "State": "WI",
+    "Date": "2026-09-01",
+    "State": "MN",
     "Utility": "Northern States Power Company",
-    "Rate_Code": "Res - Rg1",
-    "Service_Charge": 16,
-    "Energy_Charge": 0.1551,
+    "Rate_Code": "Res - A01",
+    "Service_Charge": 6,
+    "Energy_Charge": 0.1307,
     "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0028,
-    "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1602,
-    "Case": "",
-    "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
+    "Fuel_Charge": 0.0245,
+    "Surcharges_Monthly": 0,
+    "Surcharges_Per_kWh": 0.0101,
+    "Total_Per_kWh": 0.1652,
+    "Case": "E-002/GR-24-320",
+    "Notes": "CIP 0.001397/kWh; TCR 0.004436/kWh; RDF 0.001097/kWh; RES 0.003150/kWh (2.41%)"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MN",
+    "Utility": "Northern States Power Company",
+    "Rate_Code": "Res-TOU-Off_Peak",
+    "Service_Charge": 6,
+    "Energy_Charge": 0.0517,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0245,
+    "Surcharges_Monthly": 0,
+    "Surcharges_Per_kWh": 0.0082,
+    "Total_Per_kWh": 0.0844,
+    "Case": "E-002/GR-24-320",
+    "Notes": "CIP 0.001397/kWh; TCR 0.004436/kWh; RDF 0.001097/kWh; RES 0.001246/kWh (2.41%)"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MN",
+    "Utility": "Northern States Power Company",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 6,
+    "Energy_Charge": 0.2141,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0245,
+    "Surcharges_Monthly": 0,
+    "Surcharges_Per_kWh": 0.0121,
+    "Total_Per_kWh": 0.2506,
+    "Case": "E-002/GR-24-320",
+    "Notes": "CIP 0.001397/kWh; TCR 0.004436/kWh; RDF 0.001097/kWh; RES 0.005159/kWh (2.41%)"
   },
   {
     "Date": "2026-04-01",
@@ -4635,19 +4620,19 @@
     "Notes": "ECC 0.00035/kWh; Act 141 0.00191/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "OH",
-    "Utility": "Ohio Edison",
-    "Rate_Code": "Res - RS",
-    "Service_Charge": 6.5,
-    "Energy_Charge": 0.097,
-    "Distribution_Charge": 0.041,
-    "Fuel_Charge": 0.0032,
-    "Surcharges_Monthly": 2.378,
-    "Surcharges_Per_kWh": 0.0412,
-    "Total_Per_kWh": 0.1824,
-    "Case": "24-0468-EL-AIR",
-    "Notes": "NMB 0.028249/kWh; TSA (0.001026/kWh); PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj (0.001026/kWh); Econ Dev 0.000267/kWh; AMI $2.378/mo"
+    "Date": "2026-09-01",
+    "State": "WI",
+    "Utility": "Northern States Power Company",
+    "Rate_Code": "Res - Rg1",
+    "Service_Charge": 16,
+    "Energy_Charge": 0.1551,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0028,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.0023,
+    "Total_Per_kWh": 0.1602,
+    "Case": "4220-UR-127",
+    "Notes": "EAC 0.00284/kWh; ECC 0.00035/kWh; Act 141 0.00191/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -4662,7 +4647,7 @@
     "Surcharges_Per_kWh": 0.0412,
     "Total_Per_kWh": 0.1824,
     "Case": "24-0468-EL-AIR",
-    "Notes": "NMB 0.028249/kWh; TSA (0.001026/kWh); PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj (0.001026/kWh); Econ Dev 0.000267/kWh; AMI $2.378/mo"
+    "Notes": "NMB 0.028249/kWh; TSA -0.001026/kWh; PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj -0.001026/kWh; Econ Dev 0.000267/kWh; AMI $2.378/mo"
   },
   {
     "Date": "2026-05-01",
@@ -4677,7 +4662,7 @@
     "Surcharges_Per_kWh": 0.0412,
     "Total_Per_kWh": 0.1824,
     "Case": "24-0468-EL-AIR",
-    "Notes": "NMB 0.028249/kWh; TSA (0.001026/kWh); PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj (0.001026/kWh); Econ Dev 0.000267/kWh; AMI $2.378/mo"
+    "Notes": "NMB 0.028249/kWh; TSA -0.001026/kWh; PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj -0.001026/kWh; Econ Dev 0.000267/kWh; AMI $2.378/mo"
   },
   {
     "Date": "2026-06-01",
@@ -4692,7 +4677,7 @@
     "Surcharges_Per_kWh": 0.0412,
     "Total_Per_kWh": 0.1937,
     "Case": "24-0468-EL-AIR",
-    "Notes": "NMB 0.028249/kWh; TSA (0.001026/kWh); PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj (0.001026/kWh); Econ Dev 0.000267/kWh; AMI $2.378/mo"
+    "Notes": "NMB 0.028249/kWh; TSA -0.001026/kWh; PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj -0.001026/kWh; Econ Dev 0.000267/kWh; AMI $2.378/mo"
   },
   {
     "Date": "2026-07-01",
@@ -4707,7 +4692,7 @@
     "Surcharges_Per_kWh": 0.0412,
     "Total_Per_kWh": 0.1946,
     "Case": "24-0468-EL-AIR",
-    "Notes": "NMB 0.028249/kWh; TSA (0.001026/kWh); PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj (0.001026/kWh); Econ Dev 0.000247/kWh; AMI $2.273/mo"
+    "Notes": "NMB 0.028249/kWh; TSA -0.001026/kWh; PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj -0.001026/kWh; Econ Dev 0.000247/kWh; AMI $2.273/mo"
   },
   {
     "Date": "2026-08-01",
@@ -4722,22 +4707,22 @@
     "Surcharges_Per_kWh": 0.0412,
     "Total_Per_kWh": 0.1946,
     "Case": "24-0468-EL-AIR",
-    "Notes": "NMB 0.028249/kWh; TSA (0.001026/kWh); PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj (0.001026/kWh); Econ Dev 0.000247/kWh; AMI $2.273/mo"
+    "Notes": "NMB 0.028249/kWh; TSA -0.001026/kWh; PIPP 0.003650/kWh; DCR 0.001176/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj -0.001026/kWh; Econ Dev 0.000247/kWh; AMI $2.273/mo"
   },
   {
-    "Date": "2026-03-01",
+    "Date": "2026-09-01",
     "State": "OH",
-    "Utility": "Ohio Power Company",
+    "Utility": "Ohio Edison",
     "Rate_Code": "Res - RS",
-    "Service_Charge": 10,
-    "Energy_Charge": 0.1065,
-    "Distribution_Charge": 0.0263,
+    "Service_Charge": 6.5,
+    "Energy_Charge": 0.1092,
+    "Distribution_Charge": 0.041,
     "Fuel_Charge": 0,
-    "Surcharges_Monthly": 2.82,
-    "Surcharges_Per_kWh": 0.059,
-    "Total_Per_kWh": 0.1918,
-    "Case": "23-23-EL-SSO",
-    "Notes": "BTCR 0.0353727/kWh; KWH Tax 0.00465/kWh; PIPP 0.0055215/kWh; DIR 23.60370% (of dist charges); ESRR 9.10746% (of dist charges); EDCRR 2.39150% (of dist charges); gridSMART 2.62/mo; Storm Damage 0.20/mo; EE 0.0007387/kWh"
+    "Surcharges_Monthly": 2.273,
+    "Surcharges_Per_kWh": 0.041,
+    "Total_Per_kWh": 0.1912,
+    "Case": "24-0468-EL-AIR",
+    "Notes": "NMB 0.028249/kWh; TSA -0.001026/kWh; PIPP 0.003650/kWh; DCR 0.001046/kWh; GCR 0.007639/kWh; DUN 0.000474/kWh; PUR 0.000005/kWh; NDU 0.000993/kWh; AER 0.000288/kWh; PIR 0.000514/kWh; DRR 0.000009/kWh; Tax Savings Adj -0.001026/kWh; Econ Dev 0.000247/kWh; AMI $2.273/mo"
   },
   {
     "Date": "2026-04-01",
@@ -4815,19 +4800,19 @@
     "Notes": "BTCR 0.0434132/kWh; KWH Tax 0.00465/kWh; PIPP 0.0055215/kWh; DIR 4.08549% (of dist charges); ESRR 5.80236% (of dist charges); EDCRR 1.80190% (of dist charges); gridSMART 2.65/mo; Storm Damage 0.19/mo; EE 0.0004541/kWh; Tax Savings Credit (0.0019060)/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "MN",
-    "Utility": "Otter Tail Power Company",
-    "Rate_Code": "Res",
-    "Service_Charge": 12.81,
-    "Energy_Charge": 0.0728,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0235,
-    "Surcharges_Monthly": 1.35,
-    "Surcharges_Per_kWh": 0.0118,
-    "Total_Per_kWh": 0.1081,
-    "Case": "E017/GR-25-359",
-    "Notes": "EAR 0.02350/kWh; ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00100/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
+    "Date": "2026-09-01",
+    "State": "OH",
+    "Utility": "Ohio Power Company",
+    "Rate_Code": "Res - RS",
+    "Service_Charge": 13.5,
+    "Energy_Charge": 0.1097,
+    "Distribution_Charge": 0.0348,
+    "Fuel_Charge": 0,
+    "Surcharges_Monthly": 2.84,
+    "Surcharges_Per_kWh": 0.0584,
+    "Total_Per_kWh": 0.2029,
+    "Case": "25-392-EL-AIR",
+    "Notes": "BTCR 0.0434364/kWh; KWH Tax 0.00465/kWh; PIPP 0.0055215/kWh; DIR 5.38996% (of dist charges); ESRR 5.80236% (of dist charges); EDCRR 1.80190% (of dist charges); gridSMART 2.65/mo; Storm Damage 0.19/mo; EE 0.0004541/kWh; Tax Savings Credit (0.0019060)/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -4842,7 +4827,7 @@
     "Surcharges_Per_kWh": 0.0142,
     "Total_Per_kWh": 0.1079,
     "Case": "E017/GR-25-359",
-    "Notes": "EAR 0.02093/kWh; ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
+    "Notes": "ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
   },
   {
     "Date": "2026-05-01",
@@ -4857,7 +4842,7 @@
     "Surcharges_Per_kWh": 0.0142,
     "Total_Per_kWh": 0.1107,
     "Case": "E017/GR-25-359",
-    "Notes": "EAR 0.02373/kWh; ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
+    "Notes": "ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
   },
   {
     "Date": "2026-06-01",
@@ -4872,7 +4857,7 @@
     "Surcharges_Per_kWh": 0.0142,
     "Total_Per_kWh": 0.1384,
     "Case": "E017/GR-25-359",
-    "Notes": "EAR 0.02657/kWh; ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
+    "Notes": "ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
   },
   {
     "Date": "2026-07-01",
@@ -4887,7 +4872,7 @@
     "Surcharges_Per_kWh": 0.0142,
     "Total_Per_kWh": 0.1478,
     "Case": "E017/GR-25-359",
-    "Notes": "EAR 0.03593/kWh; ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
+    "Notes": "ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
   },
   {
     "Date": "2026-08-01",
@@ -4902,22 +4887,22 @@
     "Surcharges_Per_kWh": 0.0142,
     "Total_Per_kWh": 0.1441,
     "Case": "E017/GR-25-359",
-    "Notes": "EAR 0.03224/kWh; ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
+    "Notes": "ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
   },
   {
-    "Date": "2026-03-01",
-    "State": "IN",
-    "Utility": "Southern Indiana Gas and Electric Company",
+    "Date": "2026-09-01",
+    "State": "MN",
+    "Utility": "Otter Tail Power Company",
     "Rate_Code": "Res",
-    "Service_Charge": 11,
-    "Energy_Charge": 0.1572,
+    "Service_Charge": 12.81,
+    "Energy_Charge": 0.0976,
     "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0412,
-    "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0106,
-    "Total_Per_kWh": 0.209,
-    "Case": "45990",
-    "Notes": "VPC 0.001692/kWh; DSM 0.004849/kWh; CES 0.002156/kWh; ECA 0.000342/kWh; MCRA 0.000241/kWh; TDS 0.002089/kWh; RCRA 0.007904/kWh; TAR -0.008692/kWh"
+    "Fuel_Charge": 0.0286,
+    "Surcharges_Monthly": 1.35,
+    "Surcharges_Per_kWh": 0.0142,
+    "Total_Per_kWh": 0.1404,
+    "Case": "E017/GR-25-359",
+    "Notes": "ECO 0.00578/kWh; TCR 0.00152/kWh; Renewable 0.00338/kWh; RDM 0.003133/kWh; EITE 0.00038/kWh; EUIC 1.03/mo; Uplift 0.32/mo"
   },
   {
     "Date": "2026-04-01",
@@ -4981,6 +4966,21 @@
   },
   {
     "Date": "2026-08-01",
+    "State": "IN",
+    "Utility": "Southern Indiana Gas and Electric Company",
+    "Rate_Code": "Res",
+    "Service_Charge": 11,
+    "Energy_Charge": 0.1572,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.047,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0.0136,
+    "Total_Per_kWh": 0.2178,
+    "Case": "45990",
+    "Notes": "VPC 0.001692/kWh; DSM 0.004849/kWh; CES 0.001152/kWh; ECA 0.000342/kWh; MCRA 0.000241/kWh; TDS -0.001288/kWh; RCRA 0.007904/kWh; TAR -0.008692/kWh; SCP 0.008330/kWh; SAC -0.000953/kWh"
+  },
+  {
+    "Date": "2026-09-01",
     "State": "IN",
     "Utility": "Southern Indiana Gas and Electric Company",
     "Rate_Code": "Res",
@@ -5173,51 +5173,6 @@
     "Total_Per_kWh": 0.1605,
     "Case": "",
     "Notes": "SUTC 0.00955; EECR 0.00028; DSIM 0.00087"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Upper Michigan Energy Resources",
-    "Rate_Code": "Res",
-    "Service_Charge": 9.61,
-    "Energy_Charge": 0.1125,
-    "Distribution_Charge": 0.0531,
-    "Fuel_Charge": 0.0063,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0032,
-    "Total_Per_kWh": 0.1752,
-    "Case": "U-21541",
-    "Notes": "EWR surcharge 0.00323/kWh; LI surcharge 1.25/month"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Upper Michigan Energy Resources",
-    "Rate_Code": "Res-TOU-Off_Peak",
-    "Service_Charge": 9.61,
-    "Energy_Charge": 0.074,
-    "Distribution_Charge": 0.0531,
-    "Fuel_Charge": 0.0063,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0032,
-    "Total_Per_kWh": 0.1366,
-    "Case": "U-21541",
-    "Notes": "EWR surcharge 0.00323/kWh; LI surcharge 1.25/month"
-  },
-  {
-    "Date": "2026-03-01",
-    "State": "MI",
-    "Utility": "Upper Michigan Energy Resources",
-    "Rate_Code": "Res-TOU-On_Peak",
-    "Service_Charge": 9.61,
-    "Energy_Charge": 0.2356,
-    "Distribution_Charge": 0.0531,
-    "Fuel_Charge": 0.0063,
-    "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0032,
-    "Total_Per_kWh": 0.2983,
-    "Case": "U-21541",
-    "Notes": "EWR surcharge 0.00323/kWh; LI surcharge 1.25/month"
   },
   {
     "Date": "2026-04-01",
@@ -5445,19 +5400,49 @@
     "Notes": "EWR surcharge 0.00323/kWh; LI surcharge 1.25/month"
   },
   {
-    "Date": "2026-03-01",
+    "Date": "2026-09-01",
     "State": "MI",
-    "Utility": "Upper Peninsula Power Company",
+    "Utility": "Upper Michigan Energy Resources",
     "Rate_Code": "Res",
-    "Service_Charge": 15,
-    "Energy_Charge": 0.1357,
-    "Distribution_Charge": 0.0919,
-    "Fuel_Charge": 0.0209,
+    "Service_Charge": 9.61,
+    "Energy_Charge": 0.1125,
+    "Distribution_Charge": 0.0531,
+    "Fuel_Charge": -0.0014,
     "Surcharges_Monthly": 1.25,
-    "Surcharges_Per_kWh": 0.0064,
-    "Total_Per_kWh": 0.2549,
-    "Case": "U-21675",
-    "Notes": "LI surcharge 1.25/month; EWR surcharge 0.0064/kWh"
+    "Surcharges_Per_kWh": 0.0032,
+    "Total_Per_kWh": 0.1675,
+    "Case": "U-21541",
+    "Notes": "EWR surcharge 0.00323/kWh; LI surcharge 1.25/month"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Upper Michigan Energy Resources",
+    "Rate_Code": "Res-TOU-Off_Peak",
+    "Service_Charge": 9.61,
+    "Energy_Charge": 0.074,
+    "Distribution_Charge": 0.0531,
+    "Fuel_Charge": -0.0014,
+    "Surcharges_Monthly": 1.25,
+    "Surcharges_Per_kWh": 0.0032,
+    "Total_Per_kWh": 0.1289,
+    "Case": "U-21541",
+    "Notes": "EWR surcharge 0.00323/kWh; LI surcharge 1.25/month"
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Upper Michigan Energy Resources",
+    "Rate_Code": "Res-TOU-On_Peak",
+    "Service_Charge": 9.61,
+    "Energy_Charge": 0.2356,
+    "Distribution_Charge": 0.0531,
+    "Fuel_Charge": -0.0014,
+    "Surcharges_Monthly": 1.25,
+    "Surcharges_Per_kWh": 0.0032,
+    "Total_Per_kWh": 0.2906,
+    "Case": "U-21541",
+    "Notes": "EWR surcharge 0.00323/kWh; LI surcharge 1.25/month"
   },
   {
     "Date": "2026-04-01",
@@ -5535,19 +5520,19 @@
     "Notes": "LI surcharge 1.25/month; EWR surcharge 0.0064/kWh"
   },
   {
-    "Date": "2026-03-01",
-    "State": "WI",
-    "Utility": "Wisconsin Electric Power Company",
-    "Rate_Code": "Res - Rg1",
+    "Date": "2026-09-01",
+    "State": "MI",
+    "Utility": "Upper Peninsula Power Company",
+    "Rate_Code": "Res",
     "Service_Charge": 15,
-    "Energy_Charge": 0.1934,
-    "Distribution_Charge": 0,
-    "Fuel_Charge": 0.002,
-    "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0005,
-    "Total_Per_kWh": 0.1959,
-    "Case": "",
-    "Notes": "ECC 0.00052/kWh"
+    "Energy_Charge": 0.1357,
+    "Distribution_Charge": 0.0919,
+    "Fuel_Charge": 0.0234,
+    "Surcharges_Monthly": 1.5,
+    "Surcharges_Per_kWh": 0.0064,
+    "Total_Per_kWh": 0.2574,
+    "Case": "U-21675",
+    "Notes": "LI surcharge 1.50/month; EWR surcharge 0.0064/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -5625,19 +5610,19 @@
     "Notes": "ECC 0.00052/kWh"
   },
   {
-    "Date": "2026-03-01",
+    "Date": "2026-09-01",
     "State": "WI",
-    "Utility": "Wisconsin Power & Light Company",
+    "Utility": "Wisconsin Electric Power Company",
     "Rate_Code": "Res - Rg1",
-    "Service_Charge": 16,
-    "Energy_Charge": 0.1701,
+    "Service_Charge": 15,
+    "Energy_Charge": 0.1934,
     "Distribution_Charge": 0,
-    "Fuel_Charge": 0,
+    "Fuel_Charge": 0.002,
     "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0,
-    "Total_Per_kWh": 0.1701,
+    "Surcharges_Per_kWh": 0.0005,
+    "Total_Per_kWh": 0.1959,
     "Case": "",
-    "Notes": ""
+    "Notes": "ECC 0.00052/kWh"
   },
   {
     "Date": "2026-04-01",
@@ -5715,19 +5700,19 @@
     "Notes": ""
   },
   {
-    "Date": "2026-03-01",
+    "Date": "2026-09-01",
     "State": "WI",
-    "Utility": "Wisconsin Public Service Corporation",
+    "Utility": "Wisconsin Power & Light Company",
     "Rate_Code": "Res - Rg1",
-    "Service_Charge": 17.92,
-    "Energy_Charge": 0.148,
+    "Service_Charge": 16,
+    "Energy_Charge": 0.1701,
     "Distribution_Charge": 0,
-    "Fuel_Charge": 0.0011,
+    "Fuel_Charge": 0,
     "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1514,
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1701,
     "Case": "",
-    "Notes": "ECC 0.00041/kWh; Act 141 0.00191/kWh"
+    "Notes": ""
   },
   {
     "Date": "2026-04-01",
@@ -5739,10 +5724,10 @@
     "Distribution_Charge": 0,
     "Fuel_Charge": 0.0011,
     "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1514,
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1491,
     "Case": "",
-    "Notes": "ECC 0.00041/kWh; Act 141 0.00191/kWh"
+    "Notes": ""
   },
   {
     "Date": "2026-05-01",
@@ -5754,10 +5739,10 @@
     "Distribution_Charge": 0,
     "Fuel_Charge": 0.0011,
     "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1514,
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1491,
     "Case": "",
-    "Notes": "ECC 0.00041/kWh; Act 141 0.00191/kWh"
+    "Notes": ""
   },
   {
     "Date": "2026-06-01",
@@ -5769,10 +5754,10 @@
     "Distribution_Charge": 0,
     "Fuel_Charge": 0.0011,
     "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1514,
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1491,
     "Case": "",
-    "Notes": "ECC 0.00041/kWh; Act 141 0.00191/kWh"
+    "Notes": ""
   },
   {
     "Date": "2026-07-01",
@@ -5784,10 +5769,10 @@
     "Distribution_Charge": 0,
     "Fuel_Charge": 0.0011,
     "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1514,
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1491,
     "Case": "",
-    "Notes": "ECC 0.00041/kWh; Act 141 0.00191/kWh"
+    "Notes": ""
   },
   {
     "Date": "2026-08-01",
@@ -5799,9 +5784,24 @@
     "Distribution_Charge": 0,
     "Fuel_Charge": 0.0011,
     "Surcharges_Monthly": "NA",
-    "Surcharges_Per_kWh": 0.0023,
-    "Total_Per_kWh": 0.1514,
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1491,
     "Case": "",
-    "Notes": "ECC 0.00041/kWh; Act 141 0.00191/kWh"
+    "Notes": ""
+  },
+  {
+    "Date": "2026-09-01",
+    "State": "WI",
+    "Utility": "Wisconsin Public Service Corporation",
+    "Rate_Code": "Res - Rg1",
+    "Service_Charge": 17.92,
+    "Energy_Charge": 0.148,
+    "Distribution_Charge": 0,
+    "Fuel_Charge": 0.0011,
+    "Surcharges_Monthly": "NA",
+    "Surcharges_Per_kWh": 0,
+    "Total_Per_kWh": 0.1491,
+    "Case": "",
+    "Notes": ""
   }
 ]
